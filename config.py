@@ -1,16 +1,16 @@
 ﻿# Configuration - MA Catalyst Tracker
-# Sources : communiques de presse (wires), pas de SEC/EDGAR
-# Marches couverts : US + Euronext uniquement
+# Sources : communiques de presse (wires) uniquement
+# Marches couverts : US + Euronext
 
 START_DATE = "2026-01-01"
 
 WIRE_SOURCES = {
     "US": [
-        "https://www.globenewswire.com/rss/industry/9576",  # Biotech
-        "https://www.businesswire.com/portal/site/home/news/industries/",  # a preciser
+        "https://www.globenewswire.com/rss/industry/9576",
+        "https://www.prnewswire.com/rss/health-latest-news/biotechnology-list.rss",
     ],
     "EURONEXT": [
-        "https://www.actusnews.com/rss",  # communiques societes francaises cotees
+        "https://www.actusnews.com/rss",
     ],
 }
 
