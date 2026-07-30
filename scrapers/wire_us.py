@@ -7,6 +7,12 @@ from datetime import datetime, timezone
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from config import WIRE_SOURCES, KEYWORDS, SECTOR_BUCKETS
 
+PRE_FILTERED_SOURCES = [
+    "globenewswire.com/rss/industry/4573",
+    "globenewswire.com/rss/industry/4577",
+    "prnewswire.com/rss/health-latest-news/biotechnology",
+]
+
 def matches_deal_keyword(text):
     text_lower = text.lower()
     return any(kw in text_lower for kw in KEYWORDS)
@@ -18,21 +24,26 @@ def match_sector(text):
             return bucket
     return None
 
+def is_pre_filtered(url):
+    return any(marker in url for marker in PRE_FILTERED_SOURCES)
+
 def scrape_us_wires():
     results = []
     for url in WIRE_SOURCES["US"]:
         feed = feedparser.parse(url)
+        pre_filtered = is_pre_filtered(url)
         for entry in feed.entries:
             title = entry.get("title", "")
             summary = entry.get("summary", "")
             full_text = f"{title} {summary}"
-
             if not matches_deal_keyword(full_text):
                 continue
-            sector = match_sector(full_text)
-            if not sector:
-                continue
-
+            if pre_filtered:
+                sector = match_sector(full_text) or "Other Biotech"
+            else:
+                sector = match_sector(full_text)
+                if not sector:
+                    continue
             results.append({
                 "market": "US",
                 "sector": sector,
@@ -47,4 +58,4 @@ if __name__ == "__main__":
     data = scrape_us_wires()
     print(f"{len(data)} deals matches found")
     for d in data:
-        print(d["title"])
+        print(f"[{d['sector']}] {d['title']}")
