@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -182,7 +182,7 @@ fetch('data/catalysts.json')
   .then(r => r.json())
   .then(data => {
     allDeals = data.deals || [];
-    document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.last_updated || 'unknown') + ' — Source: ' + (data.source || '');
+    document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.last_updated || 'unknown');
     renderSizeFilters();
     renderRows();
   })
