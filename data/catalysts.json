@@ -3,6 +3,18 @@
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
+      "target": "Forte Biosciences",
+      "acquirer": "Argenx",
+      "status": "Public",
+      "date": "27 Jul 2026",
+      "deal_value_usd": 2200000000,
+      "deal_value_text": "~US$2.2B",
+      "premium": "~41%",
+      "therapeutic_area": "Immunology",
+      "ticker": "FBRX",
+      "link": ""
+    },
+    {
       "target": "BioLife Solutions",
       "status": "Public",
       "date": "22 Jul 2026",
@@ -10,7 +22,8 @@
       "deal_value_text": "~US$1.5B",
       "deal_value_usd": 1500000000.0,
       "premium": "Not disclosed",
-      "therapeutic_area": "Cell therapy manufacturing / bioprocessing tools (biopreservation media)"
+      "therapeutic_area": "Cell therapy manufacturing / bioprocessing tools (biopreservation media)",
+      "ticker": null
     },
     {
       "target": "PolyPeptide Group",
@@ -20,7 +33,8 @@
       "deal_value_text": "~CHF 1.46B (~US$1.8B) equity value",
       "deal_value_usd": 1460000000.0,
       "premium": "~40% to the undisturbed 10 April 2026 close (CHF 31.65)",
-      "therapeutic_area": "Peptide CDMO / manufacturing infrastructure (GLP-1 peptide capacity)"
+      "therapeutic_area": "Peptide CDMO / manufacturing infrastructure (GLP-1 peptide capacity)",
+      "ticker": "PPGN.SW"
     },
     {
       "target": "Personalis",
@@ -30,7 +44,8 @@
       "deal_value_text": "~US$1.5B enterprise value",
       "deal_value_usd": 1500000000.0,
       "premium": "~6%",
-      "therapeutic_area": "Diagnostics / precision oncology (molecular residual disease / liquid biopsy)"
+      "therapeutic_area": "Diagnostics / precision oncology (molecular residual disease / liquid biopsy)",
+      "ticker": "PSNL"
     },
     {
       "target": "Kira Pharmaceuticals",
@@ -40,7 +55,8 @@
       "deal_value_text": "Not disclosed (all-stock)",
       "deal_value_usd": null,
       "premium": "Not disclosed",
-      "therapeutic_area": "Immunology / complement / immunologically driven disorders"
+      "therapeutic_area": "Immunology / complement / immunologically driven disorders",
+      "ticker": "KRRA"
     },
     {
       "target": "AtaiBeckley (atai Beckley)",
@@ -50,7 +66,8 @@
       "deal_value_text": "Up to ~US$3.8B",
       "deal_value_usd": 3800000000.0,
       "premium": "Not disclosed",
-      "therapeutic_area": "Neuroscience / Psychiatry / Treatment-resistant depression (psychedelics)"
+      "therapeutic_area": "Neuroscience / Psychiatry / Treatment-resistant depression (psychedelics)",
+      "ticker": "ATAI"
     },
     {
       "target": "Crinetics Pharmaceuticals",
@@ -60,7 +77,8 @@
       "deal_value_text": "~US$10.0B equity value",
       "deal_value_usd": 10000000000.0,
       "premium": "~102% to prior close",
-      "therapeutic_area": "Rare disease / Endocrinology / Endocrine disorders"
+      "therapeutic_area": "Rare disease / Endocrinology / Endocrine disorders",
+      "ticker": "CRNX"
     },
     {
       "target": "Myricx Bio",
@@ -70,7 +88,8 @@
       "deal_value_text": "Up to US$1.5B",
       "deal_value_usd": 1500000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / ADCs / Solid tumors"
+      "therapeutic_area": "Oncology / ADCs / Solid tumors",
+      "ticker": null
     },
     {
       "target": "Memo Therapeutics",
@@ -80,7 +99,8 @@
       "deal_value_text": "Over €700M / ~US$800M",
       "deal_value_usd": 700000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Rare disease / Transplant medicine / Infectious disease"
+      "therapeutic_area": "Rare disease / Transplant medicine / Infectious disease",
+      "ticker": null
     },
     {
       "target": "Theravance Biopharma",
@@ -90,7 +110,8 @@
       "deal_value_text": "US$929M equity value + CVR",
       "deal_value_usd": 929000000.0,
       "premium": "~4% discount to prior close",
-      "therapeutic_area": "Respiratory disease / COPD / Commercial-stage biopharma"
+      "therapeutic_area": "Respiratory disease / COPD / Commercial-stage biopharma",
+      "ticker": "TBPH"
     },
     {
       "target": "Kartos Therapeutics",
@@ -100,7 +121,8 @@
       "deal_value_text": "Up to US$1.75B",
       "deal_value_usd": 1750000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Hematology / Myelofibrosis"
+      "therapeutic_area": "Oncology / Hematology / Myelofibrosis",
+      "ticker": null
     },
     {
       "target": "Bio-Techne",
@@ -110,7 +132,8 @@
       "deal_value_text": "US$11.3B enterprise value",
       "deal_value_usd": 11300000000.0,
       "premium": "~24% to prior close / ~36% to one-month VWAP",
-      "therapeutic_area": "Life-science tools / Diagnostics / Biopharma workflow infrastructure"
+      "therapeutic_area": "Life-science tools / Diagnostics / Biopharma workflow infrastructure",
+      "ticker": "TECH"
     },
     {
       "target": "Apogee Therapeutics",
@@ -120,7 +143,8 @@
       "deal_value_text": "~US$10.9B equity value",
       "deal_value_usd": 10900000000.0,
       "premium": "~49% to prior close",
-      "therapeutic_area": "Immunology / Inflammatory disease / Dermatology / Respiratory"
+      "therapeutic_area": "Immunology / Inflammatory disease / Dermatology / Respiratory",
+      "ticker": "APGE"
     },
     {
       "target": "RayThera",
@@ -130,7 +154,8 @@
       "deal_value_text": "Up to US$1.0B",
       "deal_value_usd": 1000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Immunology / Inflammatory disease"
+      "therapeutic_area": "Immunology / Inflammatory disease",
+      "ticker": null
     },
     {
       "target": "4E Therapeutics",
@@ -140,7 +165,8 @@
       "deal_value_text": "Not disclosed",
       "deal_value_usd": null,
       "premium": "N/A",
-      "therapeutic_area": "Neuroscience / Pain / Non-opioid analgesia"
+      "therapeutic_area": "Neuroscience / Pain / Non-opioid analgesia",
+      "ticker": null
     },
     {
       "target": "Nuvalent",
@@ -150,7 +176,8 @@
       "deal_value_text": "US$10.6B equity value",
       "deal_value_usd": 10600000000.0,
       "premium": "~40% to prior close / ~26% to 30-day VWAP",
-      "therapeutic_area": "Oncology / Precision oncology / Lung cancer"
+      "therapeutic_area": "Oncology / Precision oncology / Lung cancer",
+      "ticker": "NUVL"
     },
     {
       "target": "Vega Therapeutics",
@@ -160,7 +187,8 @@
       "deal_value_text": "Up to US$2.0B",
       "deal_value_usd": 2000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Hematology / Rare disease / Bleeding disorders"
+      "therapeutic_area": "Hematology / Rare disease / Bleeding disorders",
+      "ticker": null
     },
     {
       "target": "Firefly Bio",
@@ -170,7 +198,8 @@
       "deal_value_text": "US$1.0B",
       "deal_value_usd": 1000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Degrader-antibody conjugates / KRAS-driven cancers"
+      "therapeutic_area": "Oncology / Degrader-antibody conjugates / KRAS-driven cancers",
+      "ticker": null
     },
     {
       "target": "Edgewise Therapeutics muscular dystrophy business",
@@ -180,7 +209,8 @@
       "deal_value_text": "Up to US$2.65B",
       "deal_value_usd": 2650000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Rare neurology / Neuromuscular disease / Muscular dystrophy"
+      "therapeutic_area": "Rare neurology / Neuromuscular disease / Muscular dystrophy",
+      "ticker": null
     },
     {
       "target": "Curevo",
@@ -190,7 +220,8 @@
       "deal_value_text": "Up to US$1.5B",
       "deal_value_usd": 1500000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Vaccines / Infectious disease / Shingles"
+      "therapeutic_area": "Vaccines / Infectious disease / Shingles",
+      "ticker": null
     },
     {
       "target": "Vaccine Company, Inc.",
@@ -200,7 +231,8 @@
       "deal_value_text": "Up to US$1.55B",
       "deal_value_usd": 1550000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Vaccines / Infectious disease / Epstein-Barr virus"
+      "therapeutic_area": "Vaccines / Infectious disease / Epstein-Barr virus",
+      "ticker": null
     },
     {
       "target": "LimmaTech Biologics",
@@ -210,7 +242,8 @@
       "deal_value_text": "Up to US$780M",
       "deal_value_usd": 780000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Vaccines / Infectious disease / Bacterial pathogens"
+      "therapeutic_area": "Vaccines / Infectious disease / Bacterial pathogens",
+      "ticker": null
     },
     {
       "target": "Recordati",
@@ -220,7 +253,8 @@
       "deal_value_text": "~€10.7B / ~US$12.4B equity value",
       "deal_value_usd": 10700000000.0,
       "premium": "~12.9% to undisturbed 25 Mar 2026 price",
-      "therapeutic_area": "Specialty pharma / Rare disease / Primary care"
+      "therapeutic_area": "Specialty pharma / Rare disease / Primary care",
+      "ticker": null
     },
     {
       "target": "InnocsAI",
@@ -230,7 +264,8 @@
       "deal_value_text": "~US$320M stock consideration + CVR",
       "deal_value_usd": 320000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Cell therapy / CAR-T"
+      "therapeutic_area": "Oncology / Cell therapy / CAR-T",
+      "ticker": null
     },
     {
       "target": "Engage Biologics",
@@ -240,7 +275,8 @@
       "deal_value_text": "Up to US$202M",
       "deal_value_usd": 202000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Genetic medicine / Non-viral DNA delivery"
+      "therapeutic_area": "Genetic medicine / Non-viral DNA delivery",
+      "ticker": null
     },
     {
       "target": "Catalyst Pharmaceuticals",
@@ -250,7 +286,8 @@
       "deal_value_text": "~US$4.1B equity value",
       "deal_value_usd": 4099999999.9999995,
       "premium": "21% to unaffected close / 28% to 30-day VWAP",
-      "therapeutic_area": "Rare disease / Neurology / Neuromuscular disease"
+      "therapeutic_area": "Rare disease / Neurology / Neuromuscular disease",
+      "ticker": "CPRX"
     },
     {
       "target": "PathAI",
@@ -260,7 +297,8 @@
       "deal_value_text": "Up to ~US$1.05B",
       "deal_value_usd": 1050000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Digital pathology / AI diagnostics / Precision medicine infrastructure"
+      "therapeutic_area": "Digital pathology / AI diagnostics / Precision medicine infrastructure",
+      "ticker": null
     },
     {
       "target": "DeuterOncology",
@@ -270,7 +308,8 @@
       "deal_value_text": "Not disclosed",
       "deal_value_usd": null,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Precision oncology"
+      "therapeutic_area": "Oncology / Precision oncology",
+      "ticker": null
     },
     {
       "target": "Perfuse Therapeutics",
@@ -280,7 +319,8 @@
       "deal_value_text": "Up to US$2.45B",
       "deal_value_usd": 2450000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Ophthalmology / Retinal disease"
+      "therapeutic_area": "Ophthalmology / Retinal disease",
+      "ticker": null
     },
     {
       "target": "Candid Therapeutics",
@@ -290,7 +330,8 @@
       "deal_value_text": "Up to US$2.2B",
       "deal_value_usd": 2200000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Immunology / Autoimmune disease"
+      "therapeutic_area": "Immunology / Autoimmune disease",
+      "ticker": null
     },
     {
       "target": "Esperion Therapeutics",
@@ -300,7 +341,8 @@
       "deal_value_text": "Up to ~US$1.1B equity value",
       "deal_value_usd": 1100000000.0,
       "premium": "58% to prior close",
-      "therapeutic_area": "Cardiovascular / Lipid management"
+      "therapeutic_area": "Cardiovascular / Lipid management",
+      "ticker": "ESPR"
     },
     {
       "target": "KalVista Pharmaceuticals",
@@ -310,7 +352,8 @@
       "deal_value_text": "~US$1.9B",
       "deal_value_usd": 1900000000.0,
       "premium": "~40% to prior close / 36% to 30-day VWAP",
-      "therapeutic_area": "Rare disease / Hereditary angioedema"
+      "therapeutic_area": "Rare disease / Hereditary angioedema",
+      "ticker": "KALV"
     },
     {
       "target": "Emalex Biosciences",
@@ -320,7 +363,8 @@
       "deal_value_text": "Up to US$900M + royalties",
       "deal_value_usd": 900000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Neuroscience / Pediatric Tourette syndrome"
+      "therapeutic_area": "Neuroscience / Pediatric Tourette syndrome",
+      "ticker": null
     },
     {
       "target": "XOMA Royalty",
@@ -330,7 +374,8 @@
       "deal_value_text": "~US$739M",
       "deal_value_usd": 739000000.0,
       "premium": "~14% to 30-day VWAP / ~3% to prior close",
-      "therapeutic_area": "Biopharma royalties / royalty aggregation"
+      "therapeutic_area": "Biopharma royalties / royalty aggregation",
+      "ticker": "XOMA"
     },
     {
       "target": "Ajax Therapeutics",
@@ -340,7 +385,8 @@
       "deal_value_text": "Up to US$2.3B",
       "deal_value_usd": 2300000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Hematology / Myeloproliferative neoplasms"
+      "therapeutic_area": "Hematology / Myeloproliferative neoplasms",
+      "ticker": null
     },
     {
       "target": "Organon",
@@ -350,7 +396,8 @@
       "deal_value_text": "~US$11.75B enterprise value",
       "deal_value_usd": 11750000000.0,
       "premium": "~24% to prior close",
-      "therapeutic_area": "Women's health / Biosimilars / Established brands"
+      "therapeutic_area": "Women's health / Biosimilars / Established brands",
+      "ticker": null
     },
     {
       "target": "Kashiv BioSciences",
@@ -360,7 +407,8 @@
       "deal_value_text": "Up to US$1.1B",
       "deal_value_usd": 1100000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Biosimilars / Biologics manufacturing"
+      "therapeutic_area": "Biosimilars / Biologics manufacturing",
+      "ticker": null
     },
     {
       "target": "Kelonia Therapeutics",
@@ -370,7 +418,8 @@
       "deal_value_text": "Up to US$7.0B",
       "deal_value_usd": 7000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Cell therapy"
+      "therapeutic_area": "Oncology / Cell therapy",
+      "ticker": null
     },
     {
       "target": "Neurona Therapeutics",
@@ -380,7 +429,8 @@
       "deal_value_text": "Up to US$1.15B",
       "deal_value_usd": 1150000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Neurology / Epilepsy / Regenerative medicine"
+      "therapeutic_area": "Neurology / Epilepsy / Regenerative medicine",
+      "ticker": null
     },
     {
       "target": "CrossBridge Bio",
@@ -390,7 +440,8 @@
       "deal_value_text": "Up to US$300M",
       "deal_value_usd": 300000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / ADCs"
+      "therapeutic_area": "Oncology / ADCs",
+      "ticker": null
     },
     {
       "target": "Tubulis",
@@ -400,7 +451,8 @@
       "deal_value_text": "Up to US$5.0B",
       "deal_value_usd": 5000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / ADCs"
+      "therapeutic_area": "Oncology / ADCs",
+      "ticker": null
     },
     {
       "target": "Soleno Therapeutics",
@@ -410,7 +462,8 @@
       "deal_value_text": "~US$2.9B equity value",
       "deal_value_usd": 2900000000.0,
       "premium": "~34% to prior close",
-      "therapeutic_area": "Rare disease / Endocrinology / Metabolic disease"
+      "therapeutic_area": "Rare disease / Endocrinology / Metabolic disease",
+      "ticker": "SLNO"
     },
     {
       "target": "Apellis Pharmaceuticals",
@@ -420,7 +473,8 @@
       "deal_value_text": "~US$5.6B",
       "deal_value_usd": 5600000000.0,
       "premium": "~140% to prior close",
-      "therapeutic_area": "Immunology / Rare disease / Ophthalmology / Nephrology"
+      "therapeutic_area": "Immunology / Rare disease / Ophthalmology / Nephrology",
+      "ticker": "APLS"
     },
     {
       "target": "Centessa Pharmaceuticals",
@@ -430,7 +484,8 @@
       "deal_value_text": "Up to US$7.8B",
       "deal_value_usd": 7800000000.0,
       "premium": "~37.8% to prior close",
-      "therapeutic_area": "Neuroscience / Sleep medicine"
+      "therapeutic_area": "Neuroscience / Sleep medicine",
+      "ticker": "CNTA"
     },
     {
       "target": "Transcend Therapeutics",
@@ -440,7 +495,8 @@
       "deal_value_text": "Up to US$1.225B",
       "deal_value_usd": 1225000000.0,
       "premium": "N/A",
-      "therapeutic_area": "CNS / Neuropsychiatry"
+      "therapeutic_area": "CNS / Neuropsychiatry",
+      "ticker": null
     },
     {
       "target": "Excellergy",
@@ -450,7 +506,8 @@
       "deal_value_text": "Up to US$2.0B",
       "deal_value_usd": 2000000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Immunology / Allergy"
+      "therapeutic_area": "Immunology / Allergy",
+      "ticker": null
     },
     {
       "target": "Terns Pharmaceuticals",
@@ -460,7 +517,8 @@
       "deal_value_text": "~US$6.7B",
       "deal_value_usd": 6700000000.0,
       "premium": "~6% to prior close",
-      "therapeutic_area": "Oncology / Hematology"
+      "therapeutic_area": "Oncology / Hematology",
+      "ticker": "TERN"
     },
     {
       "target": "Ouro Medicines",
@@ -470,7 +528,8 @@
       "deal_value_text": "Up to US$2.18B",
       "deal_value_usd": 2180000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Immunology / Autoimmune disease"
+      "therapeutic_area": "Immunology / Autoimmune disease",
+      "ticker": null
     },
     {
       "target": "Day One Biopharmaceuticals",
@@ -480,7 +539,8 @@
       "deal_value_text": "~US$2.5B equity value",
       "deal_value_usd": 2500000000.0,
       "premium": "68% to prior close / 86% to one-month VWAP",
-      "therapeutic_area": "Oncology / Rare oncology"
+      "therapeutic_area": "Oncology / Rare oncology",
+      "ticker": "DAWN"
     },
     {
       "target": "Corstasis Therapeutics",
@@ -490,7 +550,8 @@
       "deal_value_text": "US$75M upfront + up to US$180M milestones + royalties",
       "deal_value_usd": 75000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Cardiovascular"
+      "therapeutic_area": "Cardiovascular",
+      "ticker": null
     },
     {
       "target": "35Pharma",
@@ -500,7 +561,8 @@
       "deal_value_text": "US$950M cash",
       "deal_value_usd": 950000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Cardiopulmonary / Pulmonary hypertension"
+      "therapeutic_area": "Cardiopulmonary / Pulmonary hypertension",
+      "ticker": null
     },
     {
       "target": "Arcellx",
@@ -510,7 +572,8 @@
       "deal_value_text": "US$7.8B implied equity value",
       "deal_value_usd": 7800000000.0,
       "premium": "68% to 30-day VWAP",
-      "therapeutic_area": "Oncology / Hematology"
+      "therapeutic_area": "Oncology / Hematology",
+      "ticker": "ACLX"
     },
     {
       "target": "Faeth Therapeutics",
@@ -520,7 +583,8 @@
       "deal_value_text": "Not disclosed",
       "deal_value_usd": null,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Tumor metabolism"
+      "therapeutic_area": "Oncology / Tumor metabolism",
+      "ticker": null
     },
     {
       "target": "Orna Therapeutics",
@@ -530,7 +594,8 @@
       "deal_value_text": "Up to US$2.4B",
       "deal_value_usd": 2400000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Autoimmune / Immunology (in vivo cell therapy)"
+      "therapeutic_area": "Autoimmune / Immunology (in vivo cell therapy)",
+      "ticker": null
     },
     {
       "target": "Surf Bio",
@@ -540,7 +605,8 @@
       "deal_value_text": "Up to US$400M",
       "deal_value_usd": 400000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Drug delivery / Formulation platform"
+      "therapeutic_area": "Drug delivery / Formulation platform",
+      "ticker": null
     },
     {
       "target": "RAPT Therapeutics",
@@ -550,7 +616,8 @@
       "deal_value_text": "US$2.2B (US$1.9B net of cash)",
       "deal_value_usd": 2200000000.0,
       "premium": "65% to prior close",
-      "therapeutic_area": "Allergy / Immunology"
+      "therapeutic_area": "Allergy / Immunology",
+      "ticker": "RAPT"
     },
     {
       "target": "Ventyx Biosciences",
@@ -560,7 +627,8 @@
       "deal_value_text": "US$1.2B",
       "deal_value_usd": 1200000000.0,
       "premium": "2% to prior close",
-      "therapeutic_area": "Immunology / Inflammation"
+      "therapeutic_area": "Immunology / Inflammation",
+      "ticker": "VTYX"
     },
     {
       "target": "Dark Blue Therapeutics",
@@ -570,7 +638,8 @@
       "deal_value_text": "Up to US$840M",
       "deal_value_usd": 840000000.0,
       "premium": "N/A",
-      "therapeutic_area": "Oncology / Hematology (AML)"
+      "therapeutic_area": "Oncology / Hematology (AML)",
+      "ticker": null
     }
   ]
 }

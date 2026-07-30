@@ -67,6 +67,7 @@
 <div class="filters">
   <div class="filter-group" id="sizeFilters"></div>
   <input type="text" id="search" placeholder="Search company...">
+  <button class="filter-btn" id="tickerToggle" onclick="toggleTicker()">Show Ticker</button>
   <div class="export-buttons">
     <button class="export-btn" onclick="exportExcel()">Export to Excel</button>
     <button class="export-btn" onclick="exportCalendar()">Export to Calendar</button>
@@ -75,7 +76,7 @@
 
 <table>
   <thead>
-    <tr><th>Date</th><th>Acquirer</th><th>Target</th><th>Value</th><th>Premium</th><th>Therapeutic Area</th></tr>
+    <tr><th>Date</th><th>Acquirer</th><th>Target</th><th id="tickerHeader" style="display:none;">Ticker</th><th>Value</th><th>Premium</th><th>Therapeutic Area</th></tr>
   </thead>
   <tbody id="rows"></tbody>
 </table>
@@ -137,6 +138,13 @@ function getFilteredDeals() {
   });
 }
 
+let showTicker = false;
+function toggleTicker() {
+  showTicker = !showTicker;
+  document.getElementById('tickerHeader').style.display = showTicker ? '' : 'none';
+  document.getElementById('tickerToggle').textContent = showTicker ? 'Hide Ticker' : 'Show Ticker';
+  document.querySelectorAll('.ticker-cell').forEach(el => el.style.display = showTicker ? '' : 'none');
+}
 function renderRows() {
   const filtered = getFilteredDeals();
   document.getElementById('rows').innerHTML = filtered.map(d => `
@@ -144,6 +152,7 @@ function renderRows() {
       <td>${d.date || ''}</td>
       <td>${d.acquirer || ''}</td>
       <td>${d.target || ''}</td>
+      <td class="ticker-cell" style="display:none;">${d.ticker || 'N/A'}</td>
       <td class="${valueClass(d.deal_value_usd)}">${formatValue(d.deal_value_usd)}</td>
       <td>${d.premium || 'N/D'}</td>
       <td><span class="tag">${(d.therapeutic_area||'Other').split('/')[0].trim()}</span></td>
