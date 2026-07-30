@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>M&A Catalyst Tracker 2026</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Segoe UI", Arial, sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    padding: 32px;
+    cursor: crosshair;
+  }
+  h1 { font-size: 24px; margin-bottom: 4px; }
+  .subtitle { color: #8b949e; font-size: 14px; margin-bottom: 24px; }
+
+  .stats { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+  .stat-card {
+    background: #161b22; border: 1px solid #21262d; border-radius: 8px;
+    padding: 16px 20px; min-width: 140px;
+  }
+  .stat-value { font-size: 22px; font-weight: 600; }
+  .stat-label { font-size: 12px; color: #8b949e; margin-top: 4px; }
+
+  .filters {
+    display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; align-items: center;
+  }
+  .filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+  button.filter-btn {
+    background: #21262d; border: 1px solid #30363d; color: #e6edf3;
+    padding: 6px 12px; border-radius: 6px; font-size: 13px; cursor: crosshair;
+  }
+  button.filter-btn.active { background: #1f6feb; border-color: #1f6feb; }
+  input#search {
+    background: #161b22; border: 1px solid #30363d; color: #e6edf3;
+    padding: 6px 12px; border-radius: 6px; font-size: 13px; min-width: 200px;
+  }
+
+  .export-buttons { display: flex; gap: 8px; margin-left: auto; }
+  button.export-btn {
+    background: #238636; border: none; color: white;
+    padding: 6px 14px; border-radius: 6px; font-size: 13px; cursor: crosshair;
+  }
+
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #21262d; font-size: 13px; }
+  th { color: #8b949e; font-weight: 500; font-size: 12px; text-transform: uppercase; }
+  tr:hover { background: #161b22; }
+  .tag {
+    display: inline-block; background: #21262d; border-radius: 4px;
+    padding: 2px 8px; font-size: 11px; margin-right: 4px;
+  }
+  .value-mega { color: #f85149; font-weight: 600; }
+  .value-mid { color: #d29922; font-weight: 600; }
+  .value-small { color: #8b949e; }
+</style>
+</head>
+<body>
+
+<h1>M&A Catalyst Tracker</h1>
+<div class="subtitle" id="lastUpdated">Loading...</div>
+
+<div class="stats" id="statsRow"></div>
+
+<div class="filters">
+  <div class="filter-group" id="sizeFilters"></div>
+  <input type="text" id="search" placeholder="Search company...">
+  <div class="export-buttons">
+    <button class="export-btn" onclick="exportExcel()">Export to Excel</button>
+    <button class="export-btn" onclick="exportCalendar()">Export to Calendar</button>
+  </div>
+</div>
+
+<table>
+  <thead>
+    <tr><th>Date</th><th>Acquirer</th><th>Target</th><th>Value</th><th>Premium</th><th>Therapeutic Area</th></tr>
+  </thead>
+  <tbody id="rows"></tbody>
+</table>
+
+<script>
+let allDeals = [];
+let currentSizeFilter = 'all';
+
+const SIZE_BUCKETS = {
+  mega: v => v >= 5_000_000_000,
+  mid: v => v >= 1_000_000_000 && v < 5_000_000_000,
+  small: v => v < 1_000_000_000,
+};
+
+function formatValue(usd) {
+  if (!usd) return 'N/D';
+  if (usd >= 1e9) return '$' + (usd/1e9).toFixed(2) + 'B';
+  return '$' + (usd/1e6).toFixed(0) + 'M';
+}
+
+function valueClass(usd) {
+  if (!usd) return '';
+  if (usd >= 5_000_000_000) return 'value-mega';
+  if (usd >= 1_000_000_000) return 'value-mid';
+  return 'value-small';
+}
+
+function renderStats(deals) {
+  const total = deals.length;
+  const totalValue = deals.reduce((s,d) => s + (d.deal_value_usd || 0), 0);
+  document.getElementById('statsRow').innerHTML = `
+    <div class="stat-card"><div class="stat-value">${total}</div><div class="stat-label">Deals tracked</div></div>
+    <div class="stat-card"><div class="stat-value">${formatValue(totalValue)}</div><div class="stat-label">Total disclosed value</div></div>
+  `;
+}
+
+function renderSizeFilters() {
+  const buckets = [['all','All'], ['mega','Mega (>$5B)'], ['mid','Mid ($1-5B)'], ['small','Small (<$1B)']];
+  document.getElementById('sizeFilters').innerHTML = buckets.map(([key,label]) =>
+    `<button class="filter-btn ${key===currentSizeFilter?'active':''}" onclick="setSizeFilter('${key}')">${label}</button>`
+  ).join('');
+}
+
+function setSizeFilter(key) {
+  currentSizeFilter = key;
+  renderSizeFilters();
+  renderRows();
+}
+
+function getFilteredDeals() {
+  const search = document.getElementById('search').value.toLowerCase();
+  return allDeals.filter(d => {
+    const matchesSearch = !search ||
+      (d.acquirer||'').toLowerCase().includes(search) ||
+      (d.target||'').toLowerCase().includes(search);
+    const matchesSize = currentSizeFilter === 'all' ||
+      (d.deal_value_usd && SIZE_BUCKETS[currentSizeFilter](d.deal_value_usd));
+    return matchesSearch && matchesSize;
+  });
+}
+
+function renderRows() {
+  const filtered = getFilteredDeals();
+  document.getElementById('rows').innerHTML = filtered.map(d => `
+    <tr>
+      <td>${d.date || ''}</td>
+      <td>${d.acquirer || ''}</td>
+      <td>${d.target || ''}</td>
+      <td class="${valueClass(d.deal_value_usd)}">${formatValue(d.deal_value_usd)}</td>
+      <td>${d.premium || 'N/D'}</td>
+      <td><span class="tag">${(d.therapeutic_area||'Other').split('/')[0].trim()}</span></td>
+    </tr>
+  `).join('');
+  renderStats(filtered);
+}
+
+function exportExcel() {
+  const filtered = getFilteredDeals();
+  const ws = XLSX.utils.json_to_sheet(filtered);
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, "Deals");
+  XLSX.writeFile(wb, "ma_catalyst_export.xlsx");
+}
+
+function exportCalendar() {
+  const filtered = getFilteredDeals();
+  let ics = "BEGIN:VCALENDAR\nVERSION:2.0\n";
+  filtered.forEach(d => {
+    if (!d.date) return;
+    const dateObj = new Date(d.date);
+    if (isNaN(dateObj)) return;
+    const dateStr = dateObj.toISOString().split('T')[0].replace(/-/g,'');
+    ics += `BEGIN:VEVENT\nSUMMARY:${d.acquirer} acquires ${d.target}\nDTSTART;VALUE=DATE:${dateStr}\nDESCRIPTION:${formatValue(d.deal_value_usd)} - ${d.therapeutic_area||''}\nEND:VEVENT\n`;
+  });
+  ics += "END:VCALENDAR";
+  const blob = new Blob([ics], {type: 'text/calendar'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'ma_deals.ics';
+  a.click();
+}
+
+fetch('data/catalysts.json')
+  .then(r => r.json())
+  .then(data => {
+    allDeals = data.deals || [];
+    document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.last_updated || 'unknown') + ' — Source: ' + (data.source || '');
+    renderSizeFilters();
+    renderRows();
+  })
+  .catch(err => {
+    document.getElementById('lastUpdated').textContent = 'Error loading data';
+    console.error(err);
+  });
+
+document.getElementById('search').addEventListener('input', renderRows);
+</script>
+
+</body>
+</html>
