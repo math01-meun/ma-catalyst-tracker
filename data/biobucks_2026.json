@@ -1,0 +1,575 @@
+{
+  "source": "https://www.biobucks.co/biotech-ma-tracker-2026",
+  "deals": [
+    {
+      "target": "BioLife Solutions",
+      "status": "Public",
+      "date": "22 Jul 2026",
+      "acquirer": "Repligen",
+      "deal_value_text": "~US$1.5B",
+      "deal_value_usd": 1500000000.0,
+      "premium": "Not disclosed",
+      "therapeutic_area": "Cell therapy manufacturing / bioprocessing tools (biopreservation media)"
+    },
+    {
+      "target": "PolyPeptide Group",
+      "status": "Public",
+      "date": "20 Jul 2026",
+      "acquirer": "Samsung Biologics",
+      "deal_value_text": "~CHF 1.46B (~US$1.8B) equity value",
+      "deal_value_usd": 1460000000.0,
+      "premium": "~40% to the undisturbed 10 April 2026 close (CHF 31.65)",
+      "therapeutic_area": "Peptide CDMO / manufacturing infrastructure (GLP-1 peptide capacity)"
+    },
+    {
+      "target": "Personalis",
+      "status": "Public",
+      "date": "20 Jul 2026",
+      "acquirer": "Tempus AI",
+      "deal_value_text": "~US$1.5B enterprise value",
+      "deal_value_usd": 1500000000.0,
+      "premium": "~6%",
+      "therapeutic_area": "Diagnostics / precision oncology (molecular residual disease / liquid biopsy)"
+    },
+    {
+      "target": "Kira Pharmaceuticals",
+      "status": "Public",
+      "date": "16 Jul 2026",
+      "acquirer": "Jasper Therapeutics",
+      "deal_value_text": "Not disclosed (all-stock)",
+      "deal_value_usd": null,
+      "premium": "Not disclosed",
+      "therapeutic_area": "Immunology / complement / immunologically driven disorders"
+    },
+    {
+      "target": "AtaiBeckley (atai Beckley)",
+      "status": "Public",
+      "date": "16 Jul 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to ~US$3.8B",
+      "deal_value_usd": 3800000000.0,
+      "premium": "Not disclosed",
+      "therapeutic_area": "Neuroscience / Psychiatry / Treatment-resistant depression (psychedelics)"
+    },
+    {
+      "target": "Crinetics Pharmaceuticals",
+      "status": "Public",
+      "date": "06 Jul 2026",
+      "acquirer": "Vertex Pharmaceuticals",
+      "deal_value_text": "~US$10.0B equity value",
+      "deal_value_usd": 10000000000.0,
+      "premium": "~102% to prior close",
+      "therapeutic_area": "Rare disease / Endocrinology / Endocrine disorders"
+    },
+    {
+      "target": "Myricx Bio",
+      "status": "Private",
+      "date": "06 Jul 2026",
+      "acquirer": "Novartis",
+      "deal_value_text": "Up to US$1.5B",
+      "deal_value_usd": 1500000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / ADCs / Solid tumors"
+    },
+    {
+      "target": "Memo Therapeutics",
+      "status": "Private",
+      "date": "01 Jul 2026",
+      "acquirer": "Ipsen",
+      "deal_value_text": "Over €700M / ~US$800M",
+      "deal_value_usd": 700000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Rare disease / Transplant medicine / Infectious disease"
+    },
+    {
+      "target": "Theravance Biopharma",
+      "status": "Public",
+      "date": "29 Jun 2026",
+      "acquirer": "Zymeworks",
+      "deal_value_text": "US$929M equity value + CVR",
+      "deal_value_usd": 929000000.0,
+      "premium": "~4% discount to prior close",
+      "therapeutic_area": "Respiratory disease / COPD / Commercial-stage biopharma"
+    },
+    {
+      "target": "Kartos Therapeutics",
+      "status": "Private",
+      "date": "29 Jun 2026",
+      "acquirer": "Ipsen",
+      "deal_value_text": "Up to US$1.75B",
+      "deal_value_usd": 1750000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Hematology / Myelofibrosis"
+    },
+    {
+      "target": "Bio-Techne",
+      "status": "Public",
+      "date": "25 Jun 2026",
+      "acquirer": "Merck KGaA, Darmstadt, Germany",
+      "deal_value_text": "US$11.3B enterprise value",
+      "deal_value_usd": 11300000000.0,
+      "premium": "~24% to prior close / ~36% to one-month VWAP",
+      "therapeutic_area": "Life-science tools / Diagnostics / Biopharma workflow infrastructure"
+    },
+    {
+      "target": "Apogee Therapeutics",
+      "status": "Public",
+      "date": "22 Jun 2026",
+      "acquirer": "AbbVie",
+      "deal_value_text": "~US$10.9B equity value",
+      "deal_value_usd": 10900000000.0,
+      "premium": "~49% to prior close",
+      "therapeutic_area": "Immunology / Inflammatory disease / Dermatology / Respiratory"
+    },
+    {
+      "target": "RayThera",
+      "status": "Private",
+      "date": "17 Jun 2026",
+      "acquirer": "Biogen",
+      "deal_value_text": "Up to US$1.0B",
+      "deal_value_usd": 1000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Inflammatory disease"
+    },
+    {
+      "target": "4E Therapeutics",
+      "status": "Private",
+      "date": "16 Jun 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Not disclosed",
+      "deal_value_usd": null,
+      "premium": "N/A",
+      "therapeutic_area": "Neuroscience / Pain / Non-opioid analgesia"
+    },
+    {
+      "target": "Nuvalent",
+      "status": "Public",
+      "date": "09 Jun 2026",
+      "acquirer": "GSK",
+      "deal_value_text": "US$10.6B equity value",
+      "deal_value_usd": 10600000000.0,
+      "premium": "~40% to prior close / ~26% to 30-day VWAP",
+      "therapeutic_area": "Oncology / Precision oncology / Lung cancer"
+    },
+    {
+      "target": "Vega Therapeutics",
+      "status": "Private",
+      "date": "08 Jun 2026",
+      "acquirer": "Incyte",
+      "deal_value_text": "Up to US$2.0B",
+      "deal_value_usd": 2000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Hematology / Rare disease / Bleeding disorders"
+    },
+    {
+      "target": "Firefly Bio",
+      "status": "Private",
+      "date": "08 Jun 2026",
+      "acquirer": "Johnson & Johnson",
+      "deal_value_text": "US$1.0B",
+      "deal_value_usd": 1000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Degrader-antibody conjugates / KRAS-driven cancers"
+    },
+    {
+      "target": "Edgewise Therapeutics muscular dystrophy business",
+      "status": "Private",
+      "date": "01 Jun 2026",
+      "acquirer": "Servier",
+      "deal_value_text": "Up to US$2.65B",
+      "deal_value_usd": 2650000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Rare neurology / Neuromuscular disease / Muscular dystrophy"
+    },
+    {
+      "target": "Curevo",
+      "status": "Private",
+      "date": "26 May 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$1.5B",
+      "deal_value_usd": 1500000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Vaccines / Infectious disease / Shingles"
+    },
+    {
+      "target": "Vaccine Company, Inc.",
+      "status": "Private",
+      "date": "26 May 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$1.55B",
+      "deal_value_usd": 1550000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Vaccines / Infectious disease / Epstein-Barr virus"
+    },
+    {
+      "target": "LimmaTech Biologics",
+      "status": "Private",
+      "date": "26 May 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$780M",
+      "deal_value_usd": 780000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Vaccines / Infectious disease / Bacterial pathogens"
+    },
+    {
+      "target": "Recordati",
+      "status": "Public",
+      "date": "22 May 2026",
+      "acquirer": "CVC / GBL-led consortium",
+      "deal_value_text": "~€10.7B / ~US$12.4B equity value",
+      "deal_value_usd": 10700000000.0,
+      "premium": "~12.9% to undisturbed 25 Mar 2026 price",
+      "therapeutic_area": "Specialty pharma / Rare disease / Primary care"
+    },
+    {
+      "target": "InnocsAI",
+      "status": "Private",
+      "date": "21 May 2026",
+      "acquirer": "Liminatus Pharma",
+      "deal_value_text": "~US$320M stock consideration + CVR",
+      "deal_value_usd": 320000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Cell therapy / CAR-T"
+    },
+    {
+      "target": "Engage Biologics",
+      "status": "Private",
+      "date": "20 May 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$202M",
+      "deal_value_usd": 202000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Genetic medicine / Non-viral DNA delivery"
+    },
+    {
+      "target": "Catalyst Pharmaceuticals",
+      "status": "Public",
+      "date": "07 May 2026",
+      "acquirer": "Angelini Pharma",
+      "deal_value_text": "~US$4.1B equity value",
+      "deal_value_usd": 4099999999.9999995,
+      "premium": "21% to unaffected close / 28% to 30-day VWAP",
+      "therapeutic_area": "Rare disease / Neurology / Neuromuscular disease"
+    },
+    {
+      "target": "PathAI",
+      "status": "Private",
+      "date": "07 May 2026",
+      "acquirer": "Roche",
+      "deal_value_text": "Up to ~US$1.05B",
+      "deal_value_usd": 1050000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Digital pathology / AI diagnostics / Precision medicine infrastructure"
+    },
+    {
+      "target": "DeuterOncology",
+      "status": "Private",
+      "date": "06 May 2026",
+      "acquirer": "Pathos AI",
+      "deal_value_text": "Not disclosed",
+      "deal_value_usd": null,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Precision oncology"
+    },
+    {
+      "target": "Perfuse Therapeutics",
+      "status": "Private",
+      "date": "06 May 2026",
+      "acquirer": "Bayer",
+      "deal_value_text": "Up to US$2.45B",
+      "deal_value_usd": 2450000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Ophthalmology / Retinal disease"
+    },
+    {
+      "target": "Candid Therapeutics",
+      "status": "Private",
+      "date": "03 May 2026",
+      "acquirer": "UCB",
+      "deal_value_text": "Up to US$2.2B",
+      "deal_value_usd": 2200000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease"
+    },
+    {
+      "target": "Esperion Therapeutics",
+      "status": "Public",
+      "date": "01 May 2026",
+      "acquirer": "ARCHIMED",
+      "deal_value_text": "Up to ~US$1.1B equity value",
+      "deal_value_usd": 1100000000.0,
+      "premium": "58% to prior close",
+      "therapeutic_area": "Cardiovascular / Lipid management"
+    },
+    {
+      "target": "KalVista Pharmaceuticals",
+      "status": "Public",
+      "date": "29 Apr 2026",
+      "acquirer": "Chiesi Group",
+      "deal_value_text": "~US$1.9B",
+      "deal_value_usd": 1900000000.0,
+      "premium": "~40% to prior close / 36% to 30-day VWAP",
+      "therapeutic_area": "Rare disease / Hereditary angioedema"
+    },
+    {
+      "target": "Emalex Biosciences",
+      "status": "Private",
+      "date": "29 Apr 2026",
+      "acquirer": "Teva Pharmaceutical Industries",
+      "deal_value_text": "Up to US$900M + royalties",
+      "deal_value_usd": 900000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Neuroscience / Pediatric Tourette syndrome"
+    },
+    {
+      "target": "XOMA Royalty",
+      "status": "Public",
+      "date": "27 Apr 2026",
+      "acquirer": "Ligand Pharmaceuticals",
+      "deal_value_text": "~US$739M",
+      "deal_value_usd": 739000000.0,
+      "premium": "~14% to 30-day VWAP / ~3% to prior close",
+      "therapeutic_area": "Biopharma royalties / royalty aggregation"
+    },
+    {
+      "target": "Ajax Therapeutics",
+      "status": "Private",
+      "date": "27 Apr 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$2.3B",
+      "deal_value_usd": 2300000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Hematology / Myeloproliferative neoplasms"
+    },
+    {
+      "target": "Organon",
+      "status": "Public",
+      "date": "26 Apr 2026",
+      "acquirer": "Sun Pharmaceutical Industries",
+      "deal_value_text": "~US$11.75B enterprise value",
+      "deal_value_usd": 11750000000.0,
+      "premium": "~24% to prior close",
+      "therapeutic_area": "Women's health / Biosimilars / Established brands"
+    },
+    {
+      "target": "Kashiv BioSciences",
+      "status": "Private",
+      "date": "22 Apr 2026",
+      "acquirer": "Amneal Pharmaceuticals",
+      "deal_value_text": "Up to US$1.1B",
+      "deal_value_usd": 1100000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Biosimilars / Biologics manufacturing"
+    },
+    {
+      "target": "Kelonia Therapeutics",
+      "status": "Private",
+      "date": "19 Apr 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$7.0B",
+      "deal_value_usd": 7000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Cell therapy"
+    },
+    {
+      "target": "Neurona Therapeutics",
+      "status": "Private",
+      "date": "17 Apr 2026",
+      "acquirer": "UCB",
+      "deal_value_text": "Up to US$1.15B",
+      "deal_value_usd": 1150000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Neurology / Epilepsy / Regenerative medicine"
+    },
+    {
+      "target": "CrossBridge Bio",
+      "status": "Private",
+      "date": "14 Apr 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$300M",
+      "deal_value_usd": 300000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / ADCs"
+    },
+    {
+      "target": "Tubulis",
+      "status": "Private",
+      "date": "07 Apr 2026",
+      "acquirer": "Gilead Sciences",
+      "deal_value_text": "Up to US$5.0B",
+      "deal_value_usd": 5000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / ADCs"
+    },
+    {
+      "target": "Soleno Therapeutics",
+      "status": "Public",
+      "date": "06 Apr 2026",
+      "acquirer": "Neurocrine Biosciences",
+      "deal_value_text": "~US$2.9B equity value",
+      "deal_value_usd": 2900000000.0,
+      "premium": "~34% to prior close",
+      "therapeutic_area": "Rare disease / Endocrinology / Metabolic disease"
+    },
+    {
+      "target": "Apellis Pharmaceuticals",
+      "status": "Public",
+      "date": "31 Mar 2026",
+      "acquirer": "Biogen",
+      "deal_value_text": "~US$5.6B",
+      "deal_value_usd": 5600000000.0,
+      "premium": "~140% to prior close",
+      "therapeutic_area": "Immunology / Rare disease / Ophthalmology / Nephrology"
+    },
+    {
+      "target": "Centessa Pharmaceuticals",
+      "status": "Public",
+      "date": "31 Mar 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$7.8B",
+      "deal_value_usd": 7800000000.0,
+      "premium": "~37.8% to prior close",
+      "therapeutic_area": "Neuroscience / Sleep medicine"
+    },
+    {
+      "target": "Transcend Therapeutics",
+      "status": "Private",
+      "date": "27 Mar 2026",
+      "acquirer": "Otsuka Pharmaceutical",
+      "deal_value_text": "Up to US$1.225B",
+      "deal_value_usd": 1225000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "CNS / Neuropsychiatry"
+    },
+    {
+      "target": "Excellergy",
+      "status": "Private",
+      "date": "27 Mar 2026",
+      "acquirer": "Novartis",
+      "deal_value_text": "Up to US$2.0B",
+      "deal_value_usd": 2000000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Allergy"
+    },
+    {
+      "target": "Terns Pharmaceuticals",
+      "status": "Public",
+      "date": "25 Mar 2026",
+      "acquirer": "Merck",
+      "deal_value_text": "~US$6.7B",
+      "deal_value_usd": 6700000000.0,
+      "premium": "~6% to prior close",
+      "therapeutic_area": "Oncology / Hematology"
+    },
+    {
+      "target": "Ouro Medicines",
+      "status": "Private",
+      "date": "23 Mar 2026",
+      "acquirer": "Gilead Sciences",
+      "deal_value_text": "Up to US$2.18B",
+      "deal_value_usd": 2180000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease"
+    },
+    {
+      "target": "Day One Biopharmaceuticals",
+      "status": "Public",
+      "date": "06 Mar 2026",
+      "acquirer": "Servier",
+      "deal_value_text": "~US$2.5B equity value",
+      "deal_value_usd": 2500000000.0,
+      "premium": "68% to prior close / 86% to one-month VWAP",
+      "therapeutic_area": "Oncology / Rare oncology"
+    },
+    {
+      "target": "Corstasis Therapeutics",
+      "status": "Private",
+      "date": "03 Mar 2026",
+      "acquirer": "Esperion Therapeutics",
+      "deal_value_text": "US$75M upfront + up to US$180M milestones + royalties",
+      "deal_value_usd": 75000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Cardiovascular"
+    },
+    {
+      "target": "35Pharma",
+      "status": "Private",
+      "date": "25 Feb 2026",
+      "acquirer": "GSK",
+      "deal_value_text": "US$950M cash",
+      "deal_value_usd": 950000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Cardiopulmonary / Pulmonary hypertension"
+    },
+    {
+      "target": "Arcellx",
+      "status": "Public",
+      "date": "23 Feb 2026",
+      "acquirer": "Gilead Sciences",
+      "deal_value_text": "US$7.8B implied equity value",
+      "deal_value_usd": 7800000000.0,
+      "premium": "68% to 30-day VWAP",
+      "therapeutic_area": "Oncology / Hematology"
+    },
+    {
+      "target": "Faeth Therapeutics",
+      "status": "Private",
+      "date": "18 Feb 2026",
+      "acquirer": "Sensei Biotherapeutics",
+      "deal_value_text": "Not disclosed",
+      "deal_value_usd": null,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Tumor metabolism"
+    },
+    {
+      "target": "Orna Therapeutics",
+      "status": "Private",
+      "date": "09 Feb 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "Up to US$2.4B",
+      "deal_value_usd": 2400000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Autoimmune / Immunology (in vivo cell therapy)"
+    },
+    {
+      "target": "Surf Bio",
+      "status": "Private",
+      "date": "28 Jan 2026",
+      "acquirer": "Halozyme Therapeutics",
+      "deal_value_text": "Up to US$400M",
+      "deal_value_usd": 400000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Drug delivery / Formulation platform"
+    },
+    {
+      "target": "RAPT Therapeutics",
+      "status": "Public",
+      "date": "20 Jan 2026",
+      "acquirer": "GSK",
+      "deal_value_text": "US$2.2B (US$1.9B net of cash)",
+      "deal_value_usd": 2200000000.0,
+      "premium": "65% to prior close",
+      "therapeutic_area": "Allergy / Immunology"
+    },
+    {
+      "target": "Ventyx Biosciences",
+      "status": "Public",
+      "date": "07 Jan 2026",
+      "acquirer": "Eli Lilly",
+      "deal_value_text": "US$1.2B",
+      "deal_value_usd": 1200000000.0,
+      "premium": "2% to prior close",
+      "therapeutic_area": "Immunology / Inflammation"
+    },
+    {
+      "target": "Dark Blue Therapeutics",
+      "status": "Private",
+      "date": "06 Jan 2026",
+      "acquirer": "Amgen",
+      "deal_value_text": "Up to US$840M",
+      "deal_value_usd": 840000000.0,
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Hematology (AML)"
+    }
+  ]
+}
