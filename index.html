@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -19,10 +19,11 @@
   .stats { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
   .stat-card {
     background: #161b22; border: 1px solid #21262d; border-radius: 8px;
-    padding: 16px 20px; min-width: 140px;
+    padding: 16px 20px; min-width: 150px;
   }
-  .stat-value { font-size: 22px; font-weight: 600; }
+  .stat-value { font-size: 20px; font-weight: 600; }
   .stat-label { font-size: 12px; color: #8b949e; margin-top: 4px; }
+  .stat-sub { font-size: 11px; color: #6e7681; margin-top: 2px; }
 
   .filters {
     display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; align-items: center;
@@ -52,6 +53,8 @@
     display: inline-block; background: #21262d; border-radius: 4px;
     padding: 2px 8px; font-size: 11px; margin-right: 4px;
   }
+  .status-tag-public { background: #1f6feb33; color: #58a6ff; }
+  .status-tag-private { background: #8b949e33; color: #8b949e; }
   .value-mega { color: #f85149; font-weight: 600; }
   .value-mid { color: #d29922; font-weight: 600; }
   .value-small { color: #8b949e; }
@@ -66,8 +69,9 @@
 
 <div class="filters">
   <div class="filter-group" id="sizeFilters"></div>
-  <input type="text" id="search" placeholder="Search company...">
   <button class="filter-btn" id="tickerToggle" onclick="toggleTicker()">Show Ticker</button>
+  <button class="filter-btn active" id="privateToggle" onclick="togglePrivate()">Show Private Deals</button>
+  <input type="text" id="search" placeholder="Search company...">
   <div class="export-buttons">
     <button class="export-btn" onclick="exportExcel()">Export to Excel</button>
     <button class="export-btn" onclick="exportCalendar()">Export to Calendar</button>
@@ -76,7 +80,11 @@
 
 <table>
   <thead>
-    <tr><th>Date</th><th>Acquirer</th><th>Target</th><th id="tickerHeader" style="display:none;">Ticker</th><th>Value</th><th>Premium</th><th>Therapeutic Area</th></tr>
+    <tr>
+      <th>Date</th><th>Acquirer</th><th>Target</th>
+      <th id="tickerHeader" style="display:none;">Ticker</th>
+      <th>Status</th><th>Value</th><th>Premium</th><th>Therapeutic Area</th>
+    </tr>
   </thead>
   <tbody id="rows"></tbody>
 </table>
@@ -84,6 +92,8 @@
 <script>
 let allDeals = [];
 let currentSizeFilter = 'all';
+let showTicker = false;
+let showPrivate = true;
 
 const SIZE_BUCKETS = {
   mega: v => v >= 5_000_000_000,
@@ -104,12 +114,52 @@ function valueClass(usd) {
   return 'value-small';
 }
 
+function parsePremium(p) {
+  if (!p) return null;
+  const match = String(p).match(/([\d.]+)\s*%/);
+  return match ? parseFloat(match[1]) : null;
+}
+
+function toggleTicker() {
+  showTicker = !showTicker;
+  document.getElementById('tickerHeader').style.display = showTicker ? '' : 'none';
+  document.getElementById('tickerToggle').textContent = showTicker ? 'Hide Ticker' : 'Show Ticker';
+  renderRows();
+}
+
+function togglePrivate() {
+  showPrivate = !showPrivate;
+  const btn = document.getElementById('privateToggle');
+  btn.textContent = showPrivate ? 'Show Private Deals' : 'Hide Private Deals (Public Only)';
+  btn.classList.toggle('active', showPrivate);
+  renderRows();
+}
+
 function renderStats(deals) {
   const total = deals.length;
   const totalValue = deals.reduce((s,d) => s + (d.deal_value_usd || 0), 0);
+
+  const premiums = deals.map(d => parsePremium(d.premium)).filter(p => p !== null);
+  const medianPremium = premiums.length
+    ? [...premiums].sort((a,b) => a-b)[Math.floor(premiums.length/2)]
+    : null;
+
+  const largest = deals.reduce((max, d) =>
+    (d.deal_value_usd || 0) > (max?.deal_value_usd || 0) ? d : max, null);
+
+  const areaCounts = {};
+  deals.forEach(d => {
+    const area = (d.therapeutic_area || 'Other').split('/')[0].trim();
+    areaCounts[area] = (areaCounts[area] || 0) + 1;
+  });
+  const topAreas = Object.entries(areaCounts).sort((a,b) => b[1]-a[1]).slice(0,2);
+
   document.getElementById('statsRow').innerHTML = `
     <div class="stat-card"><div class="stat-value">${total}</div><div class="stat-label">Deals tracked</div></div>
     <div class="stat-card"><div class="stat-value">${formatValue(totalValue)}</div><div class="stat-label">Total disclosed value</div></div>
+    <div class="stat-card"><div class="stat-value">${medianPremium !== null ? medianPremium.toFixed(0)+'%' : 'N/D'}</div><div class="stat-label">Median premium</div></div>
+    <div class="stat-card"><div class="stat-value">${largest ? formatValue(largest.deal_value_usd) : 'N/D'}</div><div class="stat-label">Largest deal</div><div class="stat-sub">${largest ? (largest.acquirer||'') + ' / ' + (largest.target||'') : ''}</div></div>
+    <div class="stat-card"><div class="stat-value">${topAreas.map(a=>a[0]).join(', ') || 'N/D'}</div><div class="stat-label">Top therapeutic areas</div></div>
   `;
 }
 
@@ -134,17 +184,11 @@ function getFilteredDeals() {
       (d.target||'').toLowerCase().includes(search);
     const matchesSize = currentSizeFilter === 'all' ||
       (d.deal_value_usd && SIZE_BUCKETS[currentSizeFilter](d.deal_value_usd));
-    return matchesSearch && matchesSize;
+    const matchesPrivacy = showPrivate || (d.status || '').toLowerCase() !== 'private';
+    return matchesSearch && matchesSize && matchesPrivacy;
   });
 }
 
-let showTicker = false;
-function toggleTicker() {
-  showTicker = !showTicker;
-  document.getElementById('tickerHeader').style.display = showTicker ? '' : 'none';
-  document.getElementById('tickerToggle').textContent = showTicker ? 'Hide Ticker' : 'Show Ticker';
-  document.querySelectorAll('.ticker-cell').forEach(el => el.style.display = showTicker ? '' : 'none');
-}
 function renderRows() {
   const filtered = getFilteredDeals();
   document.getElementById('rows').innerHTML = filtered.map(d => `
@@ -152,12 +196,14 @@ function renderRows() {
       <td>${d.date || ''}</td>
       <td>${d.acquirer || ''}</td>
       <td>${d.target || ''}</td>
-      <td class="ticker-cell" style="display:none;">${d.ticker || 'N/A'}</td>
+      <td class="ticker-cell" style="${showTicker ? '' : 'display:none;'}">${d.ticker || 'N/A'}</td>
+      <td><span class="tag ${(d.status||'').toLowerCase()==='private' ? 'status-tag-private' : 'status-tag-public'}">${d.status || 'N/D'}</span></td>
       <td class="${valueClass(d.deal_value_usd)}">${formatValue(d.deal_value_usd)}</td>
       <td>${d.premium || 'N/D'}</td>
       <td><span class="tag">${(d.therapeutic_area||'Other').split('/')[0].trim()}</span></td>
     </tr>
   `).join('');
+  document.getElementById('tickerHeader').style.display = showTicker ? '' : 'none';
   renderStats(filtered);
 }
 
