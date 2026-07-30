@@ -1,5 +1,5 @@
-# Configuration - MA Catalyst Tracker
-# Sources : communiques de presse (wires) uniquement
+﻿# Configuration - MA Catalyst Tracker
+# Sources : communiques de presse (wires) uniquement, pas de SEC/EDGAR
 # Marches couverts : US + Euronext
 
 START_DATE = "2026-01-01"
@@ -19,6 +19,9 @@ WIRE_SOURCES = {
 KEYWORDS = [
     "acquisition", "to acquire", "acquires", "definitive agreement",
     "merger", "to be acquired", "tender offer", "business combination",
+    "licensing agreement", "license agreement", "exclusive license",
+    "collaboration agreement", "royalty agreement", "strategic partnership",
+    "upfront payment", "milestone payments",
 ]
 
 SECTOR_BUCKETS = {
