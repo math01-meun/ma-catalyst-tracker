@@ -13,16 +13,12 @@ SECTOR_PRE_FILTERED = [
     "globenewswire.com/rss/industry/4577",
     "prnewswire.com/rss/health-latest-news/biotechnology",
 ]
-
-DEAL_PRE_FILTERED = [
-    "globenewswire.com/rss/subjectcode/27",
-]
-
+DEAL_PRE_FILTERED = ["globenewswire.com/rss/subjectcode/27"]
 MIN_DEAL_VALUE = 500_000
+DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "catalysts.json")
 
 def matches_deal_keyword(text):
-    text_lower = text.lower()
-    return any(kw in text_lower for kw in KEYWORDS)
+    return any(kw in text.lower() for kw in KEYWORDS)
 
 def match_sector(text):
     text_lower = text.lower()
@@ -38,21 +34,19 @@ def extract_deal_value(text):
         (r'\$\s?([\d,.]+)\s*B\b', 1_000_000_000),
         (r'\$\s?([\d,.]+)\s*M\b', 1_000_000),
         (r'\$\s?([\d,.]+)\s*K\b', 1_000),
-        (r'\$\s?([\d,.]+)\s*thousand', 1_000),
     ]
     for pattern, multiplier in patterns:
         match = re.search(pattern, text, re.IGNORECASE)
         if match:
-            number = float(match.group(1).replace(',', ''))
-            return number * multiplier
+            return float(match.group(1).replace(',', '')) * multiplier
     return None
 
-def scrape_us_wires():
+def scrape_new_deals():
     results = []
     for url in WIRE_SOURCES["US"]:
         feed = feedparser.parse(url)
-        sector_ok_by_default = any(marker in url for marker in SECTOR_PRE_FILTERED)
-        deal_ok_by_default = any(marker in url for marker in DEAL_PRE_FILTERED)
+        sector_ok_by_default = any(m in url for m in SECTOR_PRE_FILTERED)
+        deal_ok_by_default = any(m in url for m in DEAL_PRE_FILTERED)
 
         for entry in feed.entries:
             title = entry.get("title", "")
@@ -74,19 +68,37 @@ def scrape_us_wires():
                 continue
 
             results.append({
-                "market": "US",
-                "sector": sector,
-                "title": title,
-                "deal_value": deal_value,
+                "target": title,
+                "acquirer": None,
+                "date": entry.get("published", "")[:10] if entry.get("published") else None,
+                "deal_value_usd": deal_value,
+                "therapeutic_area": sector,
                 "link": entry.get("link", ""),
-                "published": entry.get("published", ""),
                 "status": "reported",
             })
     return results
 
+def load_existing():
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    return {"last_updated": None, "deals": []}
+
+def merge_and_save(existing, new_deals):
+    existing_links = {d.get("link") for d in existing["deals"] if d.get("link")}
+    added = 0
+    for d in new_deals:
+        if d["link"] and d["link"] not in existing_links:
+            existing["deals"].append(d)
+            existing_links.add(d["link"])
+            added += 1
+    existing["last_updated"] = datetime.now(timezone.utc).isoformat()
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(existing, f, indent=2, ensure_ascii=False)
+    return added
+
 if __name__ == "__main__":
-    data = scrape_us_wires()
-    print(f"{len(data)} deals matches found")
-    for d in data:
-        value_str = f"${d['deal_value']/1_000_000:.2f}M" if d['deal_value'] else "montant non detecte"
-        print(f"[{d['sector']}] ({value_str}) {d['title']}")
+    existing = load_existing()
+    new_deals = scrape_new_deals()
+    added = merge_and_save(existing, new_deals)
+    print(f"{added} nouveaux deals ajoutes ({len(existing['deals'])} au total)")
