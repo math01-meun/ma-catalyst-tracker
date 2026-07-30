@@ -1,4 +1,4 @@
-﻿# Configuration - MA Catalyst Tracker
+# Configuration - MA Catalyst Tracker
 # Sources : communiques de presse (wires) uniquement, pas de SEC/EDGAR
 # Marches couverts : US + Euronext
 
