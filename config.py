@@ -6,7 +6,9 @@ START_DATE = "2026-01-01"
 
 WIRE_SOURCES = {
     "US": [
-        "https://www.globenewswire.com/rss/industry/9576",
+        "https://www.globenewswire.com/rss/industry/4573-Biotechnology",
+        "https://www.globenewswire.com/rss/industry/4577-Pharmaceuticals",
+        "https://www.globenewswire.com/rss/subjectcode/27-Mergers and Acquisitions",
         "https://www.prnewswire.com/rss/health-latest-news/biotechnology-list.rss",
     ],
     "EURONEXT": [
