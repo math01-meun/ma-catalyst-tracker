@@ -1,4 +1,4 @@
-﻿# Configuration - MA Catalyst Tracker
+# Configuration - MA Catalyst Tracker
 # Sources : communiques de presse (wires) uniquement
 # Marches couverts : US + Euronext
 
@@ -8,7 +8,7 @@ WIRE_SOURCES = {
     "US": [
         "https://www.globenewswire.com/rss/industry/4573-Biotechnology",
         "https://www.globenewswire.com/rss/industry/4577-Pharmaceuticals",
-        "https://www.globenewswire.com/rss/subjectcode/27-Mergers and Acquisitions",
+        "https://www.globenewswire.com/rss/subjectcode/27-Mergers%20and%20Acquisitions",
         "https://www.prnewswire.com/rss/health-latest-news/biotechnology-list.rss",
     ],
     "EURONEXT": [
