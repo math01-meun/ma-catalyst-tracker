@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T12:58:19.136433+00:00",
+  "last_updated": "2026-08-03T16:08:52.977216+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -640,6 +640,33 @@
       "premium": "N/A",
       "therapeutic_area": "Oncology / Hematology (AML)",
       "ticker": null
+    },
+    {
+      "target": "Taysha Gene Therapies and Catalent Expand Strategic Partnership to Include Future Commercial Manufacturing Support of TSHA-102 Gene Therapy for Rett Syndrome",
+      "acquirer": null,
+      "date": "Mon, 03 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/03/3337427/0/en/Taysha-Gene-Therapies-and-Catalent-Expand-Strategic-Partnership-to-Include-Future-Commercial-Manufacturing-Support-of-TSHA-102-Gene-Therapy-for-Rett-Syndrome.html",
+      "status": "reported"
+    },
+    {
+      "target": "Curium Announces Definitive Agreement to Merge with Lantheus",
+      "acquirer": null,
+      "date": "Mon, 03 Au",
+      "deal_value_usd": 8000000000.0,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.globenewswire.com/news-release/2026/08/03/3337413/0/en/Curium-Announces-Definitive-Agreement-to-Merge-with-Lantheus.html",
+      "status": "reported"
+    },
+    {
+      "target": "Curium Announces Definitive Agreement to Merge with Lantheus",
+      "acquirer": null,
+      "date": "Mon, 03 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.globenewswire.com/news-release/2026/08/03/3337411/0/en/Curium-Announces-Definitive-Agreement-to-Merge-with-Lantheus.html",
+      "status": "reported"
     }
   ]
 }
