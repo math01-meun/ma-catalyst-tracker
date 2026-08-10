@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T16:08:52.977216+00:00",
+  "last_updated": "2026-08-10T10:50:25.216316+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -666,6 +666,24 @@
       "deal_value_usd": null,
       "therapeutic_area": "Oncology",
       "link": "https://www.globenewswire.com/news-release/2026/08/03/3337411/0/en/Curium-Announces-Definitive-Agreement-to-Merge-with-Lantheus.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sobi enters strategic partnership with Innate Pharma to license lacutamab in T-cell lymphoma",
+      "acquirer": null,
+      "date": "Mon, 10 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/sobi-enters-strategic-partnership-with-innate-pharma-to-license-lacutamab-in-t-cell-lymphoma-302846940.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sobi enters strategic partnership with Innate Pharma to license lacutamab in T-cell lymphoma",
+      "acquirer": null,
+      "date": "Mon, 10 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/sobi-enters-strategic-partnership-with-innate-pharma-to-license-lacutamab-in-t-cell-lymphoma-302846936.html",
       "status": "reported"
     }
   ]
