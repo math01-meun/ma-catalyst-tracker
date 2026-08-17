@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T10:50:25.216316+00:00",
+  "last_updated": "2026-08-17T09:11:15.353216+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -684,6 +684,33 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/sobi-enters-strategic-partnership-with-innate-pharma-to-license-lacutamab-in-t-cell-lymphoma-302846936.html",
+      "status": "reported"
+    },
+    {
+      "target": "Jasper Therapeutics Reports Second Quarter 2026 Financial Results and Provides Corporate Update",
+      "acquirer": null,
+      "date": "Fri, 14 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/14/3345490/0/en/jasper-therapeutics-reports-second-quarter-2026-financial-results-and-provides-corporate-update.html",
+      "status": "reported"
+    },
+    {
+      "target": "Quince Therapeutics Reports Second Quarter 2026 Financial Results and Corporate Update",
+      "acquirer": null,
+      "date": "Fri, 14 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/14/3345285/0/en/quince-therapeutics-reports-second-quarter-2026-financial-results-and-corporate-update.html",
+      "status": "reported"
+    },
+    {
+      "target": "Strata Biotech Labs, LLC Earns NSF/ANSI 455-2 Dietary Supplement GMP Certification",
+      "acquirer": null,
+      "date": "Fri, 14 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/14/3345496/0/en/strata-biotech-labs-llc-earns-nsf-ansi-455-2-dietary-supplement-gmp-certification.html",
       "status": "reported"
     }
   ]
