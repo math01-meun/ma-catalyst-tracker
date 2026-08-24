@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T09:11:15.353216+00:00",
+  "last_updated": "2026-08-24T09:30:31.527534+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -711,6 +711,60 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/08/14/3345496/0/en/strata-biotech-labs-llc-earns-nsf-ansi-455-2-dietary-supplement-gmp-certification.html",
+      "status": "reported"
+    },
+    {
+      "target": "Werewolf Therapeutics and Ambros Therapeutics Announce Merger Agreement and Concurrent Oversubscribed $150 Million Private Placement",
+      "acquirer": null,
+      "date": "Fri, 21 Au",
+      "deal_value_usd": 150000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/21/3349041/0/en/werewolf-therapeutics-and-ambros-therapeutics-announce-merger-agreement-and-concurrent-oversubscribed-150-million-private-placement.html",
+      "status": "reported"
+    },
+    {
+      "target": "Arbutus Announces Intent to Repurchase Up to US$230 Million of its Common Shares Through Modified “Dutch Auction” Tender Offer",
+      "acquirer": null,
+      "date": "Fri, 21 Au",
+      "deal_value_usd": 230000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/21/3349016/14025/en/arbutus-announces-intent-to-repurchase-up-to-us-230-million-of-its-common-shares-through-modified-dutch-auction-tender-offer.html",
+      "status": "reported"
+    },
+    {
+      "target": "Ipsen completes acquisition of Kartos Therapeutics, strengthening late-stage Oncology pipeline",
+      "acquirer": null,
+      "date": "Fri, 21 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/en/ipsen-completes-acquisition-of-kartos-therapeutics-strengthening-late-stage-oncology-pipeline.html",
+      "status": "reported"
+    },
+    {
+      "target": "Ipsen finalise l'acquisition de Kartos Therapeutics, renforçant son portefeuille d'oncologie en phase avancée",
+      "acquirer": null,
+      "date": "Fri, 21 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/fr/ipsen-finalise-l-acquisition-de-kartos-therapeutics-renfor%C3%A7ant-son-portefeuille-d-oncologie-en-phase-avanc%C3%A9e.html",
+      "status": "reported"
+    },
+    {
+      "target": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
+      "acquirer": null,
+      "date": "Mon, 24 Au",
+      "deal_value_usd": 2300000000.0,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858059.html",
+      "status": "reported"
+    },
+    {
+      "target": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
+      "acquirer": null,
+      "date": "Mon, 24 Au",
+      "deal_value_usd": 2300000000.0,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858053.html",
       "status": "reported"
     }
   ]
