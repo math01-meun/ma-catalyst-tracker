@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T09:30:31.527534+00:00",
+  "last_updated": "2026-08-31T07:02:52.298051+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -765,6 +765,51 @@
       "deal_value_usd": 2300000000.0,
       "therapeutic_area": "Cardiovascular / Metabolic",
       "link": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858053.html",
+      "status": "reported"
+    },
+    {
+      "target": "Leios Therapeutics Announces Exclusive Licensing Agreement and Strategic Investment with Subsidiaries of China Medical System Holdings Ltd. for 10XB-101",
+      "acquirer": null,
+      "date": "Mon, 31 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/31/3353009/0/en/leios-therapeutics-announces-exclusive-licensing-agreement-and-strategic-investment-with-subsidiaries-of-china-medical-system-holdings-ltd-for-10xb-101.html",
+      "status": "reported"
+    },
+    {
+      "target": "JATT III Acquisition Corp Announces Closing of $69,000,000 Initial Public Offering",
+      "acquirer": null,
+      "date": "Thu, 27 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/27/3352358/0/en/jatt-iii-acquisition-corp-announces-closing-of-69-000-000-initial-public-offering.html",
+      "status": "reported"
+    },
+    {
+      "target": "Teva Announces Proposed Acquisition of a Novel Neuroscience Product Reinforcing Disciplined Business Development Approach Under Pivot to Growth Strategy",
+      "acquirer": null,
+      "date": "Fri, 28 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.globenewswire.com/news-release/2026/08/28/3352601/0/en/teva-announces-proposed-acquisition-of-a-novel-neuroscience-product-reinforcing-disciplined-business-development-approach-under-pivot-to-growth-strategy.html",
+      "status": "reported"
+    },
+    {
+      "target": "Orion Corporation to commence acquisition of own shares for its share-based incentive plans",
+      "acquirer": null,
+      "date": "Thu, 27 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/27/3351829/0/en/orion-corporation-to-commence-acquisition-of-own-shares-for-its-share-based-incentive-plans.html",
+      "status": "reported"
+    },
+    {
+      "target": "Samsung Biologics publishes prospectus for PolyPeptide public tender offer",
+      "acquirer": null,
+      "date": "Mon, 31 Au",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/samsung-biologics-publishes-prospectus-for-polypeptide-public-tender-offer-302864574.html",
       "status": "reported"
     }
   ]
