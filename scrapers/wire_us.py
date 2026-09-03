@@ -12,9 +12,17 @@ from config import WIRE_SOURCES, KEYWORDS, SECTOR_BUCKETS
 SECTOR_PRE_FILTERED = [
     "globenewswire.com/rss/industry/4573",
     "globenewswire.com/rss/industry/4577",
+    "globenewswire.com/rss/industry/4000",
+    "globenewswire.com/rss/industry/4533",
+    "globenewswire.com/rss/industry/4535",
+    "globenewswire.com/rss/industry/4537",
     "prnewswire.com/rss/health-latest-news/biotechnology",
 ]
 DEAL_PRE_FILTERED = ["globenewswire.com/rss/subjectcode/27"]
+# Bankruptcy/Restructuring feeds are NOT pre-filtered as deal-ok or sector-ok:
+# they cover every industry, so a Sangamo-style biotech asset sale still has to
+# pass both the (now-expanded) KEYWORDS check and a SECTOR_BUCKETS match on its
+# own text, same as any other unfiltered wire item.
 MIN_DEAL_VALUE = 500_000
 DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "catalysts.json")
 
