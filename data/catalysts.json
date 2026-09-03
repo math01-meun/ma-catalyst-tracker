@@ -823,6 +823,30 @@
       "therapeutic_area": "Immunology / Autoimmune (Graves' disease, thyroid eye disease)",
       "ticker": null,
       "link": "https://www.prnewswire.com/news-releases/lilly-to-acquire-merida-biosciences-to-advance-treatments-for-serious-autoimmune-and-allergic-diseases-302864686.html"
+    },
+    {
+      "target": "Alesta Therapeutics",
+      "acquirer": "BioMarin",
+      "status": "Private",
+      "date": "18 Aug 2026",
+      "deal_value_usd": 490000000.0,
+      "deal_value_text": "$275M upfront + up to $215M milestones",
+      "premium": "N/A",
+      "therapeutic_area": "Rare disease / Skeletal conditions (hypophosphatasia)",
+      "ticker": null,
+      "link": "https://www.cnbc.com/2026/08/19/biomarin-to-acquire-alesta-therapeutics-for-275-million.html"
+    },
+    {
+      "target": "Sangamo Therapeutics (gene-editing platforms)",
+      "acquirer": "Eli Lilly",
+      "status": "Asset purchase (Chapter 11 auction)",
+      "date": "12 Aug 2026",
+      "deal_value_usd": 50000000.0,
+      "deal_value_text": "$50M cash",
+      "premium": "N/A",
+      "therapeutic_area": "Gene editing / Genomic medicine platforms (capsid delivery, zinc finger, MINT, prion disease program ST-506)",
+      "ticker": "SGMO",
+      "link": "https://www.globenewswire.com/news-release/2026/08/12/3344041/33816/en/sangamo-therapeutics-selects-successful-bidders-following-competitive-asset-auction-for-163-55-million-in-cash-consideration-at-closing-and-up-to-100-million-in-potential-milestone.html"
     }
   ]
 }
