@@ -4,6 +4,7 @@ import re
 import sys
 import os
 from datetime import datetime, timezone
+from calendar import timegm
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from config import WIRE_SOURCES, KEYWORDS, SECTOR_BUCKETS
@@ -67,10 +68,17 @@ def scrape_new_deals():
             if deal_value is not None and deal_value < MIN_DEAL_VALUE:
                 continue
 
+            # entry.get("published","")[:10] used to just chop the first 10 characters off
+            # a string like "Mon, 03 Aug 2026 14:23:00 GMT", producing garbage like "Mon, 03 Au".
+            # Use feedparser's pre-parsed struct_time instead, and format to match the
+            # "DD Mon YYYY" style used everywhere else in catalysts.json.
+            parsed = entry.get("published_parsed")
+            date_str = datetime.fromtimestamp(timegm(parsed), tz=timezone.utc).strftime("%d %b %Y") if parsed else None
+
             results.append({
                 "target": title,
                 "acquirer": None,
-                "date": entry.get("published", "")[:10] if entry.get("published") else None,
+                "date": date_str,
                 "deal_value_usd": deal_value,
                 "therapeutic_area": sector,
                 "link": entry.get("link", ""),

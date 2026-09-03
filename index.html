@@ -176,6 +176,16 @@ function setSizeFilter(key) {
   renderRows();
 }
 
+function parseDealDate(dateStr) {
+  if (!dateStr) return -Infinity;
+  const t = Date.parse(dateStr);
+  return isNaN(t) ? -Infinity : t; // unparseable dates sink to the bottom instead of breaking the sort
+}
+
+function sortDealsByDateDesc(deals) {
+  return [...deals].sort((a, b) => parseDealDate(b.date) - parseDealDate(a.date));
+}
+
 function getFilteredDeals() {
   const search = document.getElementById('search').value.toLowerCase();
   return allDeals.filter(d => {
@@ -236,7 +246,7 @@ function exportCalendar() {
 fetch('data/catalysts.json')
   .then(r => r.json())
   .then(data => {
-    allDeals = data.deals || [];
+    allDeals = sortDealsByDateDesc(data.deals || []);
     document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.last_updated || 'unknown');
     renderSizeFilters();
     renderRows();
