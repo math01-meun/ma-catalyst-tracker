@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T07:02:52.298051+00:00",
+  "last_updated": "2026-09-07T13:10:46.401224+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -859,6 +859,60 @@
       "therapeutic_area": "Multi-target R&D collaboration and license agreement (oncology / cardiometabolic discovery)",
       "ticker": "02256.HK",
       "link": "https://www.prnewswire.com/news-releases/abbisko-therapeutics-deepens-rd-collaboration-with-lilly-302807976.html"
+    },
+    {
+      "target": "Orion Corporation: Acquisition of own shares during week 36, 2026",
+      "acquirer": null,
+      "date": "04 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356693/0/en/orion-corporation-acquisition-of-own-shares-during-week-36-2026.html",
+      "status": "reported"
+    },
+    {
+      "target": "Tarsus Pharmaceuticals Completes Acquisition of Alkeus Pharmaceuticals, Expanding Leadership in Eye Care",
+      "acquirer": null,
+      "date": "04 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/04/3356553/0/en/tarsus-pharmaceuticals-completes-acquisition-of-alkeus-pharmaceuticals-expanding-leadership-in-eye-care.html",
+      "status": "reported"
+    },
+    {
+      "target": "Bloom Healthcare Expands Dallas-Fort Worth Presence with Acquisition of Christian Care House Calls",
+      "acquirer": null,
+      "date": "31 Aug 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/31/3353531/0/en/bloom-healthcare-expands-dallas-fort-worth-presence-with-acquisition-of-christian-care-house-calls.html",
+      "status": "reported"
+    },
+    {
+      "target": "Globus Medical Announces Acquisition of Higgs Boson Health to Transform Healthcare Experience Through AI-Driven Digital Solutions",
+      "acquirer": null,
+      "date": "26 Aug 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/26/3351730/0/en/globus-medical-announces-acquisition-of-higgs-boson-health-to-transform-healthcare-experience-through-ai-driven-digital-solutions.html",
+      "status": "reported"
+    },
+    {
+      "target": "Lipella Pharmaceuticals Inc. Files Voluntary Petitions for Relief Under Chapter 11",
+      "acquirer": null,
+      "date": "31 Mar 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/03/31/3265106/0/en/lipella-pharmaceuticals-inc-files-voluntary-petitions-for-relief-under-chapter-11.html",
+      "status": "reported"
+    },
+    {
+      "target": "Lisata Therapeutics Provides Update Following Termination of Merger Agreement",
+      "acquirer": null,
+      "date": "04 Aug 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/08/04/3338140/18623/en/lisata-therapeutics-provides-update-following-termination-of-merger-agreement.html",
+      "status": "reported"
     }
   ]
 }
