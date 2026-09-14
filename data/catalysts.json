@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T13:10:46.401224+00:00",
+  "last_updated": "2026-09-14T13:31:12.666189+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -912,6 +912,69 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/08/04/3338140/18623/en/lisata-therapeutics-provides-update-following-termination-of-merger-agreement.html",
+      "status": "reported"
+    },
+    {
+      "target": "Cardiff Oncology and Nerviano Medical Sciences Amend their 2017 Exclusive License Agreement",
+      "acquirer": null,
+      "date": "14 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.globenewswire.com/news-release/2026/09/14/3361096/0/en/cardiff-oncology-and-nerviano-medical-sciences-amend-their-2017-exclusive-license-agreement.html",
+      "status": "reported"
+    },
+    {
+      "target": "Press Release: Sanofi and Cheplapharm to create new strategic partnership in mature medicines",
+      "acquirer": null,
+      "date": "14 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/14/3361178/0/en/press-release-sanofi-and-cheplapharm-to-create-new-strategic-partnership-in-mature-medicines.html",
+      "status": "reported"
+    },
+    {
+      "target": "Orion Corporation: Acquisition of own shares during week 37, 2026",
+      "acquirer": null,
+      "date": "11 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/11/3360432/0/en/orion-corporation-acquisition-of-own-shares-during-week-37-2026.html",
+      "status": "reported"
+    },
+    {
+      "target": "Onconetix Provides Strategic Bridge Financing to Realbotix LLC in Support of Pending Acquisition",
+      "acquirer": null,
+      "date": "14 Sep 2026",
+      "deal_value_usd": 2500000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/14/3361088/0/en/onconetix-provides-strategic-bridge-financing-to-realbotix-llc-in-support-of-pending-acquisition.html",
+      "status": "reported"
+    },
+    {
+      "target": "Following R3ALM Strategic Acquisition, Vystar Executes Sale of Remaining Vytex Inventory",
+      "acquirer": null,
+      "date": "08 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/08/3357751/0/en/following-r3alm-strategic-acquisition-vystar-executes-sale-of-remaining-vytex-inventory.html",
+      "status": "reported"
+    },
+    {
+      "target": "Senseonics Announces Strategic Partnership with Beta Bionics to Integrate Eversense® 365 with the iLet® Bionic Pancreas",
+      "acquirer": null,
+      "date": "14 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.globenewswire.com/news-release/2026/09/14/3360954/0/en/senseonics-announces-strategic-partnership-with-beta-bionics-to-integrate-eversense-365-with-the-ilet-bionic-pancreas.html",
+      "status": "reported"
+    },
+    {
+      "target": "Flyte Partners With Christian Cowan for New York Fashion Week, Expanding Its Presence Across Global Luxury Brands",
+      "acquirer": null,
+      "date": "10 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/10/3359982/0/en/flyte-partners-with-christian-cowan-for-new-york-fashion-week-expanding-its-presence-across-global-luxury-brands.html",
       "status": "reported"
     }
   ]
