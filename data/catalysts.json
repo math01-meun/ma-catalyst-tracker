@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T13:31:12.666189+00:00",
+  "last_updated": "2026-09-21T13:30:44.475553+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -975,6 +975,60 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/09/10/3359982/0/en/flyte-partners-with-christian-cowan-for-new-york-fashion-week-expanding-its-presence-across-global-luxury-brands.html",
+      "status": "reported"
+    },
+    {
+      "target": "Orion Corporation: Acquisition of own shares during week 38, 2026",
+      "acquirer": null,
+      "date": "18 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/18/3364870/0/en/orion-corporation-acquisition-of-own-shares-during-week-38-2026.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sienna Continues Platform Growth in Ontario",
+      "acquirer": null,
+      "date": "17 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/17/3363980/0/en/sienna-continues-platform-growth-in-ontario.html",
+      "status": "reported"
+    },
+    {
+      "target": "Pennant Acquires Real Estate of Mainplace Senior Living in Orange, California",
+      "acquirer": null,
+      "date": "16 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/16/3363560/0/en/pennant-acquires-real-estate-of-mainplace-senior-living-in-orange-california.html",
+      "status": "reported"
+    },
+    {
+      "target": "The Waqf Fund acquires UK retail property to fund charitable work for generations to come",
+      "acquirer": null,
+      "date": "15 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/15/3361837/0/en/the-waqf-fund-acquires-uk-retail-property-to-fund-charitable-work-for-generations-to-come.html",
+      "status": "reported"
+    },
+    {
+      "target": "Telix and ITM Join Forces to Create a Radiopharmaceutical Powerhouse",
+      "acquirer": null,
+      "date": "21 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm-join-forces-to-create-a-radiopharmaceutical-powerhouse.html",
+      "status": "reported"
+    },
+    {
+      "target": "Made Scientific Expands U.S. GMP Cell Therapy Network with 85,000 Sq. Ft. Pennsylvania Acquisition -- Operational on Day One",
+      "acquirer": null,
+      "date": "21 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/made-scientific-expands-us-gmp-cell-therapy-network-with-85-000-sq-ft-pennsylvania-acquisition--operational-on-day-one-302884722.html",
       "status": "reported"
     }
   ]
