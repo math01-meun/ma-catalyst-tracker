@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T13:30:44.475553+00:00",
+  "last_updated": "2026-09-28T14:46:06.666626+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1029,6 +1029,60 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/made-scientific-expands-us-gmp-cell-therapy-network-with-85-000-sq-ft-pennsylvania-acquisition--operational-on-day-one-302884722.html",
+      "status": "reported"
+    },
+    {
+      "target": "Psyence BioMed Announces Exclusive U.S. Ibogaine Licence for Texas Ibogaine Research Corporation",
+      "acquirer": null,
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/28/3369752/0/en/psyence-biomed-announces-exclusive-u-s-ibogaine-licence-for-texas-ibogaine-research-corporation.html",
+      "status": "reported"
+    },
+    {
+      "target": "Orion Corporation: Acquisition of own shares during week 39, 2026",
+      "acquirer": null,
+      "date": "25 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/25/3369235/0/en/orion-corporation-acquisition-of-own-shares-during-week-39-2026.html",
+      "status": "reported"
+    },
+    {
+      "target": "EnerSyn Global Inc. Announces Second Nigeria Energy Investment: Lagos CNG Mother Station Project",
+      "acquirer": null,
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/28/3369928/0/en/enersyn-global-inc-announces-second-nigeria-energy-investment-lagos-cng-mother-station-project.html",
+      "status": "reported"
+    },
+    {
+      "target": "Lifecore Biomedical to be Acquired by Webster Equity Partners",
+      "acquirer": null,
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/28/3369877/23089/en/lifecore-biomedical-to-be-acquired-by-webster-equity-partners.html",
+      "status": "reported"
+    },
+    {
+      "target": "Zymeworks Announces Updated 2026 Financial Guidance and Final Transaction Details Following Theravance Biopharma Acquisition",
+      "acquirer": null,
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-announces-updated-2026-financial-guidance-and-final-transaction-details-following-theravance-biopharma-acquisition.html",
+      "status": "reported"
+    },
+    {
+      "target": "Leica Biosystems Completes Acquisition of StatLab to Bolster Delivery of More Precise, Timely Diagnostics for Cancer Patients",
+      "acquirer": null,
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/leica-biosystems-completes-acquisition-of-statlab-to-bolster-delivery-of-more-precise-timely-diagnostics-for-cancer-patients-302891471.html",
       "status": "reported"
     }
   ]
