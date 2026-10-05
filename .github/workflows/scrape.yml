@@ -2,7 +2,7 @@
 
 on:
   schedule:
-    - cron: '0 7 * * 1'   # tous les lundis a 7h UTC
+    - cron: '0 */4 * * *'   # tous les lundis a 7h UTC
   workflow_dispatch:        # bouton manuel "Run workflow" sur GitHub, pour tester
 
 jobs:
