@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T19:08:35.779746+00:00",
+  "last_updated": "2026-10-05T14:34:16.706627+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1314,6 +1314,42 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/samfara-finalise-lacquisition-de-chr-olesen-synthesis-fabricant-danois-de-principes-actifs-pharmaceutiques-api-soumis-a-un-controle-reglementaire-302897285.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sernova and Seraxis Close US$11.2 Million Financing to Fund Merger to Become BetaNova Biotherapeutics and Advance Type 1 Diabetes Cell Therapy Into Near Term Phase 1/2 Clinical Trial",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": 11200000.0,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.globenewswire.com/news-release/2026/10/05/3374406/0/en/sernova-and-seraxis-close-us-11-2-million-financing-to-fund-merger-to-become-betanova-biotherapeutics-and-advance-type-1-diabetes-cell-therapy-into-near-term-phase-1-2-clinical-tri.html",
+      "status": "reported"
+    },
+    {
+      "target": "Harrow Closes Acquisition of TYRVAYA®",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": 100000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/05/3374393/0/en/harrow-closes-acquisition-of-tyrvaya.html",
+      "status": "reported"
+    },
+    {
+      "target": "Baird Medical Highlights Global Expansion and Strategic Progress During Third Quarter 2026",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/05/3374499/0/en/baird-medical-highlights-global-expansion-and-strategic-progress-during-third-quarter-2026.html",
+      "status": "reported"
+    },
+    {
+      "target": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/cellcarta-establishes-strategic-partnership-with-waters-to-advance-companion-diagnostics-development-302897968.html",
       "status": "reported"
     }
   ]
