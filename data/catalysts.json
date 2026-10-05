@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T14:46:06.666626+00:00",
+  "last_updated": "2026-10-03T19:08:35.779746+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -651,13 +651,16 @@
       "status": "reported"
     },
     {
-      "target": "Curium Announces Definitive Agreement to Merge with Lantheus",
-      "acquirer": null,
+      "target": "Lantheus Holdings",
+      "acquirer": "Curium (CapVest-backed)",
+      "status": "Public",
       "date": "03 Aug 2026",
       "deal_value_usd": 8000000000.0,
-      "therapeutic_area": "Oncology",
+      "deal_value_text": "Up to ~US$8.0B",
+      "premium": "~21% to the unaffected 21 May close on the cash leg; ~38% to the 60-day VWAP",
+      "therapeutic_area": "Radiopharmaceuticals / Diagnostic imaging (prostate cancer, neurology, cardiology)",
       "link": "https://www.globenewswire.com/news-release/2026/08/03/3337413/0/en/Curium-Announces-Definitive-Agreement-to-Merge-with-Lantheus.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Curium Announces Definitive Agreement to Merge with Lantheus",
@@ -750,13 +753,16 @@
       "status": "reported"
     },
     {
-      "target": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
-      "acquirer": null,
-      "date": "24 Aug 2026",
-      "deal_value_usd": 2300000000.0,
-      "therapeutic_area": "Cardiovascular / Metabolic",
+      "target": "Precision Medicine Group, LLC (private, Blackstone-backed)",
+      "acquirer": "McKesson Corporation (NYSE: MCK)",
+      "status": "Private",
+      "date": "25 Aug 2026",
+      "deal_value_usd": 2250000000.0,
+      "deal_value_text": "Approximately US$2.25B",
+      "premium": "n/a — private target",
+      "therapeutic_area": "Oncology-weighted clinical research and biopharma commercialisation services (biomarker intelligence, specialty laboratory services, CRO, market access and commercialisation)",
       "link": "https://www.prnewswire.com/news-releases/hanmi-pharm-signs-exclusive-licensing-deal-with-genentech-for-novel-obesity-therapy-302858059.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Hanmi Pharm Signs Exclusive Licensing Deal with Genentech for Novel Obesity Therapy",
@@ -870,13 +876,16 @@
       "status": "reported"
     },
     {
-      "target": "Tarsus Pharmaceuticals Completes Acquisition of Alkeus Pharmaceuticals, Expanding Leadership in Eye Care",
-      "acquirer": null,
-      "date": "04 Sep 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Other Biotech",
+      "target": "Alkeus Pharmaceuticals",
+      "acquirer": "Tarsus Pharmaceuticals",
+      "status": "Private",
+      "date": "06 Aug 2026",
+      "deal_value_usd": 800000000.0,
+      "deal_value_text": "Up to US$800M",
+      "premium": "n/a — private target",
+      "therapeutic_area": "Ophthalmology / Inherited retinal disease (Stargardt disease)",
       "link": "https://www.globenewswire.com/news-release/2026/09/04/3356553/0/en/tarsus-pharmaceuticals-completes-acquisition-of-alkeus-pharmaceuticals-expanding-leadership-in-eye-care.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Bloom Healthcare Expands Dallas-Fort Worth Presence with Acquisition of Christian Care House Calls",
@@ -1014,13 +1023,16 @@
       "status": "reported"
     },
     {
-      "target": "Telix and ITM Join Forces to Create a Radiopharmaceutical Powerhouse",
-      "acquirer": null,
+      "target": "ITM Isotope Technologies Munich",
+      "acquirer": "Telix Pharmaceuticals",
+      "status": "Private",
       "date": "21 Sep 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 2350000000.0,
+      "deal_value_text": "Up to US$2.35B",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Radiopharmaceuticals and therapeutic radioisotope production",
       "link": "https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm-join-forces-to-create-a-radiopharmaceutical-powerhouse.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Made Scientific Expands U.S. GMP Cell Therapy Network with 85,000 Sq. Ft. Pennsylvania Acquisition -- Operational on Day One",
@@ -1059,13 +1071,16 @@
       "status": "reported"
     },
     {
-      "target": "Lifecore Biomedical to be Acquired by Webster Equity Partners",
-      "acquirer": null,
+      "target": "Lifecore Biomedical",
+      "acquirer": "Webster Equity Partners",
       "date": "28 Sep 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 663700000,
+      "therapeutic_area": "CDMO",
       "link": "https://www.globenewswire.com/news-release/2026/09/28/3369877/23089/en/lifecore-biomedical-to-be-acquired-by-webster-equity-partners.html",
-      "status": "reported"
+      "status": "Public",
+      "deal_value_text": "$6.28/share cash + CVR, up to US$663.7M",
+      "premium": "~49.5%",
+      "ticker": "LFCR"
     },
     {
       "target": "Zymeworks Announces Updated 2026 Financial Guidance and Final Transaction Details Following Theravance Biopharma Acquisition",
@@ -1083,6 +1098,222 @@
       "deal_value_usd": null,
       "therapeutic_area": "Oncology",
       "link": "https://www.prnewswire.com/news-releases/leica-biosystems-completes-acquisition-of-statlab-to-bolster-delivery-of-more-precise-timely-diagnostics-for-cancer-patients-302891471.html",
+      "status": "reported"
+    },
+    {
+      "target": "Regeneron (4 long-acting IL-4/IL-13 antibodies, alliance expansion)",
+      "acquirer": "Sanofi",
+      "status": "Public",
+      "date": "01 Oct 2026",
+      "deal_value_usd": 8000000000,
+      "deal_value_text": "US$1B upfront + up to US$7B milestones",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology",
+      "ticker": "REGN",
+      "link": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-01-05-00-00-3372517"
+    },
+    {
+      "target": "Abogen Biosciences (ABO2203, mRNA CD19xCD3 T-cell engager - license)",
+      "acquirer": "Novartis",
+      "status": "Private",
+      "date": "02 Oct 2026",
+      "deal_value_usd": 7775000000,
+      "deal_value_text": "US$575M upfront, up to ~US$7.8B",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology",
+      "ticker": null,
+      "link": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html"
+    },
+    {
+      "target": "SciBrunch Therapeutics (SPR2015, KRAS G12D inhibitor - license)",
+      "acquirer": "Merck",
+      "status": "Private",
+      "date": "28 Sep 2026",
+      "deal_value_usd": 2130000000,
+      "deal_value_text": "US$400M upfront, up to US$2.13B",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
+      "ticker": null,
+      "link": "https://www.biospace.com/deals/merck-inks-up-to-2-13b-deal-to-dine-with-scibrunch-gain-rights-to-preclinical-kras-inhibitor"
+    },
+    {
+      "target": "Summit Therapeutics (~12% equity stake + ivonescimab collaboration)",
+      "acquirer": "AstraZeneca",
+      "status": "Public",
+      "date": "28 Sep 2026",
+      "deal_value_usd": 2000000000,
+      "deal_value_text": "US$2.0B equity investment at $18.36/share",
+      "premium": "VWAP +10%",
+      "therapeutic_area": "Oncology",
+      "ticker": "SMMT",
+      "link": "https://smmttx.com/news/press-releases/news-details/2026/AstraZeneca-Makes-2-Billion-Strategic-Equity-Investment-in-Summit-Therapeutics/default.aspx"
+    },
+    {
+      "target": "Hengrui Pharma (HRS-1596, oral GLP-1/GIP - license)",
+      "acquirer": "Novo Nordisk",
+      "status": "Public",
+      "date": "29 Sep 2026",
+      "deal_value_usd": 2600000000,
+      "deal_value_text": "US$300M upfront, up to US$2.6B",
+      "premium": "N/A",
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "ticker": "600276.SS",
+      "link": "https://www.globenewswire.com/news-release/2026/09/29/3370376/0/en/novo-and-hengrui-pharma-enter-exclusive-license-agreement-for-once-weekly-oral-glp-1-gip-dual-receptor-agonist-hrs-1596.html"
+    },
+    {
+      "target": "mAbxience (remaining 45%)",
+      "acquirer": "Fresenius Kabi",
+      "status": "Private",
+      "date": "01 Oct 2026",
+      "deal_value_usd": 850000000,
+      "deal_value_text": "EUR700M + EUR50M contingent (~US$850M)",
+      "premium": "N/A",
+      "therapeutic_area": "Biosimilars",
+      "ticker": null,
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026"
+    },
+    {
+      "target": "Tanabe Pharma (MT-2990 / TLB-33, anti-IL-33 - license)",
+      "acquirer": "Tolerance Bio",
+      "status": "Private",
+      "date": "28 Sep 2026",
+      "deal_value_usd": 560000000,
+      "deal_value_text": "Up to US$560M milestones + equity",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology",
+      "ticker": null,
+      "link": "https://www.biospace.com/press-releases/tolerance-bio-licenses-clinical-stage-anti-il-33-monoclonal-antibody-from-tanabe-pharma-to-expand-thymus-focused-clinical-pipeline"
+    },
+    {
+      "target": "Chimagen Biosciences (trispecific T-cell engager, multiple myeloma - asset purchase)",
+      "acquirer": "GSK",
+      "status": "Private",
+      "date": "15 Sep 2026",
+      "deal_value_usd": 750000000,
+      "deal_value_text": "Upfront + milestones, up to US$750M",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
+      "ticker": null,
+      "link": "https://medicaldialogues.in/news/industry/pharma/gsk-to-acquire-chimagens-trispecific-cancer-drug-in-deal-worth-up-to-usd-750-mn-179376"
+    },
+    {
+      "target": "LIB Therapeutics (lerodalcibep, PCSK9 - license ex-US/China)",
+      "acquirer": "Sun Pharma",
+      "status": "Private",
+      "date": "28 Sep 2026",
+      "deal_value_usd": null,
+      "deal_value_text": "Upfront + milestones, not disclosed",
+      "premium": "N/A",
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "ticker": null,
+      "link": "https://sunpharma.com/wp-content/uploads/2026/09/Press-Release-Sun-Pharma-and-LIB-Therapeutics-announce-global-licensing-agreement-for-Lerodalcibep-1.pdf"
+    },
+    {
+      "target": "Actio Biosciences",
+      "acquirer": "Jazz Pharmaceuticals",
+      "status": "Private",
+      "date": "10 Aug 2026",
+      "deal_value_usd": 1320000000.0,
+      "deal_value_text": "Up to US$1.32B",
+      "premium": "n/a — private target",
+      "therapeutic_area": "Neurology / Rare disease (KCNT1-related developmental and epileptic encephalopathy)",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Integer Holdings",
+      "acquirer": "KKR",
+      "status": "Public",
+      "date": "04 Aug 2026",
+      "deal_value_usd": 5700000000.0,
+      "deal_value_text": "~US$5.7B",
+      "premium": "ITGR closed at US$124.50 on announcement — a ~2% discount to terms, i.e. the tape pricing completion as near-certain rather than a bump",
+      "therapeutic_area": "Medtech contract manufacturing (cardiovascular, cardiac rhythm management, neuromodulation, vascular)",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Indivior",
+      "acquirer": "Supernus Pharmaceuticals",
+      "status": "Public",
+      "date": "03 Aug 2026",
+      "deal_value_usd": 1000000000.0,
+      "deal_value_text": "All-stock merger of equals + US$1.0B special cash dividend",
+      "premium": "n/a — merger of equals; Indivior holders take ~56.5% and Supernus holders ~43.5%",
+      "therapeutic_area": "CNS / Neuropsychiatry (ADHD, epilepsy, Parkinson’s, opioid use disorder)",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "ArisGlobal",
+      "acquirer": "Dassault Systèmes",
+      "status": "Private",
+      "date": "23 Jul 2026",
+      "deal_value_usd": 2000000000.0,
+      "deal_value_text": "Up to ~US$2.0B",
+      "premium": "Not disclosed (private, sponsor-owned)",
+      "therapeutic_area": "Life-science software / regulatory & safety compliance (pharmacovigilance, drug safety, regulatory affairs)",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Modella AI",
+      "acquirer": "AstraZeneca",
+      "status": "Private",
+      "date": "13 Jan 2026",
+      "deal_value_usd": null,
+      "deal_value_text": "Undisclosed",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / AI-enabled pathology and biomarker discovery",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Nanexa (Exclusive Global Licence and Collaboration)",
+      "acquirer": "Novo Nordisk",
+      "status": "Licensing",
+      "date": "25 Sep 2026",
+      "deal_value_usd": 1316400000.0,
+      "deal_value_text": "Upfront Not disclosed / Up to €1.165B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Obesity / Type 2 diabetes / Cardiometabolic disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "SpyGlass Pharma Acquires Advanced Vision Science, Inc. (AVS), Securing Scalable Commercial IOL Supply and Accelerating Lens Portfolio Expansion Capability",
+      "acquirer": "SpyGlass Pharma",
+      "date": "01 Oct 2026",
+      "deal_value_usd": 13000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/01/3372806/0/en/spyglass-pharma-acquires-advanced-vision-science-inc-avs-securing-scalable-commercial-iol-supply-and-accelerating-lens-portfolio-expansion-capability.html",
+      "status": "reported"
+    },
+    {
+      "target": "Wandercraft Acquires Ekso Bionics, Uniting Two Pioneers to Advance and Expand Robotic Mobility",
+      "acquirer": "Wandercraft",
+      "date": "01 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/01/3373473/0/en/wandercraft-acquires-ekso-bionics-uniting-two-pioneers-to-advance-and-expand-robotic-mobility.html",
+      "status": "reported"
+    },
+    {
+      "target": "Resonant Clinical Solutions développe ses activités mondiales dans le domaine des équipements et accessoires médicaux grâce à l'acquisition de Labfish",
+      "acquirer": null,
+      "date": "02 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/resonant-clinical-solutions-developpe-ses-activites-mondiales-dans-le-domaine-des-equipements-et-accessoires-medicaux-grace-a-lacquisition-de-labfish-302897573.html",
+      "status": "reported"
+    },
+    {
+      "target": "Samfara finalise l'acquisition de Chr. Olesen Synthesis, fabricant danois de principes actifs pharmaceutiques (API) soumis à un contrôle réglementaire",
+      "acquirer": null,
+      "date": "02 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/samfara-finalise-lacquisition-de-chr-olesen-synthesis-fabricant-danois-de-principes-actifs-pharmaceutiques-api-soumis-a-un-controle-reglementaire-302897285.html",
       "status": "reported"
     }
   ]
