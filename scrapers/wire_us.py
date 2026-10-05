@@ -33,9 +33,26 @@ DEAL_PRE_FILTERED = ["globenewswire.com/rss/subjectcode/27"]
 MIN_DEAL_VALUE = 500_000
 # Google News items are press coverage, not releases: only keep real-sized deals.
 MIN_NEWS_DEAL_VALUE = 50_000_000
+# Google News headlines rarely name a therapeutic area ("Novartis strikes up
+# to $7.8 billion mRNA deal with China's Abogen"): any of these marks a
+# life-science deal.
+NEWS_LIFE_SCIENCE_WORDS = [
+    "pharma", "biotech", "bio ", "drug", "therap", "medicine", "clinical",
+    "antibod", "mrna", "sirna", "rna ", "gene", "cell ", "vaccine", "biosimilar",
+    "novartis", "merck", "pfizer", "lilly", "novo", "sanofi", "astrazeneca", "gsk",
+    "roche", "genentech", "abbvie", "bristol", "bms", "amgen", "gilead", "regeneron",
+    "vertex", "biogen", "takeda", "bayer", "boehringer", "johnson & johnson", "j&j",
+]
 # Article pages fetched per run to find a value the RSS summary didn't give.
 MAX_ARTICLE_FETCHES = 40
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+HEADERS = biobucks_live.HEADERS
+# GlobeNewswire times out from GitHub Actions runners: fail fast instead of
+# burning 20s on each of its 9 feeds.
+GLOBENEWSWIRE_TIMEOUT = 8
+DEFAULT_TIMEOUT = 20
+# GlobeNewswire tarpits requests claiming to be Chrome (read timeout every
+# time) but answers an honest bot UA instantly, so it gets its own headers.
+GLOBENEWSWIRE_HEADERS = {"User-Agent": "ma-catalyst-tracker/1.0 (+https://ma-catalyst-tracker.netlify.app)"}
 DATA_FILE = os.environ.get("CATALYSTS_FILE") or os.path.join(os.path.dirname(__file__), "..", "data", "catalysts.json")
 
 # Generic words skipped when reducing a company name to its key token
@@ -43,9 +60,17 @@ DATA_FILE = os.environ.get("CATALYSTS_FILE") or os.path.join(os.path.dirname(__f
 GENERIC_NAME_WORDS = {"the", "a", "an", "inc", "corp", "corporation", "co", "plc", "ag", "sa", "nv"}
 
 
+def timeout_for(url):
+    return GLOBENEWSWIRE_TIMEOUT if "globenewswire.com" in url else DEFAULT_TIMEOUT
+
+
+def headers_for(url):
+    return GLOBENEWSWIRE_HEADERS if "globenewswire.com" in url else HEADERS
+
+
 def fetch_feed(url):
     # feedparser has no timeout of its own: a single hung feed used to stall the run.
-    response = requests.get(url, headers=HEADERS, timeout=20)
+    response = requests.get(url, headers=headers_for(url), timeout=timeout_for(url))
     response.raise_for_status()
     return feedparser.parse(response.content)
 
@@ -106,7 +131,7 @@ def extract_parties(title):
 
 def article_value(url):
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
+        response = requests.get(url, headers=headers_for(url), timeout=min(15, timeout_for(url)))
         response.raise_for_status()
     except requests.RequestException:
         return None
@@ -187,7 +212,11 @@ def scrape_google_news(health):
             title = entry.get("title", "")
             if is_excluded(title) or not matches_deal_keyword(title + " acquire license"):
                 continue
-            sector = match_sector(title + " " + query)
+            # Judge the headline alone: the query text itself says "biotech",
+            # so matching on it let through deals like a $5.8B freight merger.
+            sector = match_sector(title)
+            if not sector and not any(w in title.lower() for w in NEWS_LIFE_SCIENCE_WORDS):
+                continue
             value = extract_deal_value(title)
             if value is None or value < MIN_NEWS_DEAL_VALUE:
                 continue
@@ -311,8 +340,29 @@ def fmt(d):
     return f"{d.get('date')} | {d.get('acquirer') or '?'} -> {d.get('target')} | {value}"
 
 
+def source_group(src):
+    """The 9 GlobeNewswire feeds (and the BioBucks pages, the Google News
+    queries) share one host: count each host as a single source."""
+    if "globenewswire.com" in src:
+        return "GlobeNewswire"
+    if src.startswith("Google News"):
+        return "Google News"
+    if src.startswith("BioBucks"):
+        return "BioBucks"
+    return src
+
+
+def failed_groups(health):
+    """A group fails only when every one of its feeds failed."""
+    groups = {}
+    for src, status in health:
+        groups.setdefault(source_group(src), []).append("ERROR" in status)
+    return {g for g, errors in groups.items() if all(errors)}, len(groups)
+
+
 def write_summary(health, added, upgraded):
-    lines = ["## Deal scraper run", "", "### Sources", ""]
+    failed, total = failed_groups(health)
+    lines = ["## Deal scraper run", "", f"### Sources ({len(failed)}/{total} failed)", ""]
     lines += [f"- {'❌' if 'ERROR' in status else '✅'} {src}: {status}" for src, status in health]
     lines += ["", f"### Added ({len(added)})", ""] + [f"- {fmt(d)}" for d in added]
     lines += ["", f"### Upgraded ({len(upgraded)})", ""] + [f"- {fmt(d)}" for d in upgraded]
@@ -334,7 +384,9 @@ if __name__ == "__main__":
         save(existing)
     write_summary(health, added, upgraded)
     print(f"{len(added)} nouveaux deals ajoutes, {len(upgraded)} enrichis ({len(existing['deals'])} au total)")
-    failed = sum("ERROR" in status for _, status in health)
-    if failed > len(health) / 2:
-        # Fail the job so GitHub emails the repo owner: the tracker is going blind.
-        sys.exit(f"{failed}/{len(health)} sources failed")
+    failed, total = failed_groups(health)
+    if {"BioBucks", "Google News"} <= failed:
+        # Both backstops are down: fail the job so GitHub emails the repo owner.
+        # Wire outages alone (GlobeNewswire often times out from Actions) don't
+        # fail the run, so whatever was scraped still gets committed.
+        sys.exit(f"BioBucks and Google News both failed ({len(failed)}/{total} sources failed)")

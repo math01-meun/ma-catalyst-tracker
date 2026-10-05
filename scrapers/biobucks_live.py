@@ -14,7 +14,15 @@ from bs4 import BeautifulSoup
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from config import BIOBUCKS_MA_URL, BIOBUCKS_BDL_URL, BIOBUCKS_BDL_START, START_DATE
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+# Full browser headers: a bare "Mozilla/5.0 (...)" UA gets blocked by some
+# hosts (actusnews) when requests come from GitHub Actions. GlobeNewswire is
+# the exception, see wire_us.GLOBENEWSWIRE_HEADERS.
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/rss+xml;q=0.8,*/*;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+}
 DATE_RE = re.compile(r"^\d{2} [A-Z][a-z]{2} \d{4}$")
 EUR_USD = 1.13  # rough conversion for deals only quoted in euros
 # Milestone payments under existing collaborations, not new deals.
