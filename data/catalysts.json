@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T14:34:16.706627+00:00",
+  "last_updated": "2026-10-05T22:26:43.799340+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1350,6 +1350,24 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/cellcarta-establishes-strategic-partnership-with-waters-to-advance-companion-diagnostics-development-302897968.html",
+      "status": "reported"
+    },
+    {
+      "target": "Standard BioTools Announces Agreement to Sell Microfluidics Business to ARCHIMED",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/05/3374997/0/en/standard-biotools-announces-agreement-to-sell-microfluidics-business-to-archimed.html",
+      "status": "reported"
+    },
+    {
+      "target": "Lanterne Dx Completes Merger with Flagship Biosciences, Expanding Biomarker and Digital Pathology Capabilities",
+      "acquirer": null,
+      "date": "05 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/05/3374761/0/en/lanterne-dx-completes-merger-with-flagship-biosciences-expanding-biomarker-and-digital-pathology-capabilities.html",
       "status": "reported"
     }
   ]
