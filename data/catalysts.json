@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T14:50:53.294423+00:00",
+  "last_updated": "2026-10-06T20:50:48.828045+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1401,6 +1401,24 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjUtb3U0UFlFeENJNFJUQzBlaWZlc1lJcmItOFJxU20wYnpfS041M1dFUXNqTGdjZGRERldEM1g0eWNwZlA5dFN1eXpqdTRCWmc2TEI4VmhXVk12MmQweWRkQ1l1TGNJN0ZiN3ZqQjJFN3MxWjNUQ0M5X2lTS2JwSWFrT2ZvdGd4VzgtRmNQbDVTaWJYdVFOYjVxN2UyNlB3RGxvdUxyUEpwZDJ6Tlc0dE5FU2VIekN3cDNyY1lkVjh6d2c?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Halozyme Announces Expansion of Global Collaboration and License Agreement with argenx to Support the Development of Subcutaneous Formulations for Two Additional Exclusive Targets Using its ENHANZE® Technology",
+      "acquirer": null,
+      "date": "06 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/halozyme-announces-expansion-of-global-collaboration-and-license-agreement-with-argenx-to-support-the-development-of-subcutaneous-formulations-for-two-additional-exclusive-targets-using-its-enhanze-technology-302900270.html",
+      "status": "reported"
+    },
+    {
+      "target": "Luminous Mind, Inc. Announces U.S. Patent for Non-Hallucinogenic Psychedelic Mushrooms",
+      "acquirer": null,
+      "date": "06 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/luminous-mind-inc-announces-us-patent-for-non-hallucinogenic-psychedelic-mushrooms-302890972.html",
+      "status": "reported"
     }
   ]
 }
