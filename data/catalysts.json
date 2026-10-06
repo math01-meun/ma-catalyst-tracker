@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T22:26:43.799340+00:00",
+  "last_updated": "2026-10-06T14:50:53.294423+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1369,6 +1369,38 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/10/05/3374761/0/en/lanterne-dx-completes-merger-with-flagship-biosciences-expanding-biomarker-and-digital-pathology-capabilities.html",
       "status": "reported"
+    },
+    {
+      "target": "Alector (Exclusive Global Licence)",
+      "acquirer": "Genentech / Roche",
+      "status": "Licensing",
+      "date": "05 Oct 2026",
+      "deal_value_usd": 1270000000.0,
+      "deal_value_text": "Upfront US$100M / Up to US$1.27B",
+      "premium": "N/A",
+      "therapeutic_area": "Neurology / Parkinson’s disease and other neurodegenerative diseases",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "GE HealthCare to acquire Sofie Biosciences for $945M",
+      "acquirer": "GE HealthCare",
+      "date": "06 Oct 2026",
+      "deal_value_usd": 945000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1R4emVaa0xfQzQ3V3Y3SHpoclZFT1o4T0prMk9FWkhseXBCWFVJNFlzVzI0dHZMSlhwckJXV2FMcnpBdVpwWFVMN0RpdU9yMFAzTHA0UXdJd2hoeU1lSzJLNkdFekxZVE5lTndZZHBNcmlrWW5RXzV0TzF2b29aTFNSZTI5OFFSZkhNeGh5VHRBeTE2YnJSbWxTR040NTVNelhNcnFB?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Cleary, Kirkland and DLA Piper Lead on Shionogi’s $2B IntraBio Acquisition",
+      "acquirer": null,
+      "date": "06 Oct 2026",
+      "deal_value_usd": 2000000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjUtb3U0UFlFeENJNFJUQzBlaWZlc1lJcmItOFJxU20wYnpfS041M1dFUXNqTGdjZGRERldEM1g0eWNwZlA5dFN1eXpqdTRCWmc2TEI4VmhXVk12MmQweWRkQ1l1TGNJN0ZiN3ZqQjJFN3MxWjNUQ0M5X2lTS2JwSWFrT2ZvdGd4VzgtRmNQbDVTaWJYdVFOYjVxN2UyNlB3RGxvdUxyUEpwZDJ6Tlc0dE5FU2VIekN3cDNyY1lkVjh6d2c?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
