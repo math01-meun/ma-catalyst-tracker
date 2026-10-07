@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T20:50:48.828045+00:00",
+  "last_updated": "2026-10-07T15:19:15.782728+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1419,6 +1419,52 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/luminous-mind-inc-announces-us-patent-for-non-hallucinogenic-psychedelic-mushrooms-302890972.html",
       "status": "reported"
+    },
+    {
+      "target": "Integrity Care Group Enters Two New States and Strengthens Core Market with Acquisition of 15 NextCare Clinics; Now Offers Access to High-Quality Healthcare in 100 Clinics Across Five States",
+      "acquirer": null,
+      "date": "07 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/07/3376492/0/en/integrity-care-group-enters-two-new-states-and-strengthens-core-market-with-acquisition-of-15-nextcare-clinics-now-offers-access-to-high-quality-healthcare-in-100-clinics-across-fi.html",
+      "status": "reported"
+    },
+    {
+      "target": "Fairfax Partners with Wittington Investments in Acquisition of The Boots Group",
+      "acquirer": null,
+      "date": "07 Oct 2026",
+      "deal_value_usd": 8900000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/07/3376554/0/en/fairfax-partners-with-wittington-investments-in-acquisition-of-the-boots-group.html",
+      "status": "reported"
+    },
+    {
+      "target": "Asieris Pharmaceuticals Enters an Exclusive Licensing Agreement with Theramex for CEVIRA® subject to certain conditions, Advancing the Global Development and Commercialization of a Non-Surgical Treatment for Cervical Precancerous Lesions in Europe",
+      "acquirer": null,
+      "date": "07 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/asieris-pharmaceuticals-enters-an-exclusive-licensing-agreement-with-theramex-for-cevira-subject-to-certain-conditions-advancing-the-global-development-and-commercialization-of-a-non-surgical-treatment-for-cervical-precancerous--302901215.html",
+      "status": "reported"
+    },
+    {
+      "target": "AmyriAD Therapeutics Acquires Recognify Life Sciences, Expanding Its Clinical-Stage Cognition Pipeline with RL-007 (Inidascamine)",
+      "acquirer": "AmyriAD Therapeutics",
+      "date": "07 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/amyriad-therapeutics-acquires-recognify-life-sciences-expanding-its-clinical-stage-cognition-pipeline-with-rl-007-inidascamine-302900667.html",
+      "status": "reported"
+    },
+    {
+      "target": "TCAA IPO News - SPAC Tang Capital Acquisition files for a $75 million IPO, targeting development-stage biopharma",
+      "acquirer": null,
+      "date": "06 Oct 2026",
+      "deal_value_usd": 75000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDZKVllrRGpFeEZoMzJOaFdfZjJKLTI0VG1hQzMwSEhTTUFJR2xvZm10eWJPdEcyaEpZLWVTNzVoZ0FSdjlrQWFSQTRTYTRDT3o3OWhrTjZFaDlCZ0xCM1hiVjJtcFZPS3dwSVNKMVA0RnMxRmpmc1c4azFlbXVrMHZHbHNQajRWeG9jTjFjYkJlWDdzZTJxY3Z0Z2ZSLVlpNHhnbzRaeUhMQnYwUV9URk5Vb3RRVWVZSzVnVkN5U3dWdw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
