@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T15:19:15.782728+00:00",
+  "last_updated": "2026-10-07T21:04:42.351725+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1465,6 +1465,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDZKVllrRGpFeEZoMzJOaFdfZjJKLTI0VG1hQzMwSEhTTUFJR2xvZm10eWJPdEcyaEpZLWVTNzVoZ0FSdjlrQWFSQTRTYTRDT3o3OWhrTjZFaDlCZ0xCM1hiVjJtcFZPS3dwSVNKMVA0RnMxRmpmc1c4azFlbXVrMHZHbHNQajRWeG9jTjFjYkJlWDdzZTJxY3Z0Z2ZSLVlpNHhnbzRaeUhMQnYwUV9URk5Vb3RRVWVZSzVnVkN5U3dWdw?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "SRX Global and CERO 1236, a Wholly-Owned SPV, Enter into Definitive Agreement to Acquire CERo Therapeutics, an Innovative Cellular Immunotherapy Company Developing CER 1236 for Hematologic Malignancies",
+      "acquirer": "SRX Global and CERO 1236, a Wholly-Owned SPV, Enter into Definitive Agreement",
+      "date": "07 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/10/07/3376797/0/en/srx-global-and-cero-1236-a-wholly-owned-spv-enter-into-definitive-agreement-to-acquire-cero-therapeutics-an-innovative-cellular-immunotherapy-company-developing-cer-1236-for-hemato.html",
+      "status": "reported"
     }
   ]
 }
