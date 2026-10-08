@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T21:04:42.351725+00:00",
+  "last_updated": "2026-10-08T15:19:42.871166+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1474,6 +1474,67 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/10/07/3376797/0/en/srx-global-and-cero-1236-a-wholly-owned-spv-enter-into-definitive-agreement-to-acquire-cero-therapeutics-an-innovative-cellular-immunotherapy-company-developing-cer-1236-for-hemato.html",
       "status": "reported"
+    },
+    {
+      "target": "Defand (Research Collaboration)",
+      "acquirer": "Roche",
+      "status": "Licensing",
+      "date": "08 Oct 2026",
+      "deal_value_usd": 1000000000.0,
+      "deal_value_text": "Upfront Less than US$10M (reported) / Up to ~US$1B including milestones (reported)",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Immunology",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Alentis Therapeutics (Exclusive Global Co-development and Co-commercialisation)",
+      "acquirer": "CSL",
+      "status": "Licensing",
+      "date": "05 Oct 2026",
+      "deal_value_usd": 1555000000.0,
+      "deal_value_text": "Upfront US$355M / Up to US$1.555B plus profit sharing",
+      "premium": "N/A",
+      "therapeutic_area": "Rare kidney and liver diseases / Fibrosis",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Petauri Expands HEOR and Market Access Capabilities with Acquisition of Franklin Pharmaceutical Consulting",
+      "acquirer": null,
+      "date": "08 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/petauri-expands-heor-and-market-access-capabilities-with-acquisition-of-franklin-pharmaceutical-consulting-302902069.html",
+      "status": "reported"
+    },
+    {
+      "target": "China SXT Pharmaceuticals Inc. Announces $12 Million Registered Direct Offering",
+      "acquirer": null,
+      "date": "08 Oct 2026",
+      "deal_value_usd": 12000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/china-sxt-pharmaceuticals-inc-announces-12-million-registered-direct-offering-302902504.html",
+      "status": "reported"
+    },
+    {
+      "target": "BPS Bioscience Licenses Monod Bio's AI-Designed Proteins to Develop Novel Research Products and Services",
+      "acquirer": null,
+      "date": "08 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/bps-bioscience-licenses-monod-bios-ai-designed-proteins-to-develop-novel-research-products-and-services-302902057.html",
+      "status": "reported"
+    },
+    {
+      "target": "Viatris to acquire non-opioid pain therapy maker Pacira BioSciences for $1.65 billion",
+      "acquirer": "Viatris",
+      "date": "08 Oct 2026",
+      "deal_value_usd": 1650000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXg0TURhNzZGSGdFWHY4aGhXN25uLTBYZHIxSEZDMkVUbU1GMVI2VzFCbkg5RFh3OFZyUV9ZRUtyWGNPeXM4ZG5ncnBRVUdNakdNMmcwd1JDWWtHSURLczZJN291TFNxVU9wRXo4S3BmWFhfTmR4UkFWUG9rQ2Ffd3p1dVF2YmNYZFhBOVRXc2hpdk5KT0hPZXV5b0Q3VDRaSVdNWGhXdmdjRkpUd0JIMERB?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
