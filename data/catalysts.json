@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T15:19:42.871166+00:00",
+  "last_updated": "2026-10-08T21:06:47.068365+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1535,6 +1535,15 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXg0TURhNzZGSGdFWHY4aGhXN25uLTBYZHIxSEZDMkVUbU1GMVI2VzFCbkg5RFh3OFZyUV9ZRUtyWGNPeXM4ZG5ncnBRVUdNakdNMmcwd1JDWWtHSURLczZJN291TFNxVU9wRXo4S3BmWFhfTmR4UkFWUG9rQ2Ffd3p1dVF2YmNYZFhBOVRXc2hpdk5KT0hPZXV5b0Q3VDRaSVdNWGhXdmdjRkpUd0JIMERB?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "ALCMI and Sophos IRB Form Strategic Partnership to Advance Lung Cancer Clinical Research",
+      "acquirer": null,
+      "date": "08 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/alcmi-and-sophos-irb-form-strategic-partnership-to-advance-lung-cancer-clinical-research-302902845.html",
+      "status": "reported"
     }
   ]
 }
