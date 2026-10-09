@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T21:06:47.068365+00:00",
+  "last_updated": "2026-10-09T15:03:38.629592+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1326,13 +1326,16 @@
       "status": "reported"
     },
     {
-      "target": "Harrow Closes Acquisition of TYRVAYA®",
-      "acquirer": null,
-      "date": "05 Oct 2026",
+      "target": "Biohaven (Regional License)",
+      "acquirer": "Ono Pharmaceutical",
+      "status": "Licensing",
+      "date": "08 Oct 2026",
       "deal_value_usd": 100000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Upfront US$80M / US$100M upfront and milestone payments, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease",
       "link": "https://www.globenewswire.com/news-release/2026/10/05/3374393/0/en/harrow-closes-acquisition-of-tyrvaya.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Baird Medical Highlights Global Expansion and Strategic Progress During Third Quarter 2026",
@@ -1439,13 +1442,16 @@
       "status": "reported"
     },
     {
-      "target": "Asieris Pharmaceuticals Enters an Exclusive Licensing Agreement with Theramex for CEVIRA® subject to certain conditions, Advancing the Global Development and Commercialization of a Non-Surgical Treatment for Cervical Precancerous Lesions in Europe",
-      "acquirer": null,
+      "target": "Asieris Pharmaceuticals (Conditional Regional License)",
+      "acquirer": "Theramex",
+      "status": "Licensing",
       "date": "07 Oct 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Oncology",
+      "deal_value_usd": 250000000.0,
+      "deal_value_text": "Upfront US$15M, subject to conditions / More than US$250M, plus tiered royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Women’s health / Cervical precancerous lesions",
       "link": "https://www.prnewswire.com/news-releases/asieris-pharmaceuticals-enters-an-exclusive-licensing-agreement-with-theramex-for-cevira-subject-to-certain-conditions-advancing-the-global-development-and-commercialization-of-a-non-surgical-treatment-for-cervical-precancerous--302901215.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "AmyriAD Therapeutics Acquires Recognify Life Sciences, Expanding Its Clinical-Stage Cognition Pipeline with RL-007 (Inidascamine)",
@@ -1527,14 +1533,16 @@
       "status": "reported"
     },
     {
-      "target": "Viatris to acquire non-opioid pain therapy maker Pacira BioSciences for $1.65 billion",
+      "target": "Pacira BioSciences",
       "acquirer": "Viatris",
+      "status": "Public",
       "date": "08 Oct 2026",
       "deal_value_usd": 1650000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "~US$1.65B equity value",
+      "premium": "45% to the unaffected closing share price",
+      "therapeutic_area": "Pain / Non-opioid pain management",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXg0TURhNzZGSGdFWHY4aGhXN25uLTBYZHIxSEZDMkVUbU1GMVI2VzFCbkg5RFh3OFZyUV9ZRUtyWGNPeXM4ZG5ncnBRVUdNakdNMmcwd1JDWWtHSURLczZJN291TFNxVU9wRXo4S3BmWFhfTmR4UkFWUG9rQ2Ffd3p1dVF2YmNYZFhBOVRXc2hpdk5KT0hPZXV5b0Q3VDRaSVdNWGhXdmdjRkpUd0JIMERB?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "ALCMI and Sophos IRB Form Strategic Partnership to Advance Lung Cancer Clinical Research",
@@ -1543,6 +1551,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Oncology",
       "link": "https://www.prnewswire.com/news-releases/alcmi-and-sophos-irb-form-strategic-partnership-to-advance-lung-cancer-clinical-research-302902845.html",
+      "status": "reported"
+    },
+    {
+      "target": "Perceptive Discovery and Nucleus RadioPharma Announce Strategic Partnership to Accelerate Radiopharmaceutical Development from Target to Clinic",
+      "acquirer": "Perceptive Discovery",
+      "date": "09 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/perceptive-discovery-and-nucleus-radiopharma-announce-strategic-partnership-to-accelerate-radiopharmaceutical-development-from-target-to-clinic-302903548.html",
       "status": "reported"
     }
   ]
