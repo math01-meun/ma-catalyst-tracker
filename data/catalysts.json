@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T11:30:17.286716+00:00",
+  "last_updated": "2026-10-13T19:00:22.381231+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1609,6 +1609,25 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/amsurg-partners-with-euclid-endoscopy-center-to-expand-access-to-care-in-san-diego-county-302906344.html",
       "status": "reported"
+    },
+    {
+      "target": "Packaging Compliance Labs Adds State-of-the-art Instron Testing Platforms to New Pharma Lab",
+      "acquirer": null,
+      "date": "13 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/packaging-compliance-labs-adds-state-of-the-art-instron-testing-platforms-to-new-pharma-lab-302906665.html",
+      "status": "reported"
+    },
+    {
+      "target": "Agilent to Acquire Proscia in $270M Deal",
+      "acquirer": "Agilent",
+      "date": "13 Oct 2026",
+      "deal_value_usd": 270000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUFrZFhqZ3dOdzhKbXRDRW9MV19KNFdDTTQ3aGZ6Q2ZxdkVnM00zWmpXb0RWeXJhWF9nLWJSNUhTaklaZ3dMS1pleWFpZldzczVCME9mM1hJTS1IUF9OUVVFdkFaOVJ6Q0F6RC1FY2ZKc2hBTUh2YlJKM05rNkh6NWtqTG9wYXRvNGppTS1R?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
