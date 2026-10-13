@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T01:52:45.076603+00:00",
+  "last_updated": "2026-10-13T11:30:17.286716+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1569,6 +1569,45 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/xodus-medical-announces-agreement-to-be-acquired-by-steris-nyse-ste-302906035.html",
+      "status": "reported"
+    },
+    {
+      "target": "Chai Discovery (AI Platform Access / Discovery Collaboration)",
+      "acquirer": "GSK",
+      "status": "Licensing",
+      "date": "09 Oct 2026",
+      "deal_value_usd": null,
+      "deal_value_text": "Upfront Not disclosed / Not disclosed",
+      "premium": "N/A",
+      "therapeutic_area": "Multiple therapeutic areas; targets not disclosed",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Paragon Labs Expands Leadership Team with Former Apogee Executives; Velaris Therapeutics Acquired by Alaunos Therapeutics, Inc.",
+      "acquirer": null,
+      "date": "13 Oct 2026",
+      "deal_value_usd": 10900000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/paragon-labs-expands-leadership-team-with-former-apogee-executives-velaris-therapeutics-acquired-by-alaunos-therapeutics-inc-302906315.html",
+      "status": "reported"
+    },
+    {
+      "target": "Rona Therapeutics enters into global license agreement with Roche for ALK7-targeting RNAi therapy for obesity and metabolic diseases",
+      "acquirer": null,
+      "date": "13 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.prnewswire.com/news-releases/rona-therapeutics-enters-into-global-license-agreement-with-roche-for-alk7-targeting-rnai-therapy-for-obesity-and-metabolic-diseases-302905730.html",
+      "status": "reported"
+    },
+    {
+      "target": "AMSURG Partners with Euclid Endoscopy Center to Expand Access to Care in San Diego County",
+      "acquirer": null,
+      "date": "13 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/amsurg-partners-with-euclid-endoscopy-center-to-expand-access-to-care-in-san-diego-county-302906344.html",
       "status": "reported"
     }
   ]
