@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T15:03:38.629592+00:00",
+  "last_updated": "2026-10-13T01:52:45.076603+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1560,6 +1560,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/perceptive-discovery-and-nucleus-radiopharma-announce-strategic-partnership-to-accelerate-radiopharmaceutical-development-from-target-to-clinic-302903548.html",
+      "status": "reported"
+    },
+    {
+      "target": "Xodus Medical Announces Agreement to Be Acquired by STERIS (NYSE: STE)",
+      "acquirer": "STERIS (NYSE: STE)",
+      "date": "12 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/xodus-medical-announces-agreement-to-be-acquired-by-steris-nyse-ste-302906035.html",
       "status": "reported"
     }
   ]
