@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T19:00:22.381231+00:00",
+  "last_updated": "2026-10-14T09:27:08.415457+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1626,6 +1626,16 @@
       "deal_value_usd": 270000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUFrZFhqZ3dOdzhKbXRDRW9MV19KNFdDTTQ3aGZ6Q2ZxdkVnM00zWmpXb0RWeXJhWF9nLWJSNUhTaklaZ3dMS1pleWFpZldzczVCME9mM1hJTS1IUF9OUVVFdkFaOVJ6Q0F6RC1FY2ZKc2hBTUh2YlJKM05rNkh6NWtqTG9wYXRvNGppTS1R?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Alaunos Therapeutics surges after Velaris acquisition and $350 million financing",
+      "acquirer": null,
+      "date": "13 Oct 2026",
+      "deal_value_usd": 350000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0Via2lTRERETHVuTUtFd09Rb2JELXl0cGI2bnhfU2I3VWtub3pVZnJCN0s4YlJUT0dLR3VBdHpNNTFjaURVUDg2RTlIYTZzeXFBcHNrUDBGTEtiUmtEYW1LTXRKaU5PQk5yYUVuOVF2OUctT1A4ZGE1WGNwWVNaMmJUU0tvb2d4NlVsYURfNy1NTGE1UXU2THJ1SFZ4S2RxZjl3N2plX1pKWnpBVzhRVmp6TFdRZw?oc=5",
       "status": "reported",
       "source": "news"
     }
