@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:27:08.415457+00:00",
+  "last_updated": "2026-10-14T16:45:38.358440+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1636,6 +1636,26 @@
       "deal_value_usd": 350000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0Via2lTRERETHVuTUtFd09Rb2JELXl0cGI2bnhfU2I3VWtub3pVZnJCN0s4YlJUT0dLR3VBdHpNNTFjaURVUDg2RTlIYTZzeXFBcHNrUDBGTEtiUmtEYW1LTXRKaU5PQk5yYUVuOVF2OUctT1A4ZGE1WGNwWVNaMmJUU0tvb2d4NlVsYURfNy1NTGE1UXU2THJ1SFZ4S2RxZjl3N2plX1pKWnpBVzhRVmp6TFdRZw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "FLSC IPO News - Biotech-focused SPAC Frazier Life Sciences Acquisition II prices $75 million IPO",
+      "acquirer": null,
+      "date": "14 Oct 2026",
+      "deal_value_usd": 75000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3hjaWdwaGdtYVdQY09UU053OHo1cWtuUzkzSXlEcGRfcjhERmVGN3lsSW5DVDVnMkh6Y09tV0NudzJYQ0pQU0hhV1dZUmk2TEstaDRlc1F2a01oTlJmWEgyVEI4YzcxZVpIaGpqT1Y3SGdIMVluUmZIWXFhMVpvZmhXZHQ1NkZod1hOTnlBOGtlVWhKLTBZNy1vcUJZX2tTVHRfSVdkM0pNSXFscldtQnFaNDJnYWVXTXMxeFdHTkpQSWs?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health",
+      "acquirer": null,
+      "date": "14 Oct 2026",
+      "deal_value_usd": 1500000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmxpNW9ISXE3c21ocEFCbnVIY1hNSktHS1huRWp4S0ZtUER3dzVGaWx5ci0wQzNpTklqSjQ0TEgxVnFfOS1jcXQtR0hIWHp4MjMtUEstclRSTW96RGZMTXNkX1BnclNDMC1hbEJFb2pDVWwxRGJLajZHODhQeVZ2T19TUzVrMVgxVG0zb1JOMHhNVTVPekdOLWh1S2MxNUxobUNGSTF3?oc=5",
       "status": "reported",
       "source": "news"
     }
