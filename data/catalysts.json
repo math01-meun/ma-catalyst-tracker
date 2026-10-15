@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T16:31:23.384373+00:00",
+  "last_updated": "2026-10-15T22:56:02.748799+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1716,6 +1716,25 @@
       "deal_value_usd": 722000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "New England Biolabs® and seqWell Announce Strategic Partnership and Commercial Launch of High-Performance TnX® Transposase (Unloaded)",
+      "acquirer": "New England Biolabs®",
+      "date": "15 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/new-england-biolabs-and-seqwell-announce-strategic-partnership-and-commercial-launch-of-high-performance-tnx-transposase-unloaded-302910380.html",
+      "status": "reported"
+    },
+    {
+      "target": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma",
+      "acquirer": "Labcorp",
+      "date": "15 Oct 2026",
+      "deal_value_usd": 872000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
       "status": "reported",
       "source": "news"
     }
