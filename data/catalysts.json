@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T16:45:38.358440+00:00",
+  "last_updated": "2026-10-15T16:31:23.384373+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1593,13 +1593,16 @@
       "status": "reported"
     },
     {
-      "target": "Rona Therapeutics enters into global license agreement with Roche for ALK7-targeting RNAi therapy for obesity and metabolic diseases",
-      "acquirer": null,
+      "target": "Rona Therapeutics (Exclusive Global License)",
+      "acquirer": "Roche",
+      "status": "Licensing",
       "date": "13 Oct 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Cardiovascular / Metabolic",
+      "deal_value_usd": 1160000000.0,
+      "deal_value_text": "Upfront Up to US$100M combined upfront and near-term milestones / Up to US$1.16B, plus tiered royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Obesity / Metabolic disease",
       "link": "https://www.prnewswire.com/news-releases/rona-therapeutics-enters-into-global-license-agreement-with-roche-for-alk7-targeting-rnai-therapy-for-obesity-and-metabolic-diseases-302905730.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "AMSURG Partners with Euclid Endoscopy Center to Expand Access to Care in San Diego County",
@@ -1650,12 +1653,69 @@
       "source": "news"
     },
     {
-      "target": "Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health",
-      "acquirer": null,
+      "target": "ZO Skin Health",
+      "acquirer": "Galderma",
+      "status": "Private",
       "date": "14 Oct 2026",
       "deal_value_usd": 1500000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "US$1.5B enterprise value",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Dermatology / Physician-dispensed skincare",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmxpNW9ISXE3c21ocEFCbnVIY1hNSktHS1huRWp4S0ZtUER3dzVGaWx5ci0wQzNpTklqSjQ0TEgxVnFfOS1jcXQtR0hIWHp4MjMtUEstclRSTW96RGZMTXNkX1BnclNDMC1hbEJFb2pDVWwxRGJLajZHODhQeVZ2T19TUzVrMVgxVG0zb1JOMHhNVTVPekdOLWh1S2MxNUxobUNGSTF3?oc=5",
+      "source": "biobucks"
+    },
+    {
+      "target": "Vir Biotechnology (Discovery Collaboration and Exclusive License)",
+      "acquirer": "Gilead Sciences",
+      "status": "Licensing",
+      "date": "14 Oct 2026",
+      "deal_value_usd": 1875000000.0,
+      "deal_value_text": "Upfront US$65M cash + US$25M equity / Up to US$1.875B including equity, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Solid tumours",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Enodia Therapeutics (Research Collaboration and License)",
+      "acquirer": "Pfizer",
+      "status": "Licensing",
+      "date": "13 Oct 2026",
+      "deal_value_usd": 500000000.0,
+      "deal_value_text": "Upfront Not disclosed / More than US$500M potential value, plus tiered royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Not disclosed",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Generate Biomedicines (Discovery Collaboration and License)",
+      "acquirer": "Zealand Pharma",
+      "status": "Licensing",
+      "date": "13 Oct 2026",
+      "deal_value_usd": 1200000000.0,
+      "deal_value_text": "Upfront US$30M / US$30M upfront plus nearly US$1.2B in total milestones and royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Obesity / Metabolic disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "AtomVie Global Radiopharma Announces Strategic Partnership with Jubilant Radiopharma to Strengthen Clinical Trial Logistics and Distribution",
+      "acquirer": null,
+      "date": "15 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/atomvie-global-radiopharma-announces-strategic-partnership-with-jubilant-radiopharma-to-strengthen-clinical-trial-logistics-and-distribution-302909713.html",
+      "status": "reported"
+    },
+    {
+      "target": "Labcorp to Acquire Key BioReference Health Assets in $722M Deal",
+      "acquirer": "Labcorp",
+      "date": "15 Oct 2026",
+      "deal_value_usd": 722000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5",
       "status": "reported",
       "source": "news"
     }
