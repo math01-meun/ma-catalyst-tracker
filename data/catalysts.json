@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T22:56:02.748799+00:00",
+  "last_updated": "2026-10-16T16:16:33.019892+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1737,6 +1737,15 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Parkview Health announces agreement to acquire Ovation Healthcare to strengthen community healthcare nationwide, advance local affordability",
+      "acquirer": "Parkview Health announces agreement",
+      "date": "16 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/parkview-health-announces-agreement-to-acquire-ovation-healthcare-to-strengthen-community-healthcare-nationwide-advance-local-affordability-302911410.html",
+      "status": "reported"
     }
   ]
 }
