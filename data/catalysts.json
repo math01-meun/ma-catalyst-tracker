@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:28:49.105122+00:00",
+  "last_updated": "2026-10-19T23:25:24.872627+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1774,6 +1774,16 @@
       "deal_value_usd": 15000000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWpXMG54eVd4cE4xSlpBTGRVVEh0eHg5NHFaczNPeG9kSXdzcG05OVh3X2hPWHhqcG9vQUR3YnJmcWRDREs3R3pYLXRwQUNLb0lBWG5faVljNm9iXzhrUnBFZEYxUmFZU3dCZTk4S1NDdENuMjUwQzc5NVJhN3ViXy1xVlhMTXliVDVHOHZSZi0yOHVDUmVnOA?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "TCGX Acquisition Files $600M SPAC Merger Proposal with TriGemX Bio, Advancing Migraine Drug Trials",
+      "acquirer": null,
+      "date": "19 Oct 2026",
+      "deal_value_usd": 600000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2lfZjM4T3BqR0pwNFdZZmFrajZJT2k4WFAwZlhFM0NlSHB2N3JUVkhFU01kTnpfaWZLWXlmeWhuMWd5bnVFVU5BZ05JOXAyTDk0c2E3Tl9uVHRIcGp6WE11VEhac1NiWm1sT18xczFtVEtNcmV3elRmcFE3emlLSWVrV2ZkRUxuT3liZzdQSmVndjUxMVU5amRHaHdrQXRJWXB4OFYyZGNDVkRZWWl4Sjd4MTFkYXZwVnVyY2xYSzgyLXBuclJ5VVpvSTFmMGc1X0E1N0M1LXZjVFE?oc=5",
       "status": "reported",
       "source": "news"
     }
