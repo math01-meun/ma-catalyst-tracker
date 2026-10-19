@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T16:16:33.019892+00:00",
+  "last_updated": "2026-10-19T18:28:49.105122+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1746,6 +1746,36 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/parkview-health-announces-agreement-to-acquire-ovation-healthcare-to-strengthen-community-healthcare-nationwide-advance-local-affordability-302911410.html",
       "status": "reported"
+    },
+    {
+      "target": "Migraine biotech TriGemX to go public via SPAC merger with $246M in proceeds",
+      "acquirer": null,
+      "date": "19 Oct 2026",
+      "deal_value_usd": 246000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1NBWnlWLXZnS0lEang5b01NT0htdklNeFY3a3lMX3R1YVhyYV94Q2w0bWNfRE45U1NldVhnNjFUUWl2YnRCZUtsZnprVGVmc3E3ZENxYzJYM0piN3hIaEdJQzRxeFdQNmZPUVJMaHU5cjFTZm8wOGNJckZqUnlfZmREaTFlU3FwZ1Q1QVN0MDdLRzNGQ3QyV250RnNQSkhEbGJHekxSVWxCMDBZNGc?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Merck Acquires Silence Therapeutics in $1.3B RNA Drug Deal",
+      "acquirer": "Merck",
+      "date": "19 Oct 2026",
+      "deal_value_usd": 1300000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejRfYUdhclE5TEFUTDJLVm5qYi1XUWlVZElKMHlwUHlFQ1c5VkpJNEJNYTIyMmFhZkJ6a1Y4MjJuTU5Nc24tcjNLeHhGQk53MTFjb1ZWVkN4eFpuaDk3NEN0MjY1bGpiY2ptQ2Z3WW92X0x2V3d0WHpOaHV0OFFwTUY1emVzd2sxQzBVQ3VZUVdISU5ubHhReQ?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Hansoh Pharma Enters $15 Billion Collaboration and License Agreement with Roche",
+      "acquirer": null,
+      "date": "19 Oct 2026",
+      "deal_value_usd": 15000000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWpXMG54eVd4cE4xSlpBTGRVVEh0eHg5NHFaczNPeG9kSXdzcG05OVh3X2hPWHhqcG9vQUR3YnJmcWRDREs3R3pYLXRwQUNLb0lBWG5faVljNm9iXzhrUnBFZEYxUmFZU3dCZTk4S1NDdENuMjUwQzc5NVJhN3ViXy1xVlhMTXliVDVHOHZSZi0yOHVDUmVnOA?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
