@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T23:25:24.872627+00:00",
+  "last_updated": "2026-10-20T16:31:13.631064+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1786,6 +1786,24 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2lfZjM4T3BqR0pwNFdZZmFrajZJT2k4WFAwZlhFM0NlSHB2N3JUVkhFU01kTnpfaWZLWXlmeWhuMWd5bnVFVU5BZ05JOXAyTDk0c2E3Tl9uVHRIcGp6WE11VEhac1NiWm1sT18xczFtVEtNcmV3elRmcFE3emlLSWVrV2ZkRUxuT3liZzdQSmVndjUxMVU5amRHaHdrQXRJWXB4OFYyZGNDVkRZWWl4Sjd4MTFkYXZwVnVyY2xYSzgyLXBuclJ5VVpvSTFmMGc1X0E1N0M1LXZjVFE?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Trinity Acquires Verix, Adding AI-Powered Next-Best-Action and Omnichannel Orchestration to the TrinityEDGE Platform",
+      "acquirer": "Trinity",
+      "date": "20 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/trinity-acquires-verix-adding-ai-powered-next-best-action-and-omnichannel-orchestration-to-the-trinityedge-platform-302914278.html",
+      "status": "reported"
+    },
+    {
+      "target": "Azra AI Acquires Blackford Analysis to Close the Most Dangerous Gap in Healthcare: What Happens After the Scan",
+      "acquirer": "Azra AI",
+      "date": "20 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/azra-ai-acquires-blackford-analysis-to-close-the-most-dangerous-gap-in-healthcare-what-happens-after-the-scan-302913732.html",
+      "status": "reported"
     }
   ]
 }
