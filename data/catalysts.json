@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:31:13.631064+00:00",
+  "last_updated": "2026-10-21T09:11:54.190660+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1804,6 +1804,52 @@
       "therapeutic_area": "Oncology",
       "link": "https://www.prnewswire.com/news-releases/azra-ai-acquires-blackford-analysis-to-close-the-most-dangerous-gap-in-healthcare-what-happens-after-the-scan-302913732.html",
       "status": "reported"
+    },
+    {
+      "target": "Evocati PR Announces Medical Technology Innovator Bioservo as Newest Client",
+      "acquirer": null,
+      "date": "12 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/evocati-pr-announces-medical-technology-innovator-bioservo-as-newest-client-302903206.html",
+      "status": "reported"
+    },
+    {
+      "target": "FST Technical Services Expands Capabilities with Acquisition of Validation Systems Incorporated",
+      "acquirer": null,
+      "date": "08 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/fst-technical-services-expands-capabilities-with-acquisition-of-validation-systems-incorporated-302901057.html",
+      "status": "reported"
+    },
+    {
+      "target": "AvevoRx Earns Third Consecutive Triad Fast 50 Recognition Amid Continued National Expansion",
+      "acquirer": null,
+      "date": "02 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/avevorx-earns-third-consecutive-triad-fast-50-recognition-amid-continued-national-expansion-302896820.html",
+      "status": "reported"
+    },
+    {
+      "target": "Othram Acquires Sorenson Forensics to Support Investigations from Day One",
+      "acquirer": "Othram",
+      "date": "29 Sep 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/othram-acquires-sorenson-forensics-to-support-investigations-from-day-one-302893027.html",
+      "status": "reported"
+    },
+    {
+      "target": "Hutchmed's KRAS-EGFR Conjugate Therapy Goes Global as $110 Million Upfront Payment Nears",
+      "acquirer": null,
+      "date": "21 Oct 2026",
+      "deal_value_usd": 110000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kbGt6NTlyWjNuMTF4UnhTZnZ0UEktXzQ0UVd6QXg4NTRFc2RXZlhEeTBlUjRDbWM1bHFkQ0NHTFZHQUU2Yi0tMkpyVjM1RFk4elllSWQxZ2R1ZW53elJQYTZQT1ZQcXlJaWtNYnFCd1MyeEhyMUE?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
