@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:11:54.190660+00:00",
+  "last_updated": "2026-10-21T16:48:35.099562+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1848,6 +1848,25 @@
       "deal_value_usd": 110000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kbGt6NTlyWjNuMTF4UnhTZnZ0UEktXzQ0UVd6QXg4NTRFc2RXZlhEeTBlUjRDbWM1bHFkQ0NHTFZHQUU2Yi0tMkpyVjM1RFk4elllSWQxZ2R1ZW53elJQYTZQT1ZQcXlJaWtNYnFCd1MyeEhyMUE?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Mapmygenome Completes Acquisition of dnaPower Inc. to Accelerate North American Expansion in DNA, Microbiome, Longevity and Precision Health Testing",
+      "acquirer": "Mapmygenome",
+      "date": "21 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/mapmygenome-completes-acquisition-of-dnapower-inc-to-accelerate-north-american-expansion-in-dna-microbiome-longevity-and-precision-health-testing-302915388.html",
+      "status": "reported"
+    },
+    {
+      "target": "AI Proteins Announces Research Collaboration and License Agreement With Astellas Pharma to Discover and Develop Novel Miniprotein-Based Therapeutics Valued at Over $400 Million",
+      "acquirer": null,
+      "date": "21 Oct 2026",
+      "deal_value_usd": 400000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNi1jaDgtR0xKMmhlVHNDX05oUnhnekhDaFRIdFFKdHdjbmIxWmJmQVhScmJZalhhTl9iLU9FUkdqVmpGODNvcFBlRGo1RFBLTUpZV3loUnNpazEzSFJ3bFdWM1BtcmRHQzhwUC1zV3BSRFd0ajdhbVlNOGxjbUJwMk1vOEF0djl4bW8tZUNyd21QWlFucURsc1BDdnJneC1YUFlPb0V2eW8xRUdaQTdFbWdsM1NrUjdtT2hkSGJSRWYzYV9VRHk2NHlncHNwNHpCQkN3Q2N0N3VFUUljaURiWG44V1Y4dG56MnAxSlZGdENuU3Z5VnFNelljT3RzZFpkX3MtRTZtcXpKZXlGUTBxZHVEQlVOdFI3dFhUbzJid1AtOEcyNHlDdjMyYUJRLUdmc0pvUjdRRjd0cnhnbGphMWkyNTB1Q1VqeDJkN3lMdHlfV0pMbmc?oc=5",
       "status": "reported",
       "source": "news"
     }
