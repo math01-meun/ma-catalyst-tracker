@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:52:08.306254+00:00",
+  "last_updated": "2026-10-22T23:01:33.452075+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1904,6 +1904,16 @@
       "deal_value_usd": 230000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZUVURkthUDIzai16U25MMVMzNk9WcjRkaFZhaEtmNkI4UDB2eHUyY2pkT0h4Qkw2cVlBdXEzQWxjdEFVMkRPSERlMEFQR2UxNHJNUXpHN0NsOTdnTjEtVGZJNmVsbGFXU1M0cEZCa0RHZ0JSalIyOFd6cmcxQ2ZmbTRHaDJuOWhxS0lGVzdxb3R1T1djcnA0S095djEyV3kzaU82X2xTTmRyYlg0dWtmbDcycWhBQ251MkR1bGtHQkpzOG9aZ2pYdV9CRkFJV2FMTWhvN01wblhqUDFsT1ZLUmRJNFVkRmtVZkxsZlQ5NnZCak9zWVE?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition",
+      "acquirer": null,
+      "date": "22 Oct 2026",
+      "deal_value_usd": 550000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRE1GeG0xX1QzTkx1Vk1BdEJOMnVwdXBlNDhGX2Izb3dERDdzLWk0SnNvNmo0cHNjTy1DVkhnSk5xWjZHcTN3UEg1Y2FVelVfYkhJbnl2ZXpCOV9ON3dyZVMxbEk2Rk9MalQ0bFVKbGx3REZlcDZUNGZwV0NMRG1yN2FGVk9nTFdsQVRYbXdPcG1QUGhISndxX0xCbkJwa1doVUMwOUVUOGFVTnRnajJxSFRB?oc=5",
       "status": "reported",
       "source": "news"
     }
