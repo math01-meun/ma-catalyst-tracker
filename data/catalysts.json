@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:14:23.951551+00:00",
+  "last_updated": "2026-10-22T16:52:08.306254+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1887,6 +1887,25 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/ers-genomics-and-ku-leuven-sign-crisprcas9-license-agreement-to-expand-crispr-enabled-research-services-302916101.html",
       "status": "reported"
+    },
+    {
+      "target": "Georgiamune and Menarini Group Enter Exclusive Global License and Collaboration Agreement for GIM-621, a First-in-Class Oral Immuno-Oncology Agent",
+      "acquirer": "Georgiamune",
+      "date": "22 Oct 2026",
+      "deal_value_usd": 1100000000.0,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/georgiamune-and-menarini-group-enter-exclusive-global-license-and-collaboration-agreement-for-gim-621-a-first-in-class-oral-immuno-oncology-agent-302917069.html",
+      "status": "reported"
+    },
+    {
+      "target": "Is Arbutus Biopharma (NASDAQ:ABUS) Penny Stock Being Overlooked After a Moderna Settlement Payment and a $230 Million Tender Offer?",
+      "acquirer": null,
+      "date": "21 Oct 2026",
+      "deal_value_usd": 230000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZUVURkthUDIzai16U25MMVMzNk9WcjRkaFZhaEtmNkI4UDB2eHUyY2pkT0h4Qkw2cVlBdXEzQWxjdEFVMkRPSERlMEFQR2UxNHJNUXpHN0NsOTdnTjEtVGZJNmVsbGFXU1M0cEZCa0RHZ0JSalIyOFd6cmcxQ2ZmbTRHaDJuOWhxS0lGVzdxb3R1T1djcnA0S095djEyV3kzaU82X2xTTmRyYlg0dWtmbDcycWhBQ251MkR1bGtHQkpzOG9aZ2pYdV9CRkFJV2FMTWhvN01wblhqUDFsT1ZLUmRJNFVkRmtVZkxsZlQ5NnZCak9zWVE?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
