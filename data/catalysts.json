@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T03:46:28.883417+00:00",
+  "last_updated": "2026-10-22T09:14:23.951551+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1877,6 +1877,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/parkoursc-acquires-quartic-launching-the-first-unified-ai-platform-that-predicts-and-prevents-quality-risk-across-the-entire-life-sciences-value-chain-302908249.html",
+      "status": "reported"
+    },
+    {
+      "target": "ERS Genomics and KU Leuven Sign CRISPR/Cas9 License Agreement to Expand CRISPR-Enabled Research Services",
+      "acquirer": "ERS Genomics",
+      "date": "22 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/ers-genomics-and-ku-leuven-sign-crisprcas9-license-agreement-to-expand-crispr-enabled-research-services-302916101.html",
       "status": "reported"
     }
   ]
