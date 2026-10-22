@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T16:48:35.099562+00:00",
+  "last_updated": "2026-10-22T03:46:28.883417+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1869,6 +1869,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNi1jaDgtR0xKMmhlVHNDX05oUnhnekhDaFRIdFFKdHdjbmIxWmJmQVhScmJZalhhTl9iLU9FUkdqVmpGODNvcFBlRGo1RFBLTUpZV3loUnNpazEzSFJ3bFdWM1BtcmRHQzhwUC1zV3BSRFd0ajdhbVlNOGxjbUJwMk1vOEF0djl4bW8tZUNyd21QWlFucURsc1BDdnJneC1YUFlPb0V2eW8xRUdaQTdFbWdsM1NrUjdtT2hkSGJSRWYzYV9VRHk2NHlncHNwNHpCQkN3Q2N0N3VFUUljaURiWG44V1Y4dG56MnAxSlZGdENuU3Z5VnFNelljT3RzZFpkX3MtRTZtcXpKZXlGUTBxZHVEQlVOdFI3dFhUbzJid1AtOEcyNHlDdjMyYUJRLUdmc0pvUjdRRjd0cnhnbGphMWkyNTB1Q1VqeDJkN3lMdHlfV0pMbmc?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "ParkourSC Acquires Quartic Launching the First Unified AI Platform that Predicts and Prevents Quality Risk Across the Entire Life Sciences Value Chain",
+      "acquirer": "ParkourSC",
+      "date": "14 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/parkoursc-acquires-quartic-launching-the-first-unified-ai-platform-that-predicts-and-prevents-quality-risk-across-the-entire-life-sciences-value-chain-302908249.html",
+      "status": "reported"
     }
   ]
 }
