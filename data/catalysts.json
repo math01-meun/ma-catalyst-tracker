@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T23:01:33.452075+00:00",
+  "last_updated": "2026-10-23T16:40:16.557793+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1914,6 +1914,16 @@
       "deal_value_usd": 550000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRE1GeG0xX1QzTkx1Vk1BdEJOMnVwdXBlNDhGX2Izb3dERDdzLWk0SnNvNmo0cHNjTy1DVkhnSk5xWjZHcTN3UEg1Y2FVelVfYkhJbnl2ZXpCOV9ON3dyZVMxbEk2Rk9MalQ0bFVKbGx3REZlcDZUNGZwV0NMRG1yN2FGVk9nTFdsQVRYbXdPcG1QUGhISndxX0xCbkJwa1doVUMwOUVUOGFVTnRnajJxSFRB?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Bolt makes inflammation play with Prana reverse merger, $120M financing",
+      "acquirer": null,
+      "date": "23 Oct 2026",
+      "deal_value_usd": 120000000.0,
+      "therapeutic_area": "Immunology",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjQ2amEzV2lFUG5Eb0RFV0t2WFY4VWdXcHJuZlg2ZU9RT044Q2szMGxxY3c5WmhSRmNNM3JTVGVQa09tNTNkNkhKTGt0bnhZQkhPeHdjZHFwMjFXSHZzX3dMcHc4X25PZ09tdzFjVHpCeGp6QldqUDBCUWMyMTREdVFUZTY0dDhUR0o1MjhPZw?oc=5",
       "status": "reported",
       "source": "news"
     }
