@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T03:46:53.899424+00:00",
+  "last_updated": "2026-10-26T18:24:54.101567+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1934,6 +1934,16 @@
       "deal_value_usd": 435000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUNyU0xvY2hTVjc0d1JzX1lOZ3JSS21vVnVkR1FCeVVlYTlFVHhfRU9QaHpZMjZfSTNaUUgwTS1VbWJlOE9jNkFCYkVCXzIwWjRFS2hfVmFHZk5CbFJYYWRVU3d6RjJGWFF4cWlTNmZYUExfNUZuamN0b3pEbEl3cFpzUkxPSElidVFleU5FY08tZDZVYUd4T2J6bmZBQ2FTbnNFRGYzcXBPR1VVeVpnNEtKWGRRdWJUYWNGRHR5MHoyZ2xaa2lIZEF4OW51RUdKb0RVUThn?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Amanat Announces $377M Corxel Obesity Biotech Merger",
+      "acquirer": null,
+      "date": "26 Oct 2026",
+      "deal_value_usd": 377000000.0,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmR1V2pPSENCVGctOXZxdG8wWE9od0hTRDEtcE9DQzl0bUJsc2t2ajBqZ09pX19xYkIxRzl1VTVDeWcweHktMnNHN0xwMDBmWDZlQW5SU09ja21lM2syN0JpMFZOWjhnV185TVJHcHVtVVVZUTg3N2pJb0ctS1llQURla2ppNHNuYV9nbDdaT29xZw?oc=5",
       "status": "reported",
       "source": "news"
     }
