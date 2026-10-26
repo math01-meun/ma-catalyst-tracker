@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:40:16.557793+00:00",
+  "last_updated": "2026-10-26T03:46:53.899424+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1924,6 +1924,16 @@
       "deal_value_usd": 120000000.0,
       "therapeutic_area": "Immunology",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjQ2amEzV2lFUG5Eb0RFV0t2WFY4VWdXcHJuZlg2ZU9RT044Q2szMGxxY3c5WmhSRmNNM3JTVGVQa09tNTNkNkhKTGt0bnhZQkhPeHdjZHFwMjFXSHZzX3dMcHc4X25PZ09tdzFjVHpCeGp6QldqUDBCUWMyMTREdVFUZTY0dDhUR0o1MjhPZw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Nordic Capital-backed LEO Pharma to acquire dersimelagon rights from Bain-owned Tanabe for $435m",
+      "acquirer": "Nordic Capital-backed LEO Pharma",
+      "date": "25 Oct 2026",
+      "deal_value_usd": 435000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUNyU0xvY2hTVjc0d1JzX1lOZ3JSS21vVnVkR1FCeVVlYTlFVHhfRU9QaHpZMjZfSTNaUUgwTS1VbWJlOE9jNkFCYkVCXzIwWjRFS2hfVmFHZk5CbFJYYWRVU3d6RjJGWFF4cWlTNmZYUExfNUZuamN0b3pEbEl3cFpzUkxPSElidVFleU5FY08tZDZVYUd4T2J6bmZBQ2FTbnNFRGYzcXBPR1VVeVpnNEtKWGRRdWJUYWNGRHR5MHoyZ2xaa2lIZEF4OW51RUdKb0RVUThn?oc=5",
       "status": "reported",
       "source": "news"
     }
