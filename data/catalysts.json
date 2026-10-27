@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T14:06:53.407525+00:00",
+  "last_updated": "2026-10-27T20:29:27.452141+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1991,6 +1991,34 @@
       "therapeutic_area": "Immunology / IgA nephropathy",
       "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
       "source": "biobucks"
+    },
+    {
+      "target": "US WorldMeds Acquires Orbus Therapeutics, Expanding Commitment to Rare Diseases and Advancing Eflornithine in Adult Malignant Glioma",
+      "acquirer": "US WorldMeds",
+      "date": "27 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Rare Disease",
+      "link": "https://www.prnewswire.com/news-releases/us-worldmeds-acquires-orbus-therapeutics-expanding-commitment-to-rare-diseases-and-advancing-eflornithine-in-adult-malignant-glioma-302921067.html",
+      "status": "reported"
+    },
+    {
+      "target": "DifGen Pharmaceuticals Announces First Major European Milestone with Successful Completion of Decentralised Procedure for Tafamidis 61 mg Capsules",
+      "acquirer": null,
+      "date": "27 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/difgen-pharmaceuticals-announces-first-major-european-milestone-with-successful-completion-of-decentralised-procedure-for-tafamidis-61-mg-capsules-302921167.html",
+      "status": "reported"
+    },
+    {
+      "target": "Roundup: Teva Acquires BXCL501 for $57.5 Million Upfront, Rumi Therapeutics Enters Option Agreement for Fragile X PDE2 Inhibitor From Enthorin",
+      "acquirer": "Roundup: Teva",
+      "date": "27 Oct 2026",
+      "deal_value_usd": 57500000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZVVDRjZjNCQWdybUV1aFdMRGt2UUxFWEFzMG9BdlUybXhSelV1dFNGMXo4MDhwdXB2WTNjWVA5RHRGcXY2S0pUdHFKU1E3UkZ3d1lPRG1xQ1VHZ3N0Tnp2WXN6Y0lubUp6dEkwTDBEMl8zTzZkSW1CaG9CY2YyZXVVMWx6bTNiOGZnZWF0VlNoUUNEcGFlOFdQOFVuX1EyUEtISFJOYndremZnWEFCcDRIRWM0cGVyb3I0?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
