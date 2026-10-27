@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T23:37:37.061568+00:00",
+  "last_updated": "2026-10-27T14:06:53.407525+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -1758,24 +1758,28 @@
       "source": "news"
     },
     {
-      "target": "Merck Acquires Silence Therapeutics in $1.3B RNA Drug Deal",
-      "acquirer": "Merck",
+      "target": "Silence Therapeutics",
+      "acquirer": "Merck KGaA",
+      "status": "Public",
       "date": "19 Oct 2026",
       "deal_value_usd": 1300000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "~US$1.3B equity value (US$1.1B enterprise value)",
+      "premium": "130% to the 16 October closing ADS price",
+      "therapeutic_area": "Haematology / Rare disease / RNA therapeutics",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejRfYUdhclE5TEFUTDJLVm5qYi1XUWlVZElKMHlwUHlFQ1c5VkpJNEJNYTIyMmFhZkJ6a1Y4MjJuTU5Nc24tcjNLeHhGQk53MTFjb1ZWVkN4eFpuaDk3NEN0MjY1bGpiY2ptQ2Z3WW92X0x2V3d0WHpOaHV0OFFwTUY1emVzd2sxQzBVQ3VZUVdISU5ubHhReQ?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
-      "target": "Hansoh Pharma Enters $15 Billion Collaboration and License Agreement with Roche",
-      "acquirer": null,
+      "target": "Hansoh Pharmaceutical (Strategic Collaboration and Exclusive License)",
+      "acquirer": "Roche",
+      "status": "Licensing",
       "date": "19 Oct 2026",
-      "deal_value_usd": 15000000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 15510000000.0,
+      "deal_value_text": "Upfront US$400M upfront; US$110M fixed first-anniversary payment / More than US$15.51B potential package, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWpXMG54eVd4cE4xSlpBTGRVVEh0eHg5NHFaczNPeG9kSXdzcG05OVh3X2hPWHhqcG9vQUR3YnJmcWRDREs3R3pYLXRwQUNLb0lBWG5faVljNm9iXzhrUnBFZEYxUmFZU3dCZTk4S1NDdENuMjUwQzc5NVJhN3ViXy1xVlhMTXliVDVHOHZSZi0yOHVDUmVnOA?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "TCGX Acquisition Files $600M SPAC Merger Proposal with TriGemX Bio, Advancing Migraine Drug Trials",
@@ -1861,14 +1865,16 @@
       "status": "reported"
     },
     {
-      "target": "AI Proteins Announces Research Collaboration and License Agreement With Astellas Pharma to Discover and Develop Novel Miniprotein-Based Therapeutics Valued at Over $400 Million",
-      "acquirer": null,
+      "target": "AI Proteins (Research Collaboration and Exclusive License)",
+      "acquirer": "Astellas",
+      "status": "Licensing",
       "date": "21 Oct 2026",
       "deal_value_usd": 400000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Upfront Not disclosed / More than US$400M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Not disclosed",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNi1jaDgtR0xKMmhlVHNDX05oUnhnekhDaFRIdFFKdHdjbmIxWmJmQVhScmJZalhhTl9iLU9FUkdqVmpGODNvcFBlRGo1RFBLTUpZV3loUnNpazEzSFJ3bFdWM1BtcmRHQzhwUC1zV3BSRFd0ajdhbVlNOGxjbUJwMk1vOEF0djl4bW8tZUNyd21QWlFucURsc1BDdnJneC1YUFlPb0V2eW8xRUdaQTdFbWdsM1NrUjdtT2hkSGJSRWYzYV9VRHk2NHlncHNwNHpCQkN3Q2N0N3VFUUljaURiWG44V1Y4dG56MnAxSlZGdENuU3Z5VnFNelljT3RzZFpkX3MtRTZtcXpKZXlGUTBxZHVEQlVOdFI3dFhUbzJid1AtOEcyNHlDdjMyYUJRLUdmc0pvUjdRRjd0cnhnbGphMWkyNTB1Q1VqeDJkN3lMdHlfV0pMbmc?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "ParkourSC Acquires Quartic Launching the First Unified AI Platform that Predicts and Prevents Quality Risk Across the Entire Life Sciences Value Chain",
@@ -1889,13 +1895,16 @@
       "status": "reported"
     },
     {
-      "target": "Georgiamune and Menarini Group Enter Exclusive Global License and Collaboration Agreement for GIM-621, a First-in-Class Oral Immuno-Oncology Agent",
-      "acquirer": "Georgiamune",
+      "target": "Georgiamune (Exclusive Global License and Collaboration)",
+      "acquirer": "Menarini / Stemline",
+      "status": "Licensing",
       "date": "22 Oct 2026",
       "deal_value_usd": 1100000000.0,
-      "therapeutic_area": "Oncology",
+      "deal_value_text": "Upfront US$45M combined upfront and near-term payments / Up to US$1.1B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Solid tumours",
       "link": "https://www.prnewswire.com/news-releases/georgiamune-and-menarini-group-enter-exclusive-global-license-and-collaboration-agreement-for-gim-621-a-first-in-class-oral-immuno-oncology-agent-302917069.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Is Arbutus Biopharma (NASDAQ:ABUS) Penny Stock Being Overlooked After a Moderna Settlement Payment and a $230 Million Tender Offer?",
@@ -1908,14 +1917,16 @@
       "source": "news"
     },
     {
-      "target": "Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition",
-      "acquirer": null,
-      "date": "22 Oct 2026",
+      "target": "Neurotech Pharmaceuticals",
+      "acquirer": "Alcon",
+      "status": "Private",
+      "date": "20 Oct 2026",
       "deal_value_usd": 550000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "US$550M plus undisclosed contingent payments",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Ophthalmology / Macular telangiectasia type 2",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRE1GeG0xX1QzTkx1Vk1BdEJOMnVwdXBlNDhGX2Izb3dERDdzLWk0SnNvNmo0cHNjTy1DVkhnSk5xWjZHcTN3UEg1Y2FVelVfYkhJbnl2ZXpCOV9ON3dyZVMxbEk2Rk9MalQ0bFVKbGx3REZlcDZUNGZwV0NMRG1yN2FGVk9nTFdsQVRYbXdPcG1QUGhISndxX0xCbkJwa1doVUMwOUVUOGFVTnRnajJxSFRB?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "Bolt makes inflammation play with Prana reverse merger, $120M financing",
@@ -1956,6 +1967,30 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREZ4dVdFejl2dnhUMERmejBXZldfNUR0djgxUENhMHpnQVVBT19MM1VGRllIUkxtbUxCM0dJMkRkeklJZi1lWXhzajk1TGVBOTRTTE9UaC16c3dST0hxZUZQWDNOa0RmWk1DWGd2b1hHclk5M18wek53OVlIWElvbWNXcWQ2TER5NDdZWE5TOERYVklqdWdDQkNnZWk5YU5vdlpDRXVUbjBoWkE2SjZ4WHZHZE50b3VLQVBUUnFQeVJYcjZmcndUSmV3?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Zymeworks (Exclusive Global License and Collaboration)",
+      "acquirer": "Roche",
+      "status": "Licensing",
+      "date": "23 Oct 2026",
+      "deal_value_usd": 813000000.0,
+      "deal_value_text": "Upfront US$55M after HSR clearance / Up to US$813M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Small-cell lung cancer and other DLL3-positive tumours",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Kaigene (Exclusive Global License)",
+      "acquirer": "Celltrion",
+      "status": "Licensing",
+      "date": "22 Oct 2026",
+      "deal_value_usd": 580500000.0,
+      "deal_value_text": "Upfront Not disclosed / Up to US$580.5M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / IgA nephropathy",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
     }
   ]
 }
