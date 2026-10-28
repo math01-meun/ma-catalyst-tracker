@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T14:55:30.027262+00:00",
+  "last_updated": "2026-10-28T20:51:13.747417+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2021,23 +2021,28 @@
       "source": "news"
     },
     {
-      "target": "Astellas and Audax Biosciences Enter Exclusive Option and License Agreement for DAX-044, a Novel Immune-Targeted IL-12 Antibody-Cytokine Fusion for Immuno-Oncology",
+      "target": "Audax Biosciences (Exclusive Option and Global License)",
       "acquirer": "Astellas",
-      "date": "27 Oct 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Oncology",
+      "status": "Licensing",
+      "date": "28 Oct 2026",
+      "deal_value_usd": 1335000000.0,
+      "deal_value_text": "Upfront Not disclosed / Up to US$1.335B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immuno-oncology",
       "link": "https://www.prnewswire.com/news-releases/astellas-and-audax-biosciences-enter-exclusive-option-and-license-agreement-for-dax-044-a-novel-immune-targeted-il-12-antibody-cytokine-fusion-for-immuno-oncology-302920594.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
-      "target": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
-      "acquirer": "Ferring",
+      "target": "Gameto",
+      "acquirer": "Ferring Pharmaceuticals",
+      "status": "Private",
       "date": "27 Oct 2026",
-      "deal_value_usd": 1400000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 1382500000.0,
+      "deal_value_text": "Up to US$1.3825B",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Reproductive health / Infertility",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblpOUzAtejhZVW40QTBzbzdnNDhBTERoZUtjaW9pbDk4ZHRhWlNaMnFEQ0ZROWJWOG1wb0c2U0x0OVdRMGh6cU1LQlhaN3FFS2RWNVZfLVBGckFfeFRjTm9LOUxDanIxeVNkYmM5TE1FQ2FVUU1LTm1aZlRYZmQzb0RPS3owU1dUNVdfa2lDa29ZSlNhQUE?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "Transpharmation Ltd. Announces Strategic Acquisition of OrganoTherapeutics SARL",
@@ -2073,6 +2078,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/upm-has-decided-to-complete-the-partial-demerger-of-upm-kymmene-corporation-the-finnish-financial-supervisory-authority-has-approved-a-supplement-to-wisa-group-plcs-demerger-and-listing-prospectus-302922077.html",
+      "status": "reported"
+    },
+    {
+      "target": "Transpharmation Ltd. annonce l'acquisition stratégique d'OrganoTherapeutics SARL",
+      "acquirer": null,
+      "date": "28 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-annonce-lacquisition-strategique-dorganotherapeutics-sarl-302922447.html",
       "status": "reported"
     }
   ]
