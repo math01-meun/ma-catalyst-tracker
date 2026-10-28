@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T20:29:27.452141+00:00",
+  "last_updated": "2026-10-28T04:38:19.328391+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2017,6 +2017,25 @@
       "deal_value_usd": 57500000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZVVDRjZjNCQWdybUV1aFdMRGt2UUxFWEFzMG9BdlUybXhSelV1dFNGMXo4MDhwdXB2WTNjWVA5RHRGcXY2S0pUdHFKU1E3UkZ3d1lPRG1xQ1VHZ3N0Tnp2WXN6Y0lubUp6dEkwTDBEMl8zTzZkSW1CaG9CY2YyZXVVMWx6bTNiOGZnZWF0VlNoUUNEcGFlOFdQOFVuX1EyUEtISFJOYndremZnWEFCcDRIRWM0cGVyb3I0?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Astellas and Audax Biosciences Enter Exclusive Option and License Agreement for DAX-044, a Novel Immune-Targeted IL-12 Antibody-Cytokine Fusion for Immuno-Oncology",
+      "acquirer": "Astellas",
+      "date": "27 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/astellas-and-audax-biosciences-enter-exclusive-option-and-license-agreement-for-dax-044-a-novel-immune-targeted-il-12-antibody-cytokine-fusion-for-immuno-oncology-302920594.html",
+      "status": "reported"
+    },
+    {
+      "target": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+      "acquirer": "Ferring",
+      "date": "27 Oct 2026",
+      "deal_value_usd": 1400000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblpOUzAtejhZVW40QTBzbzdnNDhBTERoZUtjaW9pbDk4ZHRhWlNaMnFEQ0ZROWJWOG1wb0c2U0x0OVdRMGh6cU1LQlhaN3FFS2RWNVZfLVBGckFfeFRjTm9LOUxDanIxeVNkYmM5TE1FQ2FVUU1LTm1aZlRYZmQzb0RPS3owU1dUNVdfa2lDa29ZSlNhQUE?oc=5",
       "status": "reported",
       "source": "news"
     }
