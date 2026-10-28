@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T04:38:19.328391+00:00",
+  "last_updated": "2026-10-28T14:55:30.027262+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2038,6 +2038,42 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblpOUzAtejhZVW40QTBzbzdnNDhBTERoZUtjaW9pbDk4ZHRhWlNaMnFEQ0ZROWJWOG1wb0c2U0x0OVdRMGh6cU1LQlhaN3FFS2RWNVZfLVBGckFfeFRjTm9LOUxDanIxeVNkYmM5TE1FQ2FVUU1LTm1aZlRYZmQzb0RPS3owU1dUNVdfa2lDa29ZSlNhQUE?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Transpharmation Ltd. Announces Strategic Acquisition of OrganoTherapeutics SARL",
+      "acquirer": null,
+      "date": "28 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-announces-strategic-acquisition-of-organotherapeutics-sarl-302921332.html",
+      "status": "reported"
+    },
+    {
+      "target": "Transpharmation Ltd. Announces Strategic Acquisition of OrganoTherapeutics SARL",
+      "acquirer": null,
+      "date": "28 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-announces-strategic-acquisition-of-organotherapeutics-sarl-302921310.html",
+      "status": "reported"
+    },
+    {
+      "target": "EVERSANA Expands Global Commercialization and AI-Powered HEOR Capabilities with Acquisition of U.K.-based Estima Scientific",
+      "acquirer": null,
+      "date": "28 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/eversana-expands-global-commercialization-and-ai-powered-heor-capabilities-with-acquisition-of-uk-based-estima-scientific-302921421.html",
+      "status": "reported"
+    },
+    {
+      "target": "UPM has decided to complete the partial demerger of UPM-Kymmene Corporation; The Finnish Financial Supervisory Authority has approved a supplement to WISA Group Plc's demerger and listing prospectus",
+      "acquirer": null,
+      "date": "28 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/upm-has-decided-to-complete-the-partial-demerger-of-upm-kymmene-corporation-the-finnish-financial-supervisory-authority-has-approved-a-supplement-to-wisa-group-plcs-demerger-and-listing-prospectus-302922077.html",
+      "status": "reported"
     }
   ]
 }
