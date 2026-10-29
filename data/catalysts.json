@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T20:51:13.747417+00:00",
+  "last_updated": "2026-10-29T15:00:24.220124+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2087,6 +2087,42 @@
       "deal_value_usd": null,
       "therapeutic_area": "Neurology",
       "link": "https://www.prnewswire.com/news-releases/transpharmation-ltd-annonce-lacquisition-strategique-dorganotherapeutics-sarl-302922447.html",
+      "status": "reported"
+    },
+    {
+      "target": "BioMarin Enters Into Exclusive Worldwide License Agreement With GC Biopharma and Hanmi Pharm for Investigational Next-Generation Enzyme Replacement Therapy, Adding a Second Potential Treatment for Fabry Disease",
+      "acquirer": null,
+      "date": "29 Oct 2026",
+      "deal_value_usd": 70000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/biomarin-enters-into-exclusive-worldwide-license-agreement-with-gc-biopharma-and-hanmi-pharm-for-investigational-next-generation-enzyme-replacement-therapy-adding-a-second-potential-treatment-for-fabry-disease-302923678.html",
+      "status": "reported"
+    },
+    {
+      "target": "DCN Dx Acquires Human Biospecimen Provider BioSouthTech to Broaden Access to Diverse Patient Populations",
+      "acquirer": "DCN Dx",
+      "date": "29 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/dcn-dx-acquires-human-biospecimen-provider-biosouthtech-to-broaden-access-to-diverse-patient-populations-302923660.html",
+      "status": "reported"
+    },
+    {
+      "target": "Perrigo Announces Agreement to Divest Infant Formula Business to MeridianMade",
+      "acquirer": null,
+      "date": "29 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/perrigo-announces-agreement-to-divest-infant-formula-business-to-meridianmade-302923597.html",
+      "status": "reported"
+    },
+    {
+      "target": "CaringKind Completes Merger, Strengthening Long Island Care as National Reach Grows",
+      "acquirer": null,
+      "date": "29 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.prnewswire.com/news-releases/caringkind-completes-merger-strengthening-long-island-care-as-national-reach-grows-302922932.html",
       "status": "reported"
     }
   ]
