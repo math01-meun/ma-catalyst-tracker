@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T15:00:24.220124+00:00",
+  "last_updated": "2026-10-30T14:53:51.011223+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2090,13 +2090,16 @@
       "status": "reported"
     },
     {
-      "target": "BioMarin Enters Into Exclusive Worldwide License Agreement With GC Biopharma and Hanmi Pharm for Investigational Next-Generation Enzyme Replacement Therapy, Adding a Second Potential Treatment for Fabry Disease",
-      "acquirer": null,
+      "target": "GC Biopharma / Hanmi Pharm (Exclusive Global License (ex-Korea))",
+      "acquirer": "BioMarin",
+      "status": "Licensing",
       "date": "29 Oct 2026",
-      "deal_value_usd": 70000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 475000000.0,
+      "deal_value_text": "Upfront US$70M / Up to US$475M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Rare disease / Fabry disease",
       "link": "https://www.prnewswire.com/news-releases/biomarin-enters-into-exclusive-worldwide-license-agreement-with-gc-biopharma-and-hanmi-pharm-for-investigational-next-generation-enzyme-replacement-therapy-adding-a-second-potential-treatment-for-fabry-disease-302923678.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "DCN Dx Acquires Human Biospecimen Provider BioSouthTech to Broaden Access to Diverse Patient Populations",
@@ -2123,6 +2126,24 @@
       "deal_value_usd": null,
       "therapeutic_area": "Neurology",
       "link": "https://www.prnewswire.com/news-releases/caringkind-completes-merger-strengthening-long-island-care-as-national-reach-grows-302922932.html",
+      "status": "reported"
+    },
+    {
+      "target": "Azenta Announces Strategic Investments to Advance the Next Generation of GENEWIZ Gene Synthesis Capabilities",
+      "acquirer": null,
+      "date": "30 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/azenta-announces-strategic-investments-to-advance-the-next-generation-of-genewiz-gene-synthesis-capabilities-302924585.html",
+      "status": "reported"
+    },
+    {
+      "target": "AbbVie Reports Third-Quarter 2026 Financial Results",
+      "acquirer": null,
+      "date": "30 Oct 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/abbvie-reports-third-quarter-2026-financial-results-302924866.html",
       "status": "reported"
     }
   ]
