@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T14:53:51.011223+00:00",
+  "last_updated": "2026-10-31T23:09:43.628083+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2145,6 +2145,16 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/abbvie-reports-third-quarter-2026-financial-results-302924866.html",
       "status": "reported"
+    },
+    {
+      "target": "Formation Bio Raised $600 Million for a Debut Fund to Acquire and Develop Clinical-Stage Drug Programs",
+      "acquirer": "Formation Bio Raised $600 Million for a Debut Fund",
+      "date": "29 Oct 2026",
+      "deal_value_usd": 600000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTFyNkFuQUUyTEdFMlpVRmx6dW9icEhQOHhIbFhUcV9oOHBPeFc4cGJxU01LZks0Y0wtd0JWcjFSbm5OdFpCRDVYZld1bEhtS1A4akFsa05SY2R4RXZncUdpQXBpQTVWdk04eFlWRWhLUnFzZ0NITlVLYmc0UVhDMC14d01qNDdJZml0TEtMZnd4RC1paUJvdWVva3ZuaU5LZDdCWnIwX1dnTHd5cjdmZmdzcURPUXhkQUZrRVJTbkdnWmJkdnVOU0lJMEhpODg0ckY3VmRn?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
