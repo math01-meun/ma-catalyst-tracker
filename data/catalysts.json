@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T23:09:43.628083+00:00",
+  "last_updated": "2026-11-02T17:57:29.659866+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2155,6 +2155,15 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTFyNkFuQUUyTEdFMlpVRmx6dW9icEhQOHhIbFhUcV9oOHBPeFc4cGJxU01LZks0Y0wtd0JWcjFSbm5OdFpCRDVYZld1bEhtS1A4akFsa05SY2R4RXZncUdpQXBpQTVWdk04eFlWRWhLUnFzZ0NITlVLYmc0UVhDMC14d01qNDdJZml0TEtMZnd4RC1paUJvdWVva3ZuaU5LZDdCWnIwX1dnTHd5cjdmZmdzcURPUXhkQUZrRVJTbkdnWmJkdnVOU0lJMEhpODg0ckY3VmRn?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Brise Pharmaceuticals Announces Global License Agreement with AbbVie to Advance the Next-Generation of Migraine Therapies",
+      "acquirer": null,
+      "date": "02 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/brise-pharmaceuticals-announces-global-license-agreement-with-abbvie-to-advance-the-next-generation-of-migraine-therapies-302925660.html",
+      "status": "reported"
     }
   ]
 }
