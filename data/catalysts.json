@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T17:57:29.659866+00:00",
+  "last_updated": "2026-11-03T02:04:36.737596+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2163,6 +2163,33 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/brise-pharmaceuticals-announces-global-license-agreement-with-abbvie-to-advance-the-next-generation-of-migraine-therapies-302925660.html",
+      "status": "reported"
+    },
+    {
+      "target": "BioArctic collaborator Novartis terminates agreement",
+      "acquirer": null,
+      "date": "02 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/bioarctic-collaborator-novartis-terminates-agreement-302926980.html",
+      "status": "reported"
+    },
+    {
+      "target": "BioArctic collaborator Novartis terminates agreement",
+      "acquirer": null,
+      "date": "02 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/bioarctic-collaborator-novartis-terminates-agreement-302926959.html",
+      "status": "reported"
+    },
+    {
+      "target": "Jazz Pharmaceuticals Announces Third Quarter 2026 Financial Results",
+      "acquirer": null,
+      "date": "02 Nov 2026",
+      "deal_value_usd": 1200000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/jazz-pharmaceuticals-announces-third-quarter-2026-financial-results-302926800.html",
       "status": "reported"
     }
   ]
