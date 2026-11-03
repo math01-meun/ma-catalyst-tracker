@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T02:04:36.737596+00:00",
+  "last_updated": "2026-11-03T11:42:13.776445+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2190,6 +2190,15 @@
       "deal_value_usd": 1200000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/jazz-pharmaceuticals-announces-third-quarter-2026-financial-results-302926800.html",
+      "status": "reported"
+    },
+    {
+      "target": "Waters Acquires MOBILion Systems, Bringing Advanced Ion-Mobility Separation to its Mass Spectrometry Portfolio with the Speed and Resolution AI Workflows Require for Proteomics Biomarker Discovery",
+      "acquirer": "Waters",
+      "date": "03 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/waters-acquires-mobilion-systems-bringing-advanced-ion-mobility-separation-to-its-mass-spectrometry-portfolio-with-the-speed-and-resolution-ai-workflows-require-for-proteomics-biomarker-discovery-302927147.html",
       "status": "reported"
     }
   ]
