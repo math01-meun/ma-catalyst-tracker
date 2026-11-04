@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T00:27:38.960844+00:00",
+  "last_updated": "2026-11-04T11:55:03.670598+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2217,6 +2217,24 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/zuellig-pharma-strengthens-clinical-sourcing-capabilities-in-china-through-strategic-acquisition-302927935.html",
+      "status": "reported"
+    },
+    {
+      "target": "Minghui Pharmaceutical and ASKA Pharmaceutical Enter into Exclusive License Agreement for the IGF-1R Antibody in Japan",
+      "acquirer": "Minghui Pharmaceutical",
+      "date": "04 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/minghui-pharmaceutical-and-aska-pharmaceutical-enter-into-exclusive-license-agreement-for-the-igf-1r-antibody-in-japan-302928762.html",
+      "status": "reported"
+    },
+    {
+      "target": "Perrigo Reports Third Quarter 2026 Financial Results From Continuing Operations",
+      "acquirer": null,
+      "date": "04 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/perrigo-reports-third-quarter-2026-financial-results-from-continuing-operations-302928569.html",
       "status": "reported"
     }
   ]
