@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T11:55:03.670598+00:00",
+  "last_updated": "2026-11-05T11:58:13.313865+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2236,6 +2236,16 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/perrigo-reports-third-quarter-2026-financial-results-from-continuing-operations-302928569.html",
       "status": "reported"
+    },
+    {
+      "target": "Minghui Pharma and ASKA Pharma enter into license agreement worth $330 M for IGF-1R Antibody in Japan",
+      "acquirer": "Minghui Pharma",
+      "date": "05 Nov 2026",
+      "deal_value_usd": 330000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbEVPamVoQkRyaUpub0kyVjUybFduQk9uaHNXUmcxdFllZ3NfNE5SM1FVRzhyamRKV0VMZDltNnpzajkyMUpUMU5JMzlVZVV0VEFWVDFIMVg2YmFjcEU2WEk3ZmFiSmRmQXQ2cEJnYUF2UlVwcE1QY0VLUUNNWV9wekMtWUNfeG9kRFV2anBJZnpUWHhCSFdwQVJzY1BJRWtZQ2d0cEY1a0g5cV9vdGlTdDFLQzE4cjRHMFVvTk1RYnhrMDhjeWItbFlaRGJ1ZDVNZzI5WEVqY3ZILTBFS1RJUnQ1TVE3dw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
