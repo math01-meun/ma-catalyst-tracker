@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T11:58:13.313865+00:00",
+  "last_updated": "2026-11-05T19:50:53.609216+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2244,6 +2244,45 @@
       "deal_value_usd": 330000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbEVPamVoQkRyaUpub0kyVjUybFduQk9uaHNXUmcxdFllZ3NfNE5SM1FVRzhyamRKV0VMZDltNnpzajkyMUpUMU5JMzlVZVV0VEFWVDFIMVg2YmFjcEU2WEk3ZmFiSmRmQXQ2cEJnYUF2UlVwcE1QY0VLUUNNWV9wekMtWUNfeG9kRFV2anBJZnpUWHhCSFdwQVJzY1BJRWtZQ2d0cEY1a0g5cV9vdGlTdDFLQzE4cjRHMFVvTk1RYnhrMDhjeWItbFlaRGJ1ZDVNZzI5WEVqY3ZILTBFS1RJUnQ1TVE3dw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Lilac Biosciences Names Adriana Coll De Peña, Ph.D., Chief Executive Officer to Bring Fast, Quantitative RNA Measurement to Every Lab",
+      "acquirer": null,
+      "date": "05 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/lilac-biosciences-names-adriana-coll-de-pena-phd-chief-executive-officer-to-bring-fast-quantitative-rna-measurement-to-every-lab-302929753.html",
+      "status": "reported"
+    },
+    {
+      "target": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
+      "acquirer": "AstraZeneca said to offer $10B",
+      "date": "05 Nov 2026",
+      "deal_value_usd": 10000000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTFDZ0NiWFJLVmZpZ3B4dmlBdDBFMEEtbElZb2dOUG1BLTcxai1KZ0dtRmhtc1JIMzkzd1J1M3h1dC1CclVJMlFiTzBCSldObXV4SW1qWm9iN0tHX3QxWmE0VzhSNTdXR1pwRUNRWldSdk4tbUxKU3JxdDI1UXVaYWs3RDhOSHREOTA5bTlNUTRmNi11Q1JSWTIwSS1BNjJETEpSSQ?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "RPG Life Sciences earmarks $59 million for another acquisition, targets 25% API growth",
+      "acquirer": null,
+      "date": "05 Nov 2026",
+      "deal_value_usd": 59000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNW41N3R1SUZIQURQc2JaWHZnaVZzS19IaFM5aXlOQ3VEVE9vNmN6M1NsdnBIeWoxSzVyRVp1cjliN1A3Y2ZaV2tOczZOVlFPTnVzY054clNOcWY0Tkdrak9HeGhPUTc3Q1ZUNnc4aVV5YjZVanFxWG0xWFc1X2F5Smw1d3FTLXF2dFlPVHVaVlg5Q0lpbFhYLW8wZXhfQUpSSUpnSTh0c01mVjRNMnlzb280cTFBNnMzb0o3WnpuaEtxMG5aeEE?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "ANI Pharmaceuticals to Acquire Egetis Therapeutics, Egetis Sells Priority Review Voucher for $190 Million",
+      "acquirer": "ANI Pharmaceuticals",
+      "date": "05 Nov 2026",
+      "deal_value_usd": 190000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFVEa21HeHNZMWI1WGVWUnMwS0Y4UGFqZlMxME1lRldJeUhSZGt1ZmUyd2RnVGl1V01Rcm9LMzRlTElJb2hicVhyeGo3d2Z6dXZqdTY5ZThDcllLU2tYbXc3TXR2eG1ReGZVYmt6V2MzT3NMOGo3ZkZWRGZWS3pTc2NFMWM2QmdPNmdvX0xIOFNLOWR6Tm9SZy1IVXJySnBWQzR0T2VTTQ?oc=5",
       "status": "reported",
       "source": "news"
     }
