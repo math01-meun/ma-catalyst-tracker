@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:50:53.609216+00:00",
+  "last_updated": "2026-11-06T11:54:20.381614+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2283,6 +2283,16 @@
       "deal_value_usd": 190000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFVEa21HeHNZMWI1WGVWUnMwS0Y4UGFqZlMxME1lRldJeUhSZGt1ZmUyd2RnVGl1V01Rcm9LMzRlTElJb2hicVhyeGo3d2Z6dXZqdTY5ZThDcllLU2tYbXc3TXR2eG1ReGZVYmt6V2MzT3NMOGo3ZkZWRGZWS3pTc2NFMWM2QmdPNmdvX0xIOFNLOWR6Tm9SZy1IVXJySnBWQzR0T2VTTQ?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Biopharma Co. Reports First Quarterly Revenue Above US$1 Billion as Acquisition Expands Portfolio",
+      "acquirer": null,
+      "date": "06 Nov 2026",
+      "deal_value_usd": 1000000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZmlSR05rU3BnbEJaZGw2X3Q0NFlCeG15blhySkZwdldFcDU1VG9US0RlR181NHM2Y1Y1MlBhRzd6RjdnODZ5Yl9PRDFzeDJZWGZ2RTE2MnFEaHFzMVc4aHhHNV83MkRpVS1qdFlUN2RwLVBMa2pqM0VRNk9GanFBaVY5dWNpM0RTb3g1ZmpTSDFha2JEdEhjQmZMSTZ6N2NtQ0xKT3ZEdUd6MUkwSDVUZmRpSFROcG5MWVMyT3o5MG12ZnlCa1N2dDROVV9rdDZCa0cxTVFEc0JRR1NYZXlsMWtFN2lyNFBUdlE?oc=5",
       "status": "reported",
       "source": "news"
     }
