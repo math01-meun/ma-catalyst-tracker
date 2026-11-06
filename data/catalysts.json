@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:54:20.381614+00:00",
+  "last_updated": "2026-11-06T23:59:07.957778+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2220,13 +2220,16 @@
       "status": "reported"
     },
     {
-      "target": "Minghui Pharmaceutical and ASKA Pharmaceutical Enter into Exclusive License Agreement for the IGF-1R Antibody in Japan",
-      "acquirer": "Minghui Pharmaceutical",
+      "target": "Minghui Pharmaceutical (Exclusive Regional License)",
+      "acquirer": "ASKA Pharmaceutical",
+      "status": "Licensing",
       "date": "04 Nov 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 440000000.0,
+      "deal_value_text": "Upfront US$110M / Up to US$440M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Ophthalmology / Thyroid eye disease",
       "link": "https://www.prnewswire.com/news-releases/minghui-pharmaceutical-and-aska-pharmaceutical-enter-into-exclusive-license-agreement-for-the-igf-1r-antibody-in-japan-302928762.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Perrigo Reports Third Quarter 2026 Financial Results From Continuing Operations",
@@ -2293,6 +2296,73 @@
       "deal_value_usd": 1000000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZmlSR05rU3BnbEJaZGw2X3Q0NFlCeG15blhySkZwdldFcDU1VG9US0RlR181NHM2Y1Y1MlBhRzd6RjdnODZ5Yl9PRDFzeDJZWGZ2RTE2MnFEaHFzMVc4aHhHNV83MkRpVS1qdFlUN2RwLVBMa2pqM0VRNk9GanFBaVY5dWNpM0RTb3g1ZmpTSDFha2JEdEhjQmZMSTZ6N2NtQ0xKT3ZEdUd6MUkwSDVUZmRpSFROcG5MWVMyT3o5MG12ZnlCa1N2dDROVV9rdDZCa0cxTVFEc0JRR1NYZXlsMWtFN2lyNFBUdlE?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Qyuns Therapeutics (Exclusive Global License)",
+      "acquirer": "Caldera Therapeutics",
+      "status": "Licensing",
+      "date": "05 Nov 2026",
+      "deal_value_usd": 780000000.0,
+      "deal_value_text": "Upfront US$30M / Up to US$780M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Immune-mediated diseases",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "SBP Group (Exclusive Oncology Options and Licenses)",
+      "acquirer": "Boehringer Ingelheim",
+      "status": "Licensing",
+      "date": "04 Nov 2026",
+      "deal_value_usd": 7358000000.0,
+      "deal_value_text": "Upfront US$358M combined upfront and near-term payments; split not disclosed / Up to US$7.358B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Nxera Pharma (Exclusive Global License)",
+      "acquirer": "AbbVie",
+      "status": "Licensing",
+      "date": "04 Nov 2026",
+      "deal_value_usd": 1470000000.0,
+      "deal_value_text": "Upfront US$100M / Up to US$1.47B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Inflammatory bowel disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Hinova Pharmaceuticals (Exclusive License (ex-Greater China))",
+      "acquirer": "Evommune",
+      "status": "Licensing",
+      "date": "04 Nov 2026",
+      "deal_value_usd": 1100000000.0,
+      "deal_value_text": "Upfront US$20M cash plus US$10M in pre-funded warrants / Up to US$1.1B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "InMed Pharmaceuticals Completes Closing of Merger with Mentari Therapeutics",
+      "acquirer": null,
+      "date": "06 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals-completes-closing-of-merger-with-mentari-therapeutics-302932393.html",
+      "status": "reported"
+    },
+    {
+      "target": "Cannabis firm InMed becomes migraine biotech Mentari in merger backed by $490M",
+      "acquirer": null,
+      "date": "06 Nov 2026",
+      "deal_value_usd": 490000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkppdUpkeFlVc0FDVmRqeUMwU0Nmc0szQzVyT1JXNko2VGJnNEFCNnhBbkdNUmF3MXZKaXZtRnJmZW5VSXVYeTdlc1BVTi1nM01OODVHYXZoNmQ3Z3hKYlVMeHN3TTljdDBzVHdFd0ltRHdwSHN1WmlJZEg3UENqaDZYREhINkY2d2FyZm5xSGJXRno1M09zVmtOYnZuT045Sl9SRzhpOTlubEltajRxMA?oc=5",
       "status": "reported",
       "source": "news"
     }
