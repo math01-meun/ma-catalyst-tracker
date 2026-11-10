@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T23:59:07.957778+00:00",
+  "last_updated": "2026-11-10T02:35:41.865536+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2363,6 +2363,46 @@
       "deal_value_usd": 490000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkppdUpkeFlVc0FDVmRqeUMwU0Nmc0szQzVyT1JXNko2VGJnNEFCNnhBbkdNUmF3MXZKaXZtRnJmZW5VSXVYeTdlc1BVTi1nM01OODVHYXZoNmQ3Z3hKYlVMeHN3TTljdDBzVHdFd0ltRHdwSHN1WmlJZEg3UENqaDZYREhINkY2d2FyZm5xSGJXRno1M09zVmtOYnZuT045Sl9SRzhpOTlubEltajRxMA?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Unnatural Products",
+      "acquirer": "argenx",
+      "status": "Private",
+      "date": "09 Nov 2026",
+      "deal_value_usd": 1145000000.0,
+      "deal_value_text": "Up to US$1.145B",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Immunology / Immune-mediated disease",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Conexiant and Elsevier Announce Licensing Agreement for The Lancet: Research in Context",
+      "acquirer": "Conexiant",
+      "date": "09 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/conexiant-and-elsevier-announce-licensing-agreement-for-the-lancet-research-in-context-302933412.html",
+      "status": "reported"
+    },
+    {
+      "target": "PharmaLogic to Acquire Lantheus' CDMO Business and Springfield, New Jersey Manufacturing Facility",
+      "acquirer": "PharmaLogic",
+      "date": "09 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/pharmalogic-to-acquire-lantheus-cdmo-business-and-springfield-new-jersey-manufacturing-facility-302933626.html",
+      "status": "reported"
+    },
+    {
+      "target": "Edesa Biotech Signs Japan Licensing Agreement With Kyorin for Paridiprubart Worth Up to $146 Million",
+      "acquirer": null,
+      "date": "09 Nov 2026",
+      "deal_value_usd": 146000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhuakJFOUJCZ215UjVUSFl6MHdiMjBYbUYyWFI4S0VvYzhZUDdJWjcxS0pDcWs2eTY3T2xyeWpGSUduRlVOeWFxOVhuVXNPNE1DSkVSYWRKNi1kOXpBTDdQaU9xdTFyZU9qNGVfem5RbU4zMzMwWWswUFB5R3NTZnpSSkpsYzh4TjBCN3pfYjZpSVBNOTRUU0hkXzA?oc=5",
       "status": "reported",
       "source": "news"
     }
