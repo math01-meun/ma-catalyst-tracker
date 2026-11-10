@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T12:16:53.828172+00:00",
+  "last_updated": "2026-11-10T21:41:29.748145+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2424,6 +2424,33 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1o3UGlTa0R5RzFjSVRzWnBHNzQ1TTRPbkhZRUxSRk5lVWE0VkJPdVphNm9QR3dPU1JfaUhVWDJSVHJmWUZCa3ZQMXVZbkJGSTkzdF93MGo0OXc4eUN5WndYQWFabXpFYlRsNm1HYzM3YmczLUdTV212b2hncl9pNnZyWnNfNnZSU1JtUGpzYTIxNkFqQUVVZjQxX01yLVlXVE8xVGViTWVFVTFhanFXYnlGUk9WSVBUcW44cVdMWnU1Uzg?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "New England Biolabs® and Mammoth Biosciences® Announce Global Licensing Agreement and Commercial Launch of MB-CasFire™ to Accelerate Isothermal Amplification-Based Assay Development",
+      "acquirer": "New England Biolabs®",
+      "date": "10 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/new-england-biolabs-and-mammoth-biosciences-announce-global-licensing-agreement-and-commercial-launch-of-mb-casfire-to-accelerate-isothermal-amplification-based-assay-development-302935385.html",
+      "status": "reported"
+    },
+    {
+      "target": "ProBio Enters Exclusive Global Licensing Agreement with AbTis to Develop Next-Generation ADC Asset",
+      "acquirer": null,
+      "date": "10 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/probio-enters-exclusive-global-licensing-agreement-with-abtis-to-develop-next-generation-adc-asset-302933930.html",
+      "status": "reported"
+    },
+    {
+      "target": "IMVIONIX Acquires U.S. and Canadian Rights to BEOVU® (brolucizumab-dbll), Marking the Company's Official Launch",
+      "acquirer": "IMVIONIX",
+      "date": "10 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/imvionix-acquires-us-and-canadian-rights-to-beovu-brolucizumab-dbll-marking-the-companys-official-launch-302934563.html",
+      "status": "reported"
     }
   ]
 }
