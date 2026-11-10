@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T02:35:41.865536+00:00",
+  "last_updated": "2026-11-10T12:16:53.828172+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2403,6 +2403,25 @@
       "deal_value_usd": 146000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhuakJFOUJCZ215UjVUSFl6MHdiMjBYbUYyWFI4S0VvYzhZUDdJWjcxS0pDcWs2eTY3T2xyeWpGSUduRlVOeWFxOVhuVXNPNE1DSkVSYWRKNi1kOXpBTDdQaU9xdTFyZU9qNGVfem5RbU4zMzMwWWswUFB5R3NTZnpSSkpsYzh4TjBCN3pfYjZpSVBNOTRUU0hkXzA?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Tigermed to Participate in the Privatization of Frontage Holdings Corporation and Divest Its Overseas Laboratory Services Business",
+      "acquirer": null,
+      "date": "10 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/tigermed-to-participate-in-the-privatization-of-frontage-holdings-corporation-and-divest-its-overseas-laboratory-services-business-302934658.html",
+      "status": "reported"
+    },
+    {
+      "target": "ANI Pharmaceuticals: Egetis Therapeutics Acquisition Valued At $560 Million To Expand Rare Disease Business",
+      "acquirer": null,
+      "date": "09 Nov 2026",
+      "deal_value_usd": 560000000.0,
+      "therapeutic_area": "Rare Disease",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1o3UGlTa0R5RzFjSVRzWnBHNzQ1TTRPbkhZRUxSRk5lVWE0VkJPdVphNm9QR3dPU1JfaUhVWDJSVHJmWUZCa3ZQMXVZbkJGSTkzdF93MGo0OXc4eUN5WndYQWFabXpFYlRsNm1HYzM3YmczLUdTV212b2hncl9pNnZyWnNfNnZSU1JtUGpzYTIxNkFqQUVVZjQxX01yLVlXVE8xVGViTWVFVTFhanFXYnlGUk9WSVBUcW44cVdMWnU1Uzg?oc=5",
       "status": "reported",
       "source": "news"
     }
