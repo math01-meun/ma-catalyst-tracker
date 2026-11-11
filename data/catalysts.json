@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T15:55:39.772841+00:00",
+  "last_updated": "2026-11-11T22:32:36.354922+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2460,6 +2460,16 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/zinzino-ab-publ-zinzino-acquires-uzesta-to-boost-distribution-capabilities-in-the-apac-region-302936609.html",
       "status": "reported"
+    },
+    {
+      "target": "Rockville-Based MaxCyte Announces $151.8 Million Acquisition of Florida Biotech Company - The MoCo Show -",
+      "acquirer": null,
+      "date": "11 Nov 2026",
+      "deal_value_usd": 151800000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc3hPdEY4UWxiTWRWcUZpRl9IOHF2WHZ1Z3VjLXVlREx5akhkeGpueTNxUWRQV1Y5aUMwcmRxd2pvWkE4R1VyUWxFaWpvVFI5RzhzaHI5MUhNV2wtdjBoRkJVek00VjRZc2pvNzNXTkRvR0Vja2FxaUp2dVJoaUhqeWJkS05rLUZET2FlMWY3ZC1WOFB6dU1BbHlxbGxOMUJpc1JYdGoyc09PUndxZVNyWFJocXJGT0xkZ1lJ?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
