@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T21:41:29.748145+00:00",
+  "last_updated": "2026-11-11T15:55:39.772841+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2450,6 +2450,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/imvionix-acquires-us-and-canadian-rights-to-beovu-brolucizumab-dbll-marking-the-companys-official-launch-302934563.html",
+      "status": "reported"
+    },
+    {
+      "target": "ZINZINO AB (PUBL.): Zinzino acquires Uzesta to boost distribution capabilities in the APAC region",
+      "acquirer": "ZINZINO AB (PUBL.): Zinzino",
+      "date": "11 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/zinzino-ab-publ-zinzino-acquires-uzesta-to-boost-distribution-capabilities-in-the-apac-region-302936609.html",
       "status": "reported"
     }
   ]
