@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T00:56:15.604577+00:00",
+  "last_updated": "2026-11-13T19:28:23.494733+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2520,6 +2520,27 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/pai-pharma-acquires-nexus-pharmaceuticals-expanding-portfolio-of-sterile-injectable-products-302937821.html",
+      "status": "reported"
+    },
+    {
+      "target": "RemeGen (Exclusive License Expansion)",
+      "acquirer": "Vor Bio",
+      "status": "Licensing",
+      "date": "12 Nov 2026",
+      "deal_value_usd": 356000000.0,
+      "deal_value_text": "Upfront US$10M cash + ~US$46M in pre-funded warrants / Up to ~US$356M incremental upfront and development payments; shared sales milestones and royalties also apply",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Farmacias Benavides Announces Definitive Agreement to Be Acquired by Farmacias del Ahorro",
+      "acquirer": "Farmacias del Ahorro",
+      "date": "13 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/farmacias-benavides-announces-definitive-agreement-to-be-acquired-by-farmacias-del-ahorro-302938956.html",
       "status": "reported"
     }
   ]
