@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T19:28:23.494733+00:00",
+  "last_updated": "2026-11-16T05:23:29.307871+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2541,6 +2541,15 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/farmacias-benavides-announces-definitive-agreement-to-be-acquired-by-farmacias-del-ahorro-302938956.html",
+      "status": "reported"
+    },
+    {
+      "target": "Berry Street Welcomes MyScribe Founder Dr. Wasif Bokhari to Its AI Team and Acquires MyScribe",
+      "acquirer": "Berry Street Welcomes MyScribe Founder Dr. Wasif Bokhari to Its AI Team and",
+      "date": "15 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.prnewswire.com/news-releases/berry-street-welcomes-myscribe-founder-dr-wasif-bokhari-to-its-ai-team-and-acquires-myscribe-302939778.html",
       "status": "reported"
     }
   ]
