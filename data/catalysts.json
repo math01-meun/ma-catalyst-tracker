@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:23:29.307871+00:00",
+  "last_updated": "2026-11-16T18:03:51.001810+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2357,14 +2357,16 @@
       "status": "reported"
     },
     {
-      "target": "Cannabis firm InMed becomes migraine biotech Mentari in merger backed by $490M",
-      "acquirer": null,
-      "date": "06 Nov 2026",
-      "deal_value_usd": 490000000.0,
-      "therapeutic_area": "Other Biotech",
+      "target": "Foresee Pharmaceuticals (Proposed Related-party License)",
+      "acquirer": "Mitovera Therapeutics",
+      "status": "Licensing",
+      "date": "13 Nov 2026",
+      "deal_value_usd": 478000000.0,
+      "deal_value_text": "Upfront US$5M signing payment + 19% equity in Mitovera / Up to US$478M cash payments, plus royalties and 19% equity",
+      "premium": "N/A",
+      "therapeutic_area": "Not specified in the transaction notice",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkppdUpkeFlVc0FDVmRqeUMwU0Nmc0szQzVyT1JXNko2VGJnNEFCNnhBbkdNUmF3MXZKaXZtRnJmZW5VSXVYeTdlc1BVTi1nM01OODVHYXZoNmQ3Z3hKYlVMeHN3TTljdDBzVHdFd0ltRHdwSHN1WmlJZEg3UENqaDZYREhINkY2d2FyZm5xSGJXRno1M09zVmtOYnZuT045Sl9SRzhpOTlubEltajRxMA?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "Unnatural Products",
@@ -2551,6 +2553,49 @@
       "therapeutic_area": "Cardiovascular / Metabolic",
       "link": "https://www.prnewswire.com/news-releases/berry-street-welcomes-myscribe-founder-dr-wasif-bokhari-to-its-ai-team-and-acquires-myscribe-302939778.html",
       "status": "reported"
+    },
+    {
+      "target": "OBI Pharma (ADC Platform Collaboration and License)",
+      "acquirer": "Novartis",
+      "status": "Licensing",
+      "date": "13 Nov 2026",
+      "deal_value_usd": 2000000000.0,
+      "deal_value_text": "Upfront US$30M / More than US$2B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "AilsynBio (AI Discovery Platform License and Collaboration)",
+      "acquirer": "Hansoh Pharmaceutical",
+      "status": "Licensing",
+      "date": "13 Nov 2026",
+      "deal_value_usd": null,
+      "deal_value_text": "Upfront Not disclosed / Up to RMB317M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Not disclosed",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "AmyriAD Therapeutics Acquires AD04 Alzheimer's Program from ADvantage, Further Expanding Its Clinical-Stage Cognition Pipeline",
+      "acquirer": "AmyriAD Therapeutics",
+      "date": "16 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Neurology",
+      "link": "https://www.prnewswire.com/news-releases/amyriad-therapeutics-acquires-ad04-alzheimers-program-from-advantage-further-expanding-its-clinical-stage-cognition-pipeline-302940420.html",
+      "status": "reported"
+    },
+    {
+      "target": "J&J to Acquire Ollin Biosciences in $2.2B Ophthalmology Deal",
+      "acquirer": "J&J",
+      "date": "16 Nov 2026",
+      "deal_value_usd": 2200000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUpENllaVTROTldfNDRjWUFTUU5WaFZ4Z1RZZlhfSl8tRVBBM2pySTZYa0ptZTBHVUNZVVh5bTRnbHNTRlZOdnlqNllJT2hCeVlPTjdBb2kwOG16Mk1MVWFRWVB4d3dnd0FPdjZWaXFGRkVLRmZWWmtuc3dwQkl0U3laNXY4MnAtbjVfLVJKQ0ZZZC1YUlpmNlBvQWk1WmZnOGU2U3Nfcw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
