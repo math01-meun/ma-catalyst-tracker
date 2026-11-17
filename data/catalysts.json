@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T02:49:05.047623+00:00",
+  "last_updated": "2026-11-17T23:23:09.771825+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2615,6 +2615,24 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGZsNThLeTVJWHo1dlZTcXRMM3BYd2JwWVdhdHV2bzhvMGNHaFFIaXdfdVEzWHNJd2ZlN3RPbGdvVDZQRmtTci1iX1dCck4tamthUmVRWmJtRnNvWURHQlJwdDBLWU9NbFJGN01QQnltSnpvWUlXVUhCblZEYm1MdEtxREtMdw?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Dechra acquires biotechnology company, Gallant Pet, Inc.",
+      "acquirer": "Dechra",
+      "date": "17 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/dechra-acquires-biotechnology-company-gallant-pet-inc-302942442.html",
+      "status": "reported"
+    },
+    {
+      "target": "Astromech Acquires Form Bio, Bringing Together Evolutionary AI and Genetic Medicine Design Under One Directive",
+      "acquirer": "Astromech",
+      "date": "17 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/astromech-acquires-form-bio-bringing-together-evolutionary-ai-and-genetic-medicine-design-under-one-directive-302942460.html",
+      "status": "reported"
     }
   ]
 }
