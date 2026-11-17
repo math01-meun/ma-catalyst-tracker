@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T18:03:51.001810+00:00",
+  "last_updated": "2026-11-17T02:49:05.047623+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2594,6 +2594,25 @@
       "deal_value_usd": 2200000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUpENllaVTROTldfNDRjWUFTUU5WaFZ4Z1RZZlhfSl8tRVBBM2pySTZYa0ptZTBHVUNZVVh5bTRnbHNTRlZOdnlqNllJT2hCeVlPTjdBb2kwOG16Mk1MVWFRWVB4d3dnd0FPdjZWaXFGRkVLRmZWWmtuc3dwQkl0U3laNXY4MnAtbjVfLVJKQ0ZZZC1YUlpmNlBvQWk1WmZnOGU2U3Nfcw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Kos Biotechnology Partners and FORTH Announce Strategic Partnership to Advance Biotechnology Innovation in Greece",
+      "acquirer": "Kos Biotechnology Partners",
+      "date": "16 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/kos-biotechnology-partners-and-forth-announce-strategic-partnership-to-advance-biotechnology-innovation-in-greece-302940869.html",
+      "status": "reported"
+    },
+    {
+      "target": "Lilly’s new $1.5B acquisition is a preclinical Massachusetts biotech",
+      "acquirer": null,
+      "date": "16 Nov 2026",
+      "deal_value_usd": 1500000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGZsNThLeTVJWHo1dlZTcXRMM3BYd2JwWVdhdHV2bzhvMGNHaFFIaXdfdVEzWHNJd2ZlN3RPbGdvVDZQRmtTci1iX1dCck4tamthUmVRWmJtRnNvWURHQlJwdDBLWU9NbFJGN01QQnltSnpvWUlXVUhCblZEYm1MdEtxREtMdw?oc=5",
       "status": "reported",
       "source": "news"
     }
