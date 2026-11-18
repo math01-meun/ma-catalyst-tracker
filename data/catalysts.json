@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T23:23:09.771825+00:00",
+  "last_updated": "2026-11-18T17:00:10.117822+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2633,6 +2633,16 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/astromech-acquires-form-bio-bringing-together-evolutionary-ai-and-genetic-medicine-design-under-one-directive-302942460.html",
       "status": "reported"
+    },
+    {
+      "target": "Drugs Made in America Acquisition II announces $250 million funding and preliminary Alpha AI Biotech proposal",
+      "acquirer": null,
+      "date": "18 Nov 2026",
+      "deal_value_usd": 250000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeHAwODhqWm5nMU9lNmtVdE04UVhKeXJNZVBIQi02TW9oaG9LcDVrV1ZENDBfNzFoQVZaanhMSzdrSW15bVB3LV9jbmx3WV9UUThuNzNyYlVqdUFacHd0a05MX3c4amtQbHl0RmcyWW1CeFlLVVhjdEdHcS1BR3Uzd3Y1WjVKLWtOX0JvM0hkbGlNX014aHotVXlhZkQ5QlliNXlydmRJbS10dE9lNlpBR3FVTGJiQ0pueXFRVUhnYmNrUnltOE1MbVowR1llX0k3dHBFNW9WRXhZTjdwaEJmaklWQnRWMkJzX2JteV9BcDI4YURUalJSWElrQ2p0Zw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
