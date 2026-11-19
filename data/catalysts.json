@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T17:00:10.117822+00:00",
+  "last_updated": "2026-11-19T12:36:17.595557+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2641,6 +2641,25 @@
       "deal_value_usd": 250000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeHAwODhqWm5nMU9lNmtVdE04UVhKeXJNZVBIQi02TW9oaG9LcDVrV1ZENDBfNzFoQVZaanhMSzdrSW15bVB3LV9jbmx3WV9UUThuNzNyYlVqdUFacHd0a05MX3c4amtQbHl0RmcyWW1CeFlLVVhjdEdHcS1BR3Uzd3Y1WjVKLWtOX0JvM0hkbGlNX014aHotVXlhZkQ5QlliNXlydmRJbS10dE9lNlpBR3FVTGJiQ0pueXFRVUhnYmNrUnltOE1MbVowR1llX0k3dHBFNW9WRXhZTjdwaEJmaklWQnRWMkJzX2JteV9BcDI4YURUalJSWElrQ2p0Zw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Innogen Pharmaceuticals Enters into Licensing Agreement with Arcera Life Sciences for Efsubaglutide Alfa, Accelerating International Expansion",
+      "acquirer": null,
+      "date": "19 Nov 2026",
+      "deal_value_usd": 38000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/innogen-pharmaceuticals-enters-into-licensing-agreement-with-arcera-life-sciences-for-efsubaglutide-alfa-accelerating-international-expansion-302945265.html",
+      "status": "reported"
+    },
+    {
+      "target": "Johnson Winter Slattery advises Gedeon Richter on $600m acquisition of Mayne Pharma Group",
+      "acquirer": null,
+      "date": "17 Nov 2026",
+      "deal_value_usd": 600000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVFNd2RVZ3VjRDQwdjdaSkQyLURYWnBXd2hfM294NGhUdjg2bkV2YTlMYmZKQXRYWnJNb0tqTUdndGJ1ZGlYTXViRFNqOHlmMzlhbU5PX0VkRWV0SVNzYWo2dUdLUFl6YjIxWEhJYXY0XzVJS3VaaXI4OTdIaTlWQnF3NEZiemkxUkVoTi1CQmZmY00xRS13anFPbkJSUmViMFF0ZS1kMmFrNnpPVk5tbWkycw?oc=5",
       "status": "reported",
       "source": "news"
     }
