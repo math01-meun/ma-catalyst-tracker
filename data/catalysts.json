@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:36:17.595557+00:00",
+  "last_updated": "2026-11-20T06:14:27.583993+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2660,6 +2660,16 @@
       "deal_value_usd": 600000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVFNd2RVZ3VjRDQwdjdaSkQyLURYWnBXd2hfM294NGhUdjg2bkV2YTlMYmZKQXRYWnJNb0tqTUdndGJ1ZGlYTXViRFNqOHlmMzlhbU5PX0VkRWV0SVNzYWo2dUdLUFl6YjIxWEhJYXY0XzVJS3VaaXI4OTdIaTlWQnF3NEZiemkxUkVoTi1CQmZmY00xRS13anFPbkJSUmViMFF0ZS1kMmFrNnpPVk5tbWkycw?oc=5",
+      "status": "reported",
+      "source": "news"
+    },
+    {
+      "target": "Biotech reverse mergers climb despite a busier IPO market, with $200 million PIPE for Vidya-Processa leading the way",
+      "acquirer": null,
+      "date": "19 Nov 2026",
+      "deal_value_usd": 200000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbXlfb1Uwbi1fenhnLUZNandaZ3Fib2o4Q1NsZW13MEVaUWNtUlg1OC1PcS1XOVJXTENzb0ItWXYySXdXQmRSSTFDQWliNmVrYUkwTmFFRnB3WEE?oc=5",
       "status": "reported",
       "source": "news"
     }
