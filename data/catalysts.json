@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T06:14:27.583993+00:00",
+  "last_updated": "2026-11-20T16:47:11.818425+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2672,6 +2672,15 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbXlfb1Uwbi1fenhnLUZNandaZ3Fib2o4Q1NsZW13MEVaUWNtUlg1OC1PcS1XOVJXTENzb0ItWXYySXdXQmRSSTFDQWliNmVrYUkwTmFFRnB3WEE?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
+      "acquirer": null,
+      "date": "20 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
+      "status": "reported"
     }
   ]
 }
