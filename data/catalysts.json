@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T16:47:11.818425+00:00",
+  "last_updated": "2026-11-21T01:09:08.947014+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2681,6 +2681,16 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
       "status": "reported"
+    },
+    {
+      "target": "Johnson & Johnson’s $3.05 Billion Acquisition Delivers Early Returns as JNJ-6143 Shows Encouraging Early Efficacy",
+      "acquirer": null,
+      "date": "20 Nov 2026",
+      "deal_value_usd": 3050000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFSM092REJPWkVrMW03dUlsWGhZcU95cHpGT0h2TkRjOFc0OHVNbVF4ei1RTFRaby1kREEzREdKU3JFQXp6VFNfc1Y4RlpiX3UycmtOTUlxYkdYQU5Va01ia2NZWENCYnoyVW1sQ3F5VDFXbURZd3NwLTllM1RHSzVOUnJJZHJJT0FwandTcm9Fa19PQWJXcnVNR2FPb2VDeEVvLVJWTGcxLUt6eERYREQ4SDVTSXRxU2JQTEhyMzhjNjlnY2RTVTA4UmNRaHQzdHpFamQ2Z3pIdw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
