@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T01:09:08.947014+00:00",
+  "last_updated": "2026-11-22T05:40:02.326834+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -909,7 +909,7 @@
       "target": "Lipella Pharmaceuticals Inc. Files Voluntary Petitions for Relief Under Chapter 11",
       "acquirer": null,
       "date": "31 Mar 2026",
-      "deal_value_usd": null,
+      "deal_value_usd": 250000000.0,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/03/31/3265106/0/en/lipella-pharmaceuticals-inc-files-voluntary-petitions-for-relief-under-chapter-11.html",
       "status": "reported"
@@ -2691,6 +2691,42 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTFSM092REJPWkVrMW03dUlsWGhZcU95cHpGT0h2TkRjOFc0OHVNbVF4ei1RTFRaby1kREEzREdKU3JFQXp6VFNfc1Y4RlpiX3UycmtOTUlxYkdYQU5Va01ia2NZWENCYnoyVW1sQ3F5VDFXbURZd3NwLTllM1RHSzVOUnJJZHJJT0FwandTcm9Fa19PQWJXcnVNR2FPb2VDeEVvLVJWTGcxLUt6eERYREQ4SDVTSXRxU2JQTEhyMzhjNjlnY2RTVTA4UmNRaHQzdHpFamQ2Z3pIdw?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "Enable Injections and ARespo Biopharma Announce Strategic Partnership",
+      "acquirer": "Enable Injections",
+      "date": "19 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/19/3406425/0/en/enable-injections-and-arespo-biopharma-announce-strategic-partnership.html",
+      "status": "reported"
+    },
+    {
+      "target": "PetMeds Announces Strategic Partnership with Pet Supermarket to Expand Pharmacy Offering Across Retail and Digital Channels",
+      "acquirer": null,
+      "date": "09 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/09/3398971/10002/en/petmeds-announces-strategic-partnership-with-pet-supermarket-to-expand-pharmacy-offering-across-retail-and-digital-channels.html",
+      "status": "reported"
+    },
+    {
+      "target": "Confluent Medical Technologies Acquires Northern Nitinol, Expanding Advanced Nitinol Rapid Prototyping Capabilities",
+      "acquirer": "Confluent Medical Technologies",
+      "date": "06 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/06/3397909/0/en/confluent-medical-technologies-acquires-northern-nitinol-expanding-advanced-nitinol-rapid-prototyping-capabilities.html",
+      "status": "reported"
+    },
+    {
+      "target": "SRX Global Provides Update on Engineered T-Cell Strategy Following Pfizer–Starna Licensing Agreement",
+      "acquirer": null,
+      "date": "20 Nov 2026",
+      "deal_value_usd": 330000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/20/3407743/0/en/srx-global-provides-update-on-engineered-t-cell-strategy-following-pfizer-starna-licensing-agreement.html",
+      "status": "reported"
     }
   ]
 }
