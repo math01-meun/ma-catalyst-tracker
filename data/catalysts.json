@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T00:37:37.331367+00:00",
+  "last_updated": "2026-11-23T14:09:42.993138+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2746,6 +2746,24 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZkYtSEpYamNpU2NGdjMxbWhzUkgzNmNCY1ZMUjhzSEItbWp2TjR4cEtXUjQtVmhKd0ZMcjBhRzlWd0NfVlc0aUVaVmJDb005MHYyTEh0RjBKVEZwNXhXQ1pjQkpoU1NiS3QzaThCZGJxNzZDQXJuZFFWcDNnUkxwN2x4bzB1VDhlZVVDRlN1bHd2V09TR1R3YUdpVE80aU95eURZTVliMFB4RE1JcGV5SGhadGZnS2Z3SGpTSzlERFFSR0I0MlBKYmhNZi1sTXk2V0JqYzhCTElVZGRvdFFYUzhNVmlXRVJJY0JnNm9QbHdiS2E4ZWk4UTVXT1d5aWdwU2tXTGx1aw?oc=5",
       "status": "reported",
       "source": "news"
+    },
+    {
+      "target": "LoQus23 Therapeutics Acquired by Lilly to Accelerate Development of Novel Small Molecule Therapy for Huntington’s Disease",
+      "acquirer": null,
+      "date": "23 Nov 2026",
+      "deal_value_usd": 725000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/23/3408071/0/en/loqus23-therapeutics-acquired-by-lilly-to-accelerate-development-of-novel-small-molecule-therapy-for-huntington-s-disease.html",
+      "status": "reported"
+    },
+    {
+      "target": "Fapon Biopharma and MediLink Therapeutics Sign VHH Licensing Agreement, Accelerating Clinical Translation of TCE Platform",
+      "acquirer": "Fapon Biopharma",
+      "date": "23 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/fapon-biopharma-and-medilink-therapeutics-sign-vhh-licensing-agreement-accelerating-clinical-translation-of-tce-platform-302947995.html",
+      "status": "reported"
     }
   ]
 }
