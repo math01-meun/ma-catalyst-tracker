@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T05:40:02.326834+00:00",
+  "last_updated": "2026-11-23T00:37:37.331367+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2727,6 +2727,25 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/11/20/3407743/0/en/srx-global-provides-update-on-engineered-t-cell-strategy-following-pfizer-starna-licensing-agreement.html",
       "status": "reported"
+    },
+    {
+      "target": "Specialised Therapeutics and DKSH Partner to Expand Access to Cancer Medicines in Vietnam",
+      "acquirer": null,
+      "date": "22 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Oncology",
+      "link": "https://www.prnewswire.com/news-releases/specialised-therapeutics-and-dksh-partner-to-expand-access-to-cancer-medicines-in-vietnam-302946416.html",
+      "status": "reported"
+    },
+    {
+      "target": "Avenzo Therapeutics: Merger launches a Nasdaq-listed oncology biotech with $215M in new capital",
+      "acquirer": null,
+      "date": "20 Nov 2026",
+      "deal_value_usd": 215000000.0,
+      "therapeutic_area": "Oncology",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZkYtSEpYamNpU2NGdjMxbWhzUkgzNmNCY1ZMUjhzSEItbWp2TjR4cEtXUjQtVmhKd0ZMcjBhRzlWd0NfVlc0aUVaVmJDb005MHYyTEh0RjBKVEZwNXhXQ1pjQkpoU1NiS3QzaThCZGJxNzZDQXJuZFFWcDNnUkxwN2x4bzB1VDhlZVVDRlN1bHd2V09TR1R3YUdpVE80aU95eURZTVliMFB4RE1JcGV5SGhadGZnS2Z3SGpTSzlERFFSR0I0MlBKYmhNZi1sTXk2V0JqYzhCTElVZGRvdFFYUzhNVmlXRVJJY0JnNm9QbHdiS2E4ZWk4UTVXT1d5aWdwU2tXTGx1aw?oc=5",
+      "status": "reported",
+      "source": "news"
     }
   ]
 }
