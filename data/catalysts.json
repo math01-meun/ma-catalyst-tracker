@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T02:46:36.558727+00:00",
+  "last_updated": "2026-11-24T14:38:19.968618+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2781,6 +2781,69 @@
       "deal_value_usd": null,
       "therapeutic_area": "Other Biotech",
       "link": "https://www.prnewswire.com/news-releases/madison-dearborn-partners-to-acquire-peli-biothermal-a-trusted-cold-chain-solutions-provider-from-pelican-products-and-platinum-equity-302948213.html",
+      "status": "reported"
+    },
+    {
+      "target": "Polyrizon Signs Definitive Agreement to Acquire a Leading Global Private Aviation Company",
+      "acquirer": "Polyrizon Signs Definitive Agreement",
+      "date": "24 Nov 2026",
+      "deal_value_usd": 17200000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409272/0/en/polyrizon-signs-definitive-agreement-to-acquire-a-leading-global-private-aviation-company.html",
+      "status": "reported"
+    },
+    {
+      "target": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
+      "acquirer": "Press Release: Sanofi",
+      "date": "24 Nov 2026",
+      "deal_value_usd": 41000000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409002/0/en/press-release-sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future.html",
+      "status": "reported"
+    },
+    {
+      "target": "Jushi Holdings Inc. Provides Business Updates",
+      "acquirer": null,
+      "date": "24 Nov 2026",
+      "deal_value_usd": 4250000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409177/0/en/jushi-holdings-inc-provides-business-updates.html",
+      "status": "reported"
+    },
+    {
+      "target": "Healthcare Holding Schweiz acquires share in FOCS",
+      "acquirer": "Healthcare Holding Schweiz",
+      "date": "24 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Cardiovascular / Metabolic",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409028/0/en/healthcare-holding-schweiz-acquires-share-in-focs.html",
+      "status": "reported"
+    },
+    {
+      "target": "MPN Therapeutics Acquires Antibody Candidate with Best-in-Class Potential for the Treatment of Polycythemia Vera",
+      "acquirer": "MPN Therapeutics",
+      "date": "24 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/mpn-therapeutics-acquires-antibody-candidate-with-best-in-class-potential-for-the-treatment-of-polycythemia-vera-302948828.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sentinel Capital Partners Acquires GSI Group Holdings",
+      "acquirer": "Sentinel Capital Partners",
+      "date": "24 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/sentinel-capital-partners-acquires-gsi-group-holdings-302948842.html",
+      "status": "reported"
+    },
+    {
+      "target": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
+      "acquirer": "Sanofi",
+      "date": "24 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Immunology",
+      "link": "https://www.prnewswire.com/news-releases/sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future-302949056.html",
       "status": "reported"
     }
   ]
