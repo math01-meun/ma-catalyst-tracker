@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T14:38:19.968618+00:00",
+  "last_updated": "2026-11-25T00:26:11.232757+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2844,6 +2844,24 @@
       "deal_value_usd": null,
       "therapeutic_area": "Immunology",
       "link": "https://www.prnewswire.com/news-releases/sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future-302949056.html",
+      "status": "reported"
+    },
+    {
+      "target": "Remix Therapeutics Completes Closing of Merger with Passage Bio and Previously Announced $100 Million Private Placement",
+      "acquirer": "Remix Therapeutics Completes Closing of Merger with Passage Bio",
+      "date": "24 Nov 2026",
+      "deal_value_usd": 100000000.0,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409891/0/en/remix-therapeutics-completes-closing-of-merger-with-passage-bio-and-previously-announced-100-million-private-placement.html",
+      "status": "reported"
+    },
+    {
+      "target": "SafeSpace Global Announces Fiscal 2026 Annual Report and Fiscal 2027 Revenue Growth Strategy",
+      "acquirer": null,
+      "date": "24 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409931/0/en/safespace-global-announces-fiscal-2026-annual-report-and-fiscal-2027-revenue-growth-strategy.html",
       "status": "reported"
     }
   ]
