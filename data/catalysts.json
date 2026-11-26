@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T00:26:11.232757+00:00",
+  "last_updated": "2026-11-26T13:38:05.903812+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2270,14 +2270,16 @@
       "source": "news"
     },
     {
-      "target": "RPG Life Sciences earmarks $59 million for another acquisition, targets 25% API growth",
-      "acquirer": null,
-      "date": "05 Nov 2026",
-      "deal_value_usd": 59000000.0,
-      "therapeutic_area": "Other Biotech",
+      "target": "Cedars-Sinai Medical Center (Exclusive Global License)",
+      "acquirer": "AcqCorpLXII (Fortress Biotech)",
+      "status": "Licensing",
+      "date": "10 Nov 2026",
+      "deal_value_usd": 60800000.0,
+      "deal_value_text": "Upfront US$0.2M cash + approximately US$0.6M equity / Up to approximately US$60.8M, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Gastroenterology / IBS-D",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNW41N3R1SUZIQURQc2JaWHZnaVZzS19IaFM5aXlOQ3VEVE9vNmN6M1NsdnBIeWoxSzVyRVp1cjliN1A3Y2ZaV2tOczZOVlFPTnVzY054clNOcWY0Tkdrak9HeGhPUTc3Q1ZUNnc4aVV5YjZVanFxWG0xWFc1X2F5Smw1d3FTLXF2dFlPVHVaVlg5Q0lpbFhYLW8wZXhfQUpSSUpnSTh0c01mVjRNMnlzb280cTFBNnMzb0o3WnpuaEtxMG5aeEE?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "ANI Pharmaceuticals to Acquire Egetis Therapeutics, Egetis Sells Priority Review Voucher for $190 Million",
@@ -2607,14 +2609,16 @@
       "status": "reported"
     },
     {
-      "target": "Lilly’s new $1.5B acquisition is a preclinical Massachusetts biotech",
-      "acquirer": null,
+      "target": "Calytrix Bio",
+      "acquirer": "Eli Lilly",
+      "status": "Private",
       "date": "16 Nov 2026",
       "deal_value_usd": 1500000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Up to US$1.5B",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Oncology / Myelofibrosis / Essential thrombocythemia",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGZsNThLeTVJWHo1dlZTcXRMM3BYd2JwWVdhdHV2bzhvMGNHaFFIaXdfdVEzWHNJd2ZlN3RPbGdvVDZQRmtTci1iX1dCck4tamthUmVRWmJtRnNvWURHQlJwdDBLWU9NbFJGN01QQnltSnpvWUlXVUhCblZEYm1MdEtxREtMdw?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "Dechra acquires biotechnology company, Gallant Pet, Inc.",
@@ -2626,13 +2630,16 @@
       "status": "reported"
     },
     {
-      "target": "Astromech Acquires Form Bio, Bringing Together Evolutionary AI and Genetic Medicine Design Under One Directive",
+      "target": "Form Bio",
       "acquirer": "Astromech",
+      "status": "Private",
       "date": "17 Nov 2026",
-      "deal_value_usd": null,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 230000000.0,
+      "deal_value_text": "US$230M in stock",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Genetic medicine / AI-enabled drug discovery",
       "link": "https://www.prnewswire.com/news-releases/astromech-acquires-form-bio-bringing-together-evolutionary-ai-and-genetic-medicine-design-under-one-directive-302942460.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Drugs Made in America Acquisition II announces $250 million funding and preliminary Alpha AI Biotech proposal",
@@ -2645,13 +2652,16 @@
       "source": "news"
     },
     {
-      "target": "Innogen Pharmaceuticals Enters into Licensing Agreement with Arcera Life Sciences for Efsubaglutide Alfa, Accelerating International Expansion",
-      "acquirer": null,
+      "target": "Innogen Pharmaceuticals (Regional License)",
+      "acquirer": "Arcera Life Sciences",
+      "status": "Licensing",
       "date": "19 Nov 2026",
-      "deal_value_usd": 38000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_usd": 1000000000.0,
+      "deal_value_text": "Upfront US$15M / More than US$1B potential total, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Metabolic disease / Diabetes",
       "link": "https://www.prnewswire.com/news-releases/innogen-pharmaceuticals-enters-into-licensing-agreement-with-arcera-life-sciences-for-efsubaglutide-alfa-accelerating-international-expansion-302945265.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Johnson Winter Slattery advises Gedeon Richter on $600m acquisition of Mayne Pharma Group",
@@ -2664,14 +2674,16 @@
       "source": "news"
     },
     {
-      "target": "Biotech reverse mergers climb despite a busier IPO market, with $200 million PIPE for Vidya-Processa leading the way",
-      "acquirer": null,
-      "date": "19 Nov 2026",
+      "target": "Tempus AI (Oncology Data and Services Renewal)",
+      "acquirer": "AstraZeneca",
+      "status": "Licensing",
+      "date": "18 Nov 2026",
       "deal_value_usd": 200000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Upfront Not separately disclosed / US$200M committed fees over 2027–2031",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbXlfb1Uwbi1fenhnLUZNandaZ3Fib2o4Q1NsZW13MEVaUWNtUlg1OC1PcS1XOVJXTENzb0ItWXYySXdXQmRSSTFDQWliNmVrYUkwTmFFRnB3WEE?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
       "target": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
@@ -2720,13 +2732,16 @@
       "status": "reported"
     },
     {
-      "target": "SRX Global Provides Update on Engineered T-Cell Strategy Following Pfizer–Starna Licensing Agreement",
-      "acquirer": null,
-      "date": "20 Nov 2026",
-      "deal_value_usd": 330000000.0,
-      "therapeutic_area": "Other Biotech",
+      "target": "Starna Therapeutics (Exclusive License and Research Options)",
+      "acquirer": "Pfizer",
+      "status": "Licensing",
+      "date": "18 Nov 2026",
+      "deal_value_usd": 2630000000.0,
+      "deal_value_text": "Upfront US$330M / Up to US$2.63B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Immunology / Autoimmune disease; oncology platform rights",
       "link": "https://www.globenewswire.com/news-release/2026/11/20/3407743/0/en/srx-global-provides-update-on-engineered-t-cell-strategy-following-pfizer-starna-licensing-agreement.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Specialised Therapeutics and DKSH Partner to Expand Access to Cancer Medicines in Vietnam",
@@ -2738,23 +2753,28 @@
       "status": "reported"
     },
     {
-      "target": "Avenzo Therapeutics: Merger launches a Nasdaq-listed oncology biotech with $215M in new capital",
-      "acquirer": null,
-      "date": "20 Nov 2026",
-      "deal_value_usd": 215000000.0,
-      "therapeutic_area": "Oncology",
+      "target": "Genomics Ltd. (Drug Discovery Collaboration Extension)",
+      "acquirer": "Vertex Pharmaceuticals",
+      "status": "Licensing",
+      "date": "18 Nov 2026",
+      "deal_value_usd": 220000000.0,
+      "deal_value_text": "Upfront Not disclosed / More than US$220M potential contract value, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Multiple disease areas; specific programmes undisclosed",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZkYtSEpYamNpU2NGdjMxbWhzUkgzNmNCY1ZMUjhzSEItbWp2TjR4cEtXUjQtVmhKd0ZMcjBhRzlWd0NfVlc0aUVaVmJDb005MHYyTEh0RjBKVEZwNXhXQ1pjQkpoU1NiS3QzaThCZGJxNzZDQXJuZFFWcDNnUkxwN2x4bzB1VDhlZVVDRlN1bHd2V09TR1R3YUdpVE80aU95eURZTVliMFB4RE1JcGV5SGhadGZnS2Z3SGpTSzlERFFSR0I0MlBKYmhNZi1sTXk2V0JqYzhCTElVZGRvdFFYUzhNVmlXRVJJY0JnNm9QbHdiS2E4ZWk4UTVXT1d5aWdwU2tXTGx1aw?oc=5",
-      "status": "reported",
-      "source": "news"
+      "source": "biobucks"
     },
     {
-      "target": "LoQus23 Therapeutics Acquired by Lilly to Accelerate Development of Novel Small Molecule Therapy for Huntington’s Disease",
-      "acquirer": null,
+      "target": "LoQus23 Therapeutics",
+      "acquirer": "Eli Lilly",
+      "status": "Private",
       "date": "23 Nov 2026",
       "deal_value_usd": 725000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Up to US$725M",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Neuroscience / Huntington’s disease",
       "link": "https://www.globenewswire.com/news-release/2026/11/23/3408071/0/en/loqus23-therapeutics-acquired-by-lilly-to-accelerate-development-of-novel-small-molecule-therapy-for-huntington-s-disease.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Fapon Biopharma and MediLink Therapeutics Sign VHH Licensing Agreement, Accelerating Clinical Translation of TCE Platform",
@@ -2793,13 +2813,16 @@
       "status": "reported"
     },
     {
-      "target": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
-      "acquirer": "Press Release: Sanofi",
+      "target": "Insmed",
+      "acquirer": "Sanofi",
+      "status": "Public",
       "date": "24 Nov 2026",
       "deal_value_usd": 41000000000.0,
-      "therapeutic_area": "Other Biotech",
+      "deal_value_text": "Approximately US$41B equity value",
+      "premium": "Approximately 46% to the unaffected 18 November closing price",
+      "therapeutic_area": "Respiratory disease / Rare disease",
       "link": "https://www.globenewswire.com/news-release/2026/11/24/3409002/0/en/press-release-sanofi-to-acquire-insmed-in-strategic-step-that-strengthens-long-term-future.html",
-      "status": "reported"
+      "source": "biobucks"
     },
     {
       "target": "Jushi Holdings Inc. Provides Business Updates",
@@ -2863,6 +2886,78 @@
       "therapeutic_area": "Other Biotech",
       "link": "https://www.globenewswire.com/news-release/2026/11/24/3409931/0/en/safespace-global-announces-fiscal-2026-annual-report-and-fiscal-2027-revenue-growth-strategy.html",
       "status": "reported"
+    },
+    {
+      "target": "Ollin Biosciences",
+      "acquirer": "Johnson & Johnson",
+      "status": "Private",
+      "date": "16 Nov 2026",
+      "deal_value_usd": 3325000000.0,
+      "deal_value_text": "Up to US$3.325B",
+      "premium": "Not disclosed",
+      "therapeutic_area": "Ophthalmology / Retinal disease",
+      "link": "https://www.biobucks.co/biotech-ma-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "DISCO Pharmaceuticals (Research Collaboration and Option-to-License)",
+      "acquirer": "AbbVie",
+      "status": "Licensing",
+      "date": "19 Nov 2026",
+      "deal_value_usd": 2540000000.0,
+      "deal_value_text": "Upfront US$40M / Up to US$2.54B, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Solid tumours",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "BioLineRx (Royalty Rights Monetisation)",
+      "acquirer": "Soleus Capital",
+      "status": "Licensing",
+      "date": "18 Nov 2026",
+      "deal_value_usd": 5600000.0,
+      "deal_value_text": "Upfront US$5.6M at closing / US$5.6M",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology / Stem-cell mobilisation",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Stipple Bio (Multi-target Oncology Research Collaboration and License)",
+      "acquirer": "Eli Lilly",
+      "status": "Licensing",
+      "date": "16 Nov 2026",
+      "deal_value_usd": 5900000000.0,
+      "deal_value_text": "Upfront Undisclosed upfront payment and equity investment / Up to US$5.9B milestones, plus undisclosed upfront/equity and royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Oncology",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "Seawolf Therapeutics (Research Collaboration and Exclusive License)",
+      "acquirer": "Sanofi",
+      "status": "Licensing",
+      "date": "16 Nov 2026",
+      "deal_value_usd": 1200000000.0,
+      "deal_value_text": "Upfront Not disclosed / Up to US$1.2B milestones, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Rare disease / Bleeding disorders; additional undisclosed indications",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
+    },
+    {
+      "target": "TrimTech Therapeutics (Research Collaboration, Option and License)",
+      "acquirer": "Biogen",
+      "status": "Licensing",
+      "date": "16 Nov 2026",
+      "deal_value_usd": 411000000.0,
+      "deal_value_text": "Upfront Up to US$32M combined upfront and research milestones / Up to US$411M total, plus royalties",
+      "premium": "N/A",
+      "therapeutic_area": "Neuroscience / Neurodegenerative disease",
+      "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
+      "source": "biobucks"
     }
   ]
 }
