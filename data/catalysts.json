@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T13:38:05.903812+00:00",
+  "last_updated": "2026-11-27T13:33:34.117081+00:00",
   "source": "BioBucks M&A Tracker 2026",
   "deals": [
     {
@@ -2958,6 +2958,15 @@
       "therapeutic_area": "Neuroscience / Neurodegenerative disease",
       "link": "https://www.biobucks.co/biotech-bdl-tracker-2026",
       "source": "biobucks"
+    },
+    {
+      "target": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma",
+      "acquirer": "EQT Healthcare Growth",
+      "date": "27 Nov 2026",
+      "deal_value_usd": null,
+      "therapeutic_area": "Other Biotech",
+      "link": "https://www.prnewswire.com/news-releases/eqt-healthcare-growth-to-acquire-majority-stake-in-specialty-european-pharmaceutical-business-kelso-pharma-302951594.html",
+      "status": "reported"
     }
   ]
 }
